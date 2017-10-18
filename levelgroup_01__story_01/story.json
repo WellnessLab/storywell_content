@@ -25,7 +25,7 @@
       "id": 3,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__04__ver_01__item_01.jpg",
-      "text": "So the two elephants run up and down the grassland after the flying red hat blown by the wind.\nA strong wind.",
+      "text": "So the two elephants run up and down the grassland after the flying red hat blown by the wind.\n\nA strong wind.",
       "subtext": null
     },
     {
@@ -39,7 +39,7 @@
       "id": 5,
       "type": "REFLECTION",
       "img_url": null,
-      "text": "Can you tell me a time when you were active with your %s?",
+      "text": "Can you tell me a time when you were active with your Mom?",
       "subtext": "Active means any things you do that makes you sweat or out of breath. For example: running, playing in the park, dancing, or swimming.",
       "isDelayNext": true
     },
