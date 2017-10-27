@@ -1,1 +1,1 @@
-# storytelling_contents
+# Contents for the Storytelling app
