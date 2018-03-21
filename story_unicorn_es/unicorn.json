@@ -1,0 +1,241 @@
+{
+  "contents": [
+    {
+      "id": 0,
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/cover.png",
+      "text": "¿Alguna vez has visto un unicornio?",
+      "subtext": "Capítulo 1: \n\n Algo mágico detrás del bosque"
+    },
+    {
+      "id": 1,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__01__ver_01__item_01.jpg",
+      "text": "Era un día caluroso de verano, cuando Edith se sentó en el borde del lago, y dibujó una ardilla llevar una bellota. \n\n Como es una chica con mucha imaginación, ella no comparte con muchos niños porque no tienen mucha imaginación.",
+      "subtext": null
+    },
+    {
+      "id": 2,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__02__ver_01__item_01.jpg",
+      "text": "De repente la ardilla se escapó, saltando rápido al bosque denso que está cerca. \n\n Con su dibujo medio terminado, Edith persiguió a la pequeña criatura a la densa selva. \n\n Ella corrió cuidadosamente mientras que iba a lo más profundo de la selva hasta que vio cosas mágicas que ella nunca ha visto.",
+      "subtext": null
+    },
+    {
+      "id": 3,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__04__ver_01__item_01.jpg",
+      "text": " Era un unicornio. \n\n Casi como un caballo, pero era brillante y blanco. Con su estatura esbelta caminó con gracia sin notar a Edith, que se encontraba asombrada. \n\n Edith estaba sin aliento y sudando un poco, pero sin embargo ella dijo \"Hola\" con entusiasmo a la criatura maravillosa.",
+      "subtext": null
+    },
+    {
+      "id": 4,
+      "type": "REFLECTION_START",
+      "img_url": null,
+      "text": "Cuénteme una historia. Hábleme de una actividad física que lo deja cansado pero también emocionado?",
+      "subtext": ""
+    },
+    {
+      "id": 5,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "¿Dime por qué se siente emocionado a pesar de que esta cansado.",
+      "subtext": "",
+      "isDelayNext": true
+    },
+    {
+      "id": 6,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "A veces, las actividades pueden hacer que se sienta cansado, pero también lo hacen sentir bien!",
+      "subtext": ""
+    },
+    {
+      "id": 7,
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__01__ver_01__item_01.jpg",
+      "text": "Capítulo 2: \n\n Unicornio corre",
+      "subtext": null
+    },
+    {
+      "id": 8,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__02__ver_01__item_01.jpg",
+      "text": "En lo profundo del bosque, había un unicornio magnífico caminando con gracia, sin saber que Edith estaba de pie cerca de él. \n\n Edith, por el otro lado, quiere tomar una foto de esta hermosa criatura. \n\n Caminó con cuidado, tratando de no jadear ni suspirar, y mucho menos sin susurrar una palabra.",
+      "subtext": null
+    },
+    {
+      "id": 9,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__04__ver_01__item_01.jpg",
+      "text": "Edith caminó con cuidado para acercarse al unicornio con su cámara en su mano derecha. Sus pasos fueron muy silenciosos porque no quería alarmar al unicornio. \n\n Entonces ocurrió algo inesperado. \n\n \"Snap!\" \n\n Ella pisó una ramita pequeña y seca que hizo un ruido lo suficientemente fuerte para atrapar al unicornio desprevenido.",
+      "subtext": null
+    },
+    {
+      "id": 10,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/cover.png",
+      "text": "El Unicornio, sorprendido y aturdido, huyó inmediatamente.\n\n Edith persiguió al unicornio tan rápido como pudo. Sudaba poco a poco y se quedaba sin aliento. Pero su corazón palpitaba del entusiasmo porque esta es la primera vez que vio un unicornio tan guapo y magnífico.",
+      "subtext": ""
+    },
+    {
+      "id": 11,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "¿Puede contarme una historia? Cuénteme una historia acerca de cuándo está haciendo una nueva actividad física.",
+      "isDelayNext": true
+    },
+    {
+      "id": 12,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "¿Qué buenos sentimientos tuvo usted cuando estaba haciendo una nueva actividad física?",
+      "subtext": "",
+      "isDelayNext": true
+    },
+    {
+      "id": 13,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "¡Se debe felicitar a usted mismo cuando está haciendo una nueva actividad física! \n\n Mientras mas cosas nuevas usted haga más actividades saludables podrá hacer.",
+      "subtext": ""
+    },
+    {
+      "id": 14,
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__01__ver_01__item_01.jpg",
+      "text": "Capítulo 3: los zapatos del unicornio",
+      "subtext": null
+    },
+    {
+      "id": 15,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__02__ver_01__item_01.jpg",
+      "text": "No fue hasta cerca de mil pasos que Edith comenzó a sobrepasar al unicornio. \n\n \"Oye Uni\", dijo Edith. \"No tengas miedo, todo lo que quiero es tomarte una foto.\" \n\n Pero el Unicornio estaba tan asustado que siguió corriendo aunque no tan rápido como Edith.",
+      "subtext": null
+    },
+    {
+      "id": 16,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__04__ver_01__item_01.jpg",
+      "text": "De repente, el unicornio se paró, hizo una pausa y miró a Edith. \n\n En ese momento, el unicornio gritó y se echó a llorar. \n\n Edith rápidamente abrazó al unicornio y dijo: \"No, no no llores Uni, no voy a lastimarte, solo quiero tomarte una foto!\" ",
+      "subtext": null
+    },
+    {
+      "id": 17,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__01__ver_01__item_01.jpg",
+      "text": "Entonces el unicornio, habló con un acento británico. \n\n \"No tengo miedo de usted. De hecho, parece una chica muy amable\", dijo el unicornio. \"Pero perdí mi zapato volador. Sin mi zapato volador, no puedo flotar, volar, ni patinar.\" \"Si no puedo volar, llegaré tarde a la fiesta de cumpleaños de mi mejor amigo\", dijo el Unicornio.",
+      "subtext": null
+    },
+    {
+      "id": 18,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__02__ver_01__item_01.jpg",
+      "text": "\"Oh, yo te puedo ayudar con eso!\", dijo Edith. \n\n  \"Soy buena para encontrar cosas perdidas. ¡Soy un buscadora de cosas perdidas!\" \n\n \"Vamos a volver hacia nuestros pasos para encontrar tus zapatos y no llegarás tarde a tu fiesta de cumpleaños\", dijo Edith.\n\nA medida que caminamos de regreso siguiendo sus pasos, vieron una luz centelleando mientras flotaba encima de un lago brillante.",
+      "subtext": null
+    },
+    {
+      "id": 19,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__01__ver_01__item_01.jpg",
+      "text": "\"Esos son mis zapatos\", dijo el Unicornio. \n\n \"Sus zapatos sí que brillan\", dijo Edith. \"Pero están volando y flotando sobre el lago, ¿Cómo los consigo?\", preguntó el Unicornio. \n\n \"Puedo saltar a esas pequeñas islas en el lago y agarrar sus zapatos\", dijo Edith.",
+      "subtext": null
+    },
+    {
+      "id": 20,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__02__ver_01__item_01.jpg",
+      "text": "Edith saltó cuidadosamente sobre las islas dentro del lago, una por una, hasta que estaba lo suficientemente cerca de los zapatos flotantes y brillantes del unicornio. \n\n \"Conseguí tus zapatos!\", dijo Edith. \n\n El Unicornio aplaudió con sus manos parecidas a las de un caballo.",
+      "subtext": null
+    },
+    {
+      "id": 21,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "¿Puede decirme una historia? Piense en un momento en que usted ha ayudado a alguien a ser más activo físicamente.",
+      "subtext": "",
+      "isDelayNext": true
+    },
+    {
+      "id": 22,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "¿Dígame los sentimientos que tiene cuando ayuda a otros?",
+      "subtext": "",
+      "isDelayNext": true
+    },
+    {
+      "id": 23,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": " ¡Ayudar a otros no tan solo lo hace sano sino también hace a otra gente sana!",
+      "subtext": ""
+    },
+    {
+      "id": 24,
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__04__ver_01__item_01.jpg",
+      "text": "Capítulo 4: Cuando vamos a jugar de nuevo?",
+      "subtext": null
+    },
+      {
+      "id": 25,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__01__ver_01__item_01.jpg",
+      "text": "\"Gracias...?\", preguntó el unicornio. \n\n \"Mi nombre es Edith,\" ella dijo. \n\n \"Gracias Edith. Eres un verdadera amiga\", dijo el unicornio. \n\n \"Ahora tengo que ir a la fiesta de cumpleaños de mi mejor amigo\". El Unicornio comenzó a mover sus magníficas alas y voló alto.",
+      "subtext": null
+    },
+    {
+      "id": 26,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__02__ver_01__item_01.jpg",
+      "text": "Edith está triste que no jugará con el unicornio. \n\n Mientras el unicornio volaba más alto, Edith gritó.\n\n \"¡Podemos jugar otra vez algún día!\"",
+      "subtext": null
+    },
+    {
+      "id": 27,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__01__ver_01__item_01.jpg",
+      "text": "El Unicornio dejó de subir y flotaba en el medio del aire. \n\n \"Voy a traer a mis amigos mañana, y trae a tus amigos también\", dijo el unicornio. \n\n El Unicornio entonces reanudó su vuelo y luego desapareció.",
+      "subtext": null
+    },
+    {
+      "id": 28,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__01__ver_01__item_01.jpg",
+      "text": "Al día siguiente, Edith esperaba en el lugar donde conoció al unicornio la última vez. \n\n Ella trajo a su amiga que dudaba de su historia. \n\n Entonces, exactamente a las 12 en punto, el Unicornio apareció en el cielo. \n\n Los amigos de Edith estaban impresionados.",
+      "subtext": null
+    },
+   {
+      "id": 29,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/page__04__ver_01__item_01.jpg",
+      "text": "Junto al Unicornio, estaba el rinoceronte gris azulado con un par de alas grandes. \n\n \"Edith, esta es mi amiga Regina\", dijo el Unicornio. \"Regina, esta es mi amiga Edith que me inspiró a ser valiente\", dijo el Unicornio. \n\n Y Edith no puede estar más feliz de no sólo tener un nuevo amigo, pero dos nuevos amigos.",
+      "subtext": null
+    },
+     {
+      "id": 30,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "¿Puede contarme una historia? Cuente una historia sobre alguien que usted conoce que inspira su actividad física.",
+      "subtext": "",
+      "isDelayNext": true
+    },
+    {
+      "id": 31,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "¿Cómo lo inspiran a estar más físicamente activo?",
+      "subtext": "",
+      "isDelayNext": true
+    },
+    {
+      "id": 32,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "Admirar a la gente puede ayudarle a ser más saludable a largo plazo.",
+      "subtext": ""
+    }
+  ]
+}
