@@ -76,13 +76,14 @@
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/levelgroup_01__story_01/cover.png",
       "text": "El Unicornio, sorprendido y aturdido, huyó inmediatamente.\n\n Edith persiguió al unicornio tan rápido como pudo. Sudaba poco a poco y se quedaba sin aliento. Pero su corazón palpitaba del entusiasmo porque esta es la primera vez que vio un unicornio tan guapo y magnífico.",
-      "subtext": ""
+      "subtext": null
     },
     {
       "id": 11,
       "type": "REFLECTION",
       "img_url": null,
       "text": "¿Puede contarme una historia? Cuénteme una historia acerca de cuándo está haciendo una nueva actividad física.",
+      "subtext": "",
       "isDelayNext": true
     },
     {
@@ -98,7 +99,7 @@
       "type": "STATEMENT",
       "img_url": "",
       "text": "¡Se debe felicitar a usted mismo cuando está haciendo una nueva actividad física! \n\n Mientras mas cosas nuevas usted haga más actividades saludables podrá hacer.",
-      "subtext": ""
+      "subtext": null
     },
     {
       "id": 14,
@@ -227,7 +228,7 @@
       "type": "REFLECTION",
       "img_url": "",
       "text": "¿Cómo lo inspiran a estar más físicamente activo?",
-      "subtext": "",
+      "subtext": null,
       "isDelayNext": true
     },
     {
@@ -235,7 +236,7 @@
       "type": "STATEMENT",
       "img_url": "",
       "text": "Admirar a la gente puede ayudarle a ser más saludable a largo plazo.",
-      "subtext": ""
+      "subtext": null
     }
   ]
 }
