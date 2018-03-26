@@ -69,6 +69,7 @@ Cobby no saltó muy alto. \n\n ¡Pero se siente bien de todos modos!",
       "type": "REFLECTION",
       "img_url": null,
       "text": "¿Puede contarme una historia? Puede usted pensar en un momento En el cual no quería hacer ejercicio porque estaba asustado queno era lo suficientemente bueno?",
+      "subtext": "",
       "isDelayNext": true
     },
     {
@@ -143,6 +144,7 @@ Pero ella no tiene ninguna idea de lo que es un cowabubaball. \"Todo lo que teng
       "img_url": null,
       "text": "¿Puede contarme una historia? Puede recordar un momentao en el cual 
 Un amigo o un pariente le ayudó a estar activo?",
+      "subtext": "",
       "isDelayNext": true
     },
     {
