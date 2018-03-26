@@ -77,7 +77,7 @@ Cobby no saltó muy alto. \n\n ¡Pero se siente bien de todos modos!",
       "type": "REFLECTION",
       "img_url": "",
       "text": "En lugar de sentir miedo, ¿Cuáles son algunas cosas buenas que puede pensar cuando está haciendo esa actividad?",
-      "subtext": null,
+      "subtext": "",
       "isDelayNext": true
     },
     {
@@ -85,7 +85,7 @@ Cobby no saltó muy alto. \n\n ¡Pero se siente bien de todos modos!",
       "type": "STATEMENT",
       "img_url": "",
       "text": "El entrenamiento no es sobre ser \"el mejor\" todo el tiempo. Es bueno simplemente disfrutar de una actividad física porque hace que su cuerpo se sienta muy bien después.",
-      "subtext": null
+      "subtext": ""
     },
     {
       "id": 12,
