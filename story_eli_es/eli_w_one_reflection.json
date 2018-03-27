@@ -3,7 +3,7 @@
     {
       "id": 0,
       "type": "COVER",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/cover.png",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
       "text": "Eli y el sombrero volador rojo",
       "subtext": ""
     },
@@ -89,7 +89,7 @@
     {
       "id": 13,
       "type": "COVER",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/cover.png",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
       "text": "Capítulo 2",
       "subtext": ""
     },
@@ -124,7 +124,7 @@
     {
       "id": 18,
       "type": "COVER",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/cover.png",
+      "img_url": "hhttp://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
       "text": "Capítulo 3",
       "subtext": ""
     },
@@ -177,43 +177,36 @@
       "text": "Y Eli levantó su cuerpo, y saltó a una gran roca en el río. \n\n Entonces ella saltó y saltó para aterrizar en otra roca hasta que finalmente aterrizó al otro lado del río. \n\n \"Esto no es difícil en lo absoluto!\", dijo Eli.",
       "subtext": null
     },
-      {
+    {
       "id": 34,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c3_06.jpg",
-      "text": "¡Y el sombrero aterrizó en el río! \n\n El río empujó al sombrero más lejos mientras que los elefantes persiguieron al sombrero a lo largo del río. \n\n Hasta que el sombrero terminó  a la deriva al otro lado del río.",
+      "text": "\"¡Mamá! Tengo el sombrero rojo de la señorita Antelope que fue soplado por el viento\", dijo Eli a su mamá.\n\n Pero su mamá todavía estaba al otro lado del río. \n\n \"Mamá tiene que llegar!\" dijo Eli.",
       "subtext": null
     },
     {
       "id": 35,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c3_07.jpg",
-      "text": "\"¡Mamá! Tengo el sombrero rojo de la señorita Antelope que fue soplado por el viento\", dijo Eli a su mamá.\n\n Pero su mamá todavía estaba al otro lado del río. \n\n \"Mamá tiene que llegar!\" dijo Eli.",
-      "subtext": null
-    },
-    {
-      "id": 36,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c3_08.jpg",
       "text": "\"Tienes que llegar aquí porque tienes que ver esto!\", dijo Eli.",
       "subtext": null
     },
      {
-      "id": 37,
+      "id": 36,
       "type": "COVER",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/cover.png",
+      "img_url": "hhttp://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
       "text": "Capítulo 4",
       "subtext": ""
     },
     {
-      "id": 38,
+      "id": 37,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c4_01.jpg",
       "text": "Mamá elefante quiere llegar al otro lado del río. \n\n Así que ella dejó atrás a 10 pies y rápidamente caminó hasta el borde del río.",
       "subtext": null
     },
    {
-      "id": 39,
+      "id": 38,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c4_03.jpg",
       "text": "\"Yipeee!\", dijo mamá. \n\n Después de correr y correr mientras perseguía al sombrero rojo, ella mejoró en otras actividades también! \n\n \"Eres bueno en esta mamá\", dijo Eli.
@@ -221,14 +214,14 @@
       "subtext": null
     },
  	{
-      "id": 43,
+      "id": 42,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c4_04.jpg",
       "text": "Mamá estaba sudando y sin aliento. \"Se siente bien!\", dijo. \n\n Entonces Eli le dijo a su mamá, \"Mira eso, mamá\". Apuntó con sus dedos de elefante mientras señalaba a la orilla del acantilado. \n\n El sol estuvo a punto de ponerse y el valle de encima del acantilado parecía brillar.",
       "subtext": null
     },
     {
-      "id": 44,
+      "id": 43,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c4_05.jpg",
       "text": "Eli y la mamá se sentaron y miraron el sol disminuyendo — el brillo del valle verde con el sombrero rojo que fue soplado por el viento.",
