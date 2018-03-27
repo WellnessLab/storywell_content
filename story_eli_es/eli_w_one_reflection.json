@@ -124,7 +124,7 @@
     {
       "id": 18,
       "type": "COVER",
-      "img_url": "hhttp://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
       "text": "Capítulo 3",
       "subtext": ""
     },
@@ -194,7 +194,7 @@
      {
       "id": 36,
       "type": "COVER",
-      "img_url": "hhttp://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
       "text": "Capítulo 4",
       "subtext": ""
     },
