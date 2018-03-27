@@ -73,16 +73,9 @@
       "subtext": ""
     },
     {
-      "id": 10,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c1_05.jpg",
-      "text": "Eli y mamá fueron a caminar a la pradera. Era un día ventoso.",
-      "subtext": null
-    },
-    {
       "id": 11,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c1_07.jpg",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c1_06.jpg",
       "text": "El sombrero voló y voló hasta que  aterrizó en un árbol. \n\n Pero no en cualquier árbol...",
       "subtext": null
     },
@@ -110,68 +103,68 @@
     {
       "id": 15,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c2_2.jpg",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c2_02.jpg",
       "text": "\"Oye mamá, esto es divertido! Yo puedo soplar al sombrero rojo que está en el árbol de Baobab \", dijo Eli. \n\n \"Eso es porque haces ejercicio a menudo. Te hace sentir bien contigo mismo \", dijo Mamá. \n\n \"Vamos, vamos a soplar a ese sombrero rojo una vez más.\" ",
       "subtext": null
     },
     {
-      "id": 20,
+      "id": 16,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c2_03.jpg",
       "text": "Cuando los elefantes soplaron hacia  el sombrero, una vez más, el sombrero salió y voló muy lejos...",
       "subtext": null
     },
     {
-      "id": 21,
+      "id": 17,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c2_04.jpg",
       "text": "... voló lejos y más lejos...",
       "subtext": null
     },
     {
-      "id": "22",
+      "id": 18,
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/cover.png",
       "text": "Capítulo 3",
       "subtext": ""
     },
 {
-      "id": 23,
+      "id": 19,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c2_04.jpg",
       "text": "El sombrero rojo voló muy lejos...",
       "subtext": null
     },
       {
-      "id": 24,
+      "id": 20,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c2_05.jpg",
-      "text": "¡Y el sombrero aterrizó en el río! \n\n El río empujó al sombrero más lejos mientras que los elefantes persiguieron al sombrero a lo largo del río. \n\n Hasta que el sombrero terminó  a la deriva al otro lado del río.",
+      "text": "¡Y el sombrero aterrizó en el río! \n\n El río empujó al sombrero más lejos mientras que los elefantes persiguieron al sombrero a lo largo del río. \n\n Hasta que el sombrero terminó a la deriva al otro lado del río.",
       "subtext": null
     },
     {
-      "id": 25,
+      "id": 21,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c3_01.jpg",
       "text": "\"¿Qué vamos a hacer?\", dijo Eli. \n\n Entonces una criatura verde viscosa surgió del río. \n\n \"¡Mira! \"es mi amigo Croco! \", dijo Eli.",
       "subtext": null
     },
     {
-      "id": 26,
+      "id": 22,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c3_02.jpg",
       "text": "\"Hola Eli!\", dijo Croco, el pequeño cocodrilo verde. \n\n \"Croco, ¿puedes ayudarme a coger ese sombrero al otro lado del río?\", dijo Eli. \n\n \"Seguro que puedo ayudarte, pero sería más divertido si lo haces tú mismo\", dijo croco.",
       "subtext": null
     },
     {
-      "id": 27,
+      "id": 23,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c3_03.jpg",
       "text": "\"Puedo enseñarte a saltar al otro lado del río\", dijo croco.",
       "subtext": null
     },
     {
-      "id": 28,
+      "id": 24,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_es/c3_04.jpg",
       "text": "Pero Eli no estaba seguro. \"No soy un buen saltador\", dijo Eli. \n\n \"No es difícil en lo absoluto. Te voy a mostrar cómo\", dijo croco. \n\n Y Croco levantó su cuerpo, saltó hacia una roca grande en el río. Luego brincó y saltó otra vez para aterrizar en la otra roca hasta que finalmente aterrizó al otro lado del río.",
