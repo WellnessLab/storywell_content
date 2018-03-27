@@ -37,26 +37,27 @@
       "subtext": null
     },
     {
-      "id": 5,
+      "id": 4,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_es/c1_05.jpg",
+      "text": "\"No me gusta ese juego porque yo siempre fallo,\" dijo Cobby.",
+      "subtext": null
+    },
+    {
+      "id": 5,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_es/c1_06.jpg",
       "text": "Arthur, la alpaca llama, dijo a Cobby, \"Oye, yo no podía saltar muy alto cuando yo empecé a jugar ippominton. Pero ahora puedo saltar mejor.\" \n\n \"Piensa sobre los buenos sentimientos que tienes cuando saltas.\" \n\n \"Así que no importa cuȧn bajo o alto saltes, siempre se sentirá bien.\"",
       "subtext": null
     },
      {
-      "id": 6,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_es/c1_06.jpg",
-      "text": "Otros niños empiezan a saltar. Algunos niños saltan muy alto, otros niños no. \n\n Cobby se dijo a sí mismo, \"Piensa en los buenos sentimientos que tienes mientras saltas.\" \n\n Saltó alto mientras notaba que su cuerpo se sentía muy bien cuando él saltaba.",
-      "subtext": null
-    },
-    {
       "id": 7,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_es/c1_07.jpg",
-      "text": "\"No me gusta ese juego porque yo siempre fallo,\" dijo Cobby.",
+      "text": "Otros niños empiezan a saltar. Algunos niños saltan muy alto, otros niños no. \n\n Cobby se dijo a sí mismo, \"Piensa en los buenos sentimientos que tienes mientras saltas.\" \n\n Saltó alto mientras notaba que su cuerpo se sentía muy bien cuando él saltaba.",
       "subtext": null
-    }, {
+    },
+	{
       "id": 8,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_es/c1_08.jpg",
