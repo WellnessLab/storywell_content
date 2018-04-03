@@ -3,7 +3,7 @@
     {
       "id": 0,
       "type": "COVER",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_es/main.jpg",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_en/cobby_cover.png",
       "text": "Cobby la vaca Y el juego de Cowabubaball",
       "subtext": "Capítulo 1 \n\n Aterrizar en Ippolandia"
     },
@@ -91,7 +91,7 @@ Cobby no saltó muy alto. \n\n ¡Pero se siente bien de todos modos!",
     {
       "id": 12,
       "type": "COVER",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_es/main.jpg",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_en/cobby_cover.png",
       "text": "Capítulo 2 \n\n Buscando un cowabuball",
       "subtext": ""
     },
@@ -142,7 +142,7 @@ Pero ella no tiene ninguna idea de lo que es un cowabubaball. \"Todo lo que teng
     {
       "id": 20,
       "type": "COVER",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_es/cover.png",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_en/cobby_cover.png",
       "text": "Capítulo 3 \n\n Enseñando cowabuball",
       "subtext": ""
     },
@@ -207,7 +207,7 @@ Ella trató de correr y atrapar la pelota, pero al igual que Arthur llegó cansa
     {
       "id": 33,
       "type": "COVER",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_es/main.jpg",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_en/cobby_cover.png",
       "text": "Capítulo 4 \n\n Un nuevo juego",
       "subtext": null
     },
@@ -235,7 +235,7 @@ Ella trató de correr y atrapar la pelota, pero al igual que Arthur llegó cansa
      {
       "id": 37,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_es/c4_04.png",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_es/c4_04.jpg",
       "text": "\"¿Por qué no sólo jugar Cowaminton?\", dijo el Sr. José, que estaba de pie cerca. \n\n \"¿Qué es Cowaminton?\" Cobby preguntó. \n\n \"Cowaminton es como cowabubaball, pero no realmente. También es como ippominton, pero no realmente\", dijo el Sr. José.",
       "subtext": ""
     },
