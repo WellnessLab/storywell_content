@@ -29,13 +29,6 @@
       "subtext": null
     },
     {
-      "id": 4,
-      "type": "REFLECTION_START",
-      "img_url": null,
-      "text": "You found a secret envelope!",
-      "subtext": "Tap on the envelope to see what's inside!"
-    },
-    {
       "id": 5,
       "type": "REFLECTION",
       "img_url": null,
@@ -63,7 +56,7 @@
       "id": 9,
       "type": "CHALLENGE",
       "img_url": "",
-      "text": "Do you want know what's going to happen next?,
+      "text": "Do you want know what's going to happen next?",
       "subtext": "To read the rest of the story you and your Mom have to complete a one-week challenge.",
       "isDelayNext": true
     },
