@@ -41,7 +41,8 @@
       "img_url": null,
       "text": "Can you tell me a time when you were active with your Mom?",
       "subtext": "Active means any things you do that makes you sweat or out of breath. For example: running, playing in the park, dancing, or swimming.",
-      "isDelayNext": true
+      "isDelayNext": true,
+      "isShowReflectionStart": true
     },
     {
       "id": 6,
