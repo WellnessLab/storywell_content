@@ -59,18 +59,11 @@
       "subtext": ""
     },
     {
-      "id": 8,
-      "type": "CHALLENGE_INFO",
-      "img_url": "",
-      "text": "Do you want know what's going to happen next?",
-      "subtext": "To read the rest of the story you and your Mom have to complete a one-week challenge."
-    },
-    {
       "id": 9,
       "type": "CHALLENGE",
       "img_url": "",
-      "text": null,
-      "subtext": null,
+      "text": "Do you want know what's going to happen next?,
+      "subtext": "To read the rest of the story you and your Mom have to complete a one-week challenge.",
       "isDelayNext": true
     },
     {
