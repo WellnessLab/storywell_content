@@ -59,13 +59,6 @@
       "text": "Do you want know what's going to happen next?",
       "subtext": "To read the rest of the story you and your Mom have to complete a one-week challenge.",
       "isDelayNext": true
-    },
-    {
-      "id": 10,
-      "type": "CHALLENGE_SUMMARY",
-      "img_url": "",
-      "text": "Your adventure with Eli is walking at least 3000 steps every day!",
-      "subtext": "3000 steps is like a walk around the Boston Common.\n\nCheck the adventure map to see how far ahead you are in the game"
     }
   ]
 }
