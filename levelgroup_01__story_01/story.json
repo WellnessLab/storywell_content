@@ -43,7 +43,8 @@
       "img_url": "",
       "text": "What do you like when you were active with your Mom?",
       "subtext": "",
-      "isDelayNext": true
+      "isDelayNext": true,
+      "isShowReflectionStart": false
     },
     {
       "id": 7,
