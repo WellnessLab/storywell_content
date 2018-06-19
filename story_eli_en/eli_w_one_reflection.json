@@ -175,50 +175,56 @@
       "id": 34,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c3_06.jpg",
-      "text": "\"¡Mamá! Tengo el sombrero rojo de la señorita Antelope que fue soplado por el viento\", dijo Eli a su mamá.\n\n Pero su mamá todavía estaba al otro lado del río. \n\n \"Mamá tiene que llegar!\" dijo Eli.",
+      "text": "\"Mom! I have Miss Antelope’s red hat that was blown by the wind,\" says Eli to her Mom.",
       "subtext": null
     },
     {
       "id": 35,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c3_07.jpg",
-      "text": "\"Tienes que llegar aquí porque tienes que ver esto!\", dijo Eli.",
+      "text": "Eli\'s Mom is still on the other side of the river.\n\n\"Mom you have to cross the river!\" says Eli. \"You have to cross the river because you have to see this!\"",
       "subtext": null
     },
      {
       "id": 36,
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
-      "text": "Capítulo 4",
+      "text": "Chapter 4",
       "subtext": ""
     },
     {
       "id": 37,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c4_01.jpg",
-      "text": "Mamá elefante quiere llegar al otro lado del río. \n\n Así que ella dejó atrás a 10 pies y rápidamente caminó hasta el borde del río.",
+      "text": "Now, Eli's Mom wants to see the other side of the river.\n\nShe  takes a few big steps back and quickly runs towards the edge of the river.",
       "subtext": null
     },
    {
       "id": 38,
       "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c4_02.jpg",
+      "text": "Just as she is about to reach the water, she jumps and leaps across the rocks.",
+      "subtext": null
+    },
+   {
+      "id": 39,
+      "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c4_03.jpg",
-      "text": "\"Yipeee!\", dijo mamá. \n\n Después de correr y correr mientras perseguía al sombrero rojo, ella mejoró en otras actividades también! \n\n \"Eres bueno en esta mamá\", dijo Eli.
-",
+      "text": "\"Yipeee!\" she cheers.\n\n\"You are good at this Mom!\" says Eli happily.",
       "subtext": null
     },
  	{
       "id": 42,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c4_04.jpg",
-      "text": "Mamá estaba sudando y sin aliento. \"Se siente bien!\", dijo. \n\n Entonces Eli le dijo a su mamá, \"Mira eso, mamá\". Apuntó con sus dedos de elefante mientras señalaba a la orilla del acantilado. \n\n El sol estuvo a punto de ponerse y el valle de encima del acantilado parecía brillar.",
+      "text": "Mom is sweating and out of breath. \"It feels good!\" she says.\n\n\"Look at that, Mom,\" Eli says. Eli\'s toes pointed to the edge of the cliff.",
       "subtext": null
     },
     {
       "id": 43,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c4_05.jpg",
-      "text": "Eli y la mamá se sentaron y miraron el sol disminuyendo — el brillo del valle verde con el sombrero rojo que fue soplado por el viento.",
+      "text": "The sun is about to set and the valley shimmers with the rays of the setting sun.\n\nEli and Mom sit and watch the sun go down. They watch the sky change from a soft orange to brilliant gold as the sun drops below the horizon.\n\nThey sit together with the red hat that was blown by the wind.",
       "subtext": null
     }
   ]
