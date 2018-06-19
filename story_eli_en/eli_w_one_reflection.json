@@ -4,64 +4,58 @@
       "id": 0,
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
-      "text": "Eli y el sombrero volador rojo",
+      "text": "Eli and the Red Hat Blown by the Wind",
       "subtext": ""
     },
     {
       "id": 1,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_01.jpg",
-      "text": "Eli y mamá fueron a caminar a la pradera. Era un día ventoso.",
+      "text": "Eli and Mom Elephants go for a walk down at the grassland.  It is a windy day.",
       "subtext": null
     },
     {
       "id": 2,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_02.jpg",
-      "text": "Wooosh!\n\n¡El viento fuerte hizo volar al sombrero rojo de la señorita Antelope!\n\n \"Ayúdame a coger mi sombrero. Mi sombrero rojo\", gritó.",
+      "text": "Wooooosh!\n\nA strong wind blows Miss Antelope\'s red hat right off her head!\n\n\"Help me catch my hat. My red hat,\" she cries.",
       "subtext": null
     },
     {
       "id": 3,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_03.jpg",
-      "text": " \"Eli, vamos a ayudar a la señorita antílope a agarrar su sombrero rojo\", dijo Mamá.\n\n Pero Eli está asustado.\n\n \"No puedo correr muy rápido\", dijo Eli. \n\n \"Estarás bien\", dijo Mamá.\n\n \"Vamos a empezar lento y llegamos más rápido un paso a la vez\", dijo Mamá.",
+      "text": "\"Eli, let's help Miss Antelope catch her red hat,\" says Mama Elephant.\n\nBut Eli is scared. \"If I run too fast, I will trip and fall over,\" says Eli.\n\n\"You'll be fine! Come on. We will start slow and get faster one step at a time,\" says Mama.",
       "subtext": null
     },
     {
       "id": 4,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_04.jpg",
-      "text": "Los dos elefantes corren lado al lado en la pradera después de que el sombrero rojo fue soplado por el viento. \n\n Un viento fuerte.",
+      "text": "So the two elephants run up and down the grassland after the flying red hat blown by the wind. A strong wind.",
       "subtext": null
     },
     {
       "id": 5,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_05.jpg",
-      "text": "Los dos elefantes están sudando un poco y se quedaron sin aliento una o dos veces. \n\n \"¡Hee hee hee!Esto es divertido, Mamá \", dijo Eli.",
+      "text": "The two elephants are sweating and a little out of breath once or twice.\n\n\"Hee hee hee! This is fun, Mom,\" says Eli. ",
       "subtext": null
-    },
-    {
-      "id": 6,
-      "type": "REFLECTION_START",
-      "img_url": null,
-      "text": "¡Usted encontró un sobre secreto!",
-      "subtext": "¡Toque en el sobre para ver lo que hay dentro!"
     },
     {
       "id": 7,
       "type": "REFLECTION",
       "img_url": null,
-      "text": "¿Puede pensar en un momento en cuando era activa con su mamá?",
-      "subtext": "Activa significa cualquier actividad que lo haga sudar o  deje sin aliento como correr, jugar en el parque, bailar, o nadar.",
-      "isDelayNext": true
+      "text": "Can you think of a time when you were active with your Mom/Dad/Caregiver?",
+      "subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, swimming.",
+      "isDelayNext": true,
+      "isShowReflectionStart": true
     },
     {
       "id": 8,
       "type": "REFLECTION",
       "img_url": "",
-      "text": "¿Qué le gusta cuando es activa con su mamá?",
+      "text": "What did you enjoy when you were active with your Mom/Dad/Caregiver?",
       "subtext": "",
       "isDelayNext": true
     },
@@ -69,112 +63,112 @@
       "id": 9,
       "type": "STATEMENT",
       "img_url": "",
-      "text": "¡Pensar sobre cosas divertidas durante la actividad física lo puede hacer más agradable!",
+      "text": "Thinking about the fun things during physical activity can make it more enjoyable!",
+      "subtext": ""
+    },
+    {
+      "id": 10,
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
+      "text": "Chapter 2",
       "subtext": ""
     },
     {
       "id": 11,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_06.jpg",
-      "text": "El sombrero voló y voló hasta que  aterrizó en un árbol. \n\n Pero no en cualquier árbol...",
+      "text": "The hat flies and flies, then lands on a tree. \n\nBut it is not just any tree...",
       "subtext": null
     },
     {
       "id": 12,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_07.jpg",
-      "text": " Es un árbol Baobab. Un árbol Baobab alto. \"Ese es un árbol muy alto\", dijo Eli. \"¿Cómo podemos llegar al sombrero rojo de la señorita Antelope?\" \n\n \"Tengo una idea\", dijo Mamá.",
+      "text": "It\'s a baobab tree. A big, tall baobab tree.\n\n\"That’s a very tall tree,\" says Eli.\n\n\"How do we get Miss Antelope’s red hat?\"\n\n\"I have an idea,\" says Mom.",
       "subtext": null
-    },
-    {
-      "id": 13,
-      "type": "COVER",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
-      "text": "Capítulo 2",
-      "subtext": ""
     },
     {
       "id": 14,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c2_01.jpg",
-      "text": "Los elefantes son animales grandes. \n\n \"Apunte su tronco al sombrero\", dijo Mamá. \n\n Eli y mamá apuntaron sus grandes troncos al sombrero rojo que estaba en el árbol Baobab. \n\n \"Ahora sopla hacia ese sombrero\", dijo Mamá. \n\n \"Fffffffffffff \n\n ffffffffffffff! Fffffffffffff fffffffffffff!\" ",
+      "text": "\"Point your trunk towards the hat,\" says Mama.\n\nEli and Mama point their big trunks at the red hat on the tall Baobab tree.\n\n\"Now one, two, three, blow that hat,\" yells Mom.\n\nThey blow the hat at the same time.",
       "subtext": null
     },
     {
       "id": 15,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c2_02.jpg",
-      "text": "\"Oye mamá, esto es divertido! Yo puedo soplar al sombrero rojo que está en el árbol de Baobab \", dijo Eli. \n\n \"Eso es porque haces ejercicio a menudo. Te hace sentir bien contigo mismo \", dijo Mamá. \n\n \"Vamos, vamos a soplar a ese sombrero rojo una vez más.\" ",
+      "text": "\"Hey Mom, this is fun! I can blow the red hat on the Baobab tree!\" says Eli.\n\n\"That’s because you exercise often. It makes you strong and healthy. And you will feel good about yourself” says Mama.\n\n\"Come on, let’s blow that red hat one more time.\"",
       "subtext": null
-    },
+    }, 
     {
       "id": 16,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c2_03.jpg",
-      "text": "Cuando los elefantes soplaron hacia  el sombrero, una vez más, el sombrero salió y voló muy lejos...",
+      "text": "As the elephants blow the hat once again, the hat flies off the Baobab tree and up into the air.",
       "subtext": null
     },
     {
       "id": 17,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c2_04.jpg",
-      "text": "... voló lejos y más lejos...",
+      "text": "The wind catches the hat yet again, it flies further and further away!",
       "subtext": null
     },
     {
       "id": 18,
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
-      "text": "Capítulo 3",
+      "text": "Chapter 3",
       "subtext": ""
     },
 {
       "id": 19,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c2_04.jpg",
-      "text": "El sombrero rojo voló muy lejos...",
+      "text": "The wind grabs the hat, carrying the hat away from the Elephants. And suddenly... ",
       "subtext": null
     },
       {
       "id": 20,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c2_05.jpg",
-      "text": "¡Y el sombrero aterrizó en el río! \n\n El río empujó al sombrero más lejos mientras que los elefantes persiguieron al sombrero a lo largo del río. \n\n Hasta que el sombrero terminó a la deriva al otro lado del río.",
+      "text": "...the hat lands on the river! The river carries the hat downstream, away from the elephants. Eventually, the hat gets caught on a branch on the opposite side of the river.\n\n\"Now how do we get the hat? It\'s on the other side of the river!\" Eli asks.",
       "subtext": null
     },
     {
       "id": 21,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c3_01.jpg",
-      "text": "\"¿Qué vamos a hacer?\", dijo Eli. \n\n Entonces una criatura verde viscosa surgió del río. \n\n \"¡Mira! \"es mi amigo Croco! \", dijo Eli.",
+      "text": "\"Just then, a green scaly creature surfaces from the river.\n\n\"Look! It’s my friend Croco!” says Eli.",
       "subtext": null
     },
     {
       "id": 22,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c3_02.jpg",
-      "text": "\"Hola Eli!\", dijo Croco, el pequeño cocodrilo verde. \n\n \"Croco, ¿puedes ayudarme a coger ese sombrero al otro lado del río?\", dijo Eli. \n\n \"Seguro que puedo ayudarte, pero sería más divertido si lo haces tú mismo\", dijo croco.",
+      "text": "\"Hi Eli!\" says Croco, the little green crocodile.\n\n\"Croco, can you help me catch that hat on the other side of the river?\" asks Eli.",
       "subtext": null
     },
     {
       "id": 23,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c3_03.jpg",
-      "text": "\"Puedo enseñarte a saltar al otro lado del río\", dijo croco.",
+      "text": "\"Sure I can help you, but it would be more fun if you do it yourself,\" says Croco. \"I can teach you how to jump across the river.\"\n\nEli is not sure. \"I’m not a good jumper,\" says Eli.",
       "subtext": null
     },
     {
       "id": 24,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c3_04.jpg",
-      "text": "Pero Eli no estaba seguro. \"No soy un buen saltador\", dijo Eli. \n\n \"No es difícil en lo absoluto. Te voy a mostrar cómo\", dijo croco. \n\n Y Croco levantó su cuerpo, saltó hacia una roca grande en el río. Luego brincó y saltó otra vez para aterrizar en la otra roca hasta que finalmente aterrizó al otro lado del río.",
+      "text": "\"It\'s not difficult at all. I will show you how,\" says Croco.\n\nCroco raises his body, leaps to one big rock on the river. Then he jumps and leaps again to land on another rock. Finally, he lands on the other side of the river.",
       "subtext": null
     },
     {
       "id": 33,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c3_05.jpg",
-      "text": "Y Eli levantó su cuerpo, y saltó a una gran roca en el río. \n\n Entonces ella saltó y saltó para aterrizar en otra roca hasta que finalmente aterrizó al otro lado del río. \n\n \"Esto no es difícil en lo absoluto!\", dijo Eli.",
+      "text": "Eli leaps to the first big rock in the river.\n\nThen Eli jumps and leaps again to land on another rock until finally, Eli landed on the other side of the river.\n\n\"This is not difficult at all!\" says Eli.",
       "subtext": null
     },
     {
