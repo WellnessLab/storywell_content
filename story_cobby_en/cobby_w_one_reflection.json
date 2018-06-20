@@ -272,6 +272,14 @@
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_en/c4_08.jpg",
       "text": "The kids of Hippolandia now play the game of Cowaminton every day.\n\nCobby is happy. Every day he can run faster and jump much higher. Cobby’s Mom is also happy that Cobby is happy.\n\nThis game makes Cobby feel great about himself.",
       "subtext": ""
+    },
+    {
+      "id": 42,
+      "type": "CHALLENGE",
+      "img_url": "",
+      "text": "Do you want know what's going to happen next?",
+      "subtext": "To read the rest of the story your family has to complete a one-week adventure.",
+      "isDelayNext": true
     }
   ]
 }
