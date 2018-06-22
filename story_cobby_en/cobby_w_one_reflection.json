@@ -277,8 +277,8 @@
       "id": 42,
       "type": "CHALLENGE",
       "img_url": "",
-      "text": "Do you want know what's going to happen next?",
-      "subtext": "To read the rest of the story your family has to complete a one-week adventure.",
+      "text": "Do you want to know what's going to happen next?",
+      "subtext": "To read the rest of the story, complete a one-week challenge with your family.",
       "isDelayNext": true
     }
   ]
