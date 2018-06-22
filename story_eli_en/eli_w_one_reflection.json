@@ -46,7 +46,7 @@
       "id": 7,
       "type": "REFLECTION",
       "img_url": null,
-      "text": "Can you think of a time when you were active with your Mom/Dad/Caregiver?",
+      "text": "Tell me a time when you were active with your Mom, Dad, or other adult who lives with you at home.",
       "subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, swimming.",
       "isDelayNext": true,
       "isShowReflectionStart": true
