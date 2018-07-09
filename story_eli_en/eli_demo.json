@@ -1,0 +1,78 @@
+{
+  "contents": [
+    {
+      "id": 0,
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
+      "text": "Getting Started: Eli and the Red Hat Blown by the Wind",
+      "subtext": ""
+    },
+    {
+      "id": 1,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_01.jpg",
+      "text": "Eli and Mom Elephants go for a walk down at the grassland.  It is a windy day.",
+      "subtext": null
+    },
+    {
+      "id": 2,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_02.jpg",
+      "text": "Wooooosh!\n\nA strong wind blows Miss Antelope\'s red hat right off her head!\n\n\"Help me catch my hat. My red hat,\" she cries.",
+      "subtext": null
+    },
+    {
+      "id": 3,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_03.jpg",
+      "text": "\"Eli, let's help Miss Antelope catch her red hat,\" says Mama Elephant.\n\nBut Eli is scared. \"If I run too fast, I will trip and fall over,\" says Eli.\n\n\"You'll be fine! Come on. We will start slow and get faster one step at a time,\" says Mama.",
+      "subtext": null
+    },
+    {
+      "id": 4,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_04.jpg",
+      "text": "So the two elephants run up and down the grassland after the flying red hat blown by the wind. A strong wind.",
+      "subtext": null
+    },
+    {
+      "id": 5,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_05.jpg",
+      "text": "The two elephants are sweating and a little out of breath once or twice.\n\n\"Hee hee hee! This is fun, Mom,\" says Eli. ",
+      "subtext": null
+    },
+    {
+      "id": 7,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Tell me a time when you were active with your Mom, Dad, or other adult who lives with you at home.",
+      "subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, swimming.",
+      "isDelayNext": true,
+      "isShowReflectionStart": true
+    },
+    {
+      "id": 8,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "What did you enjoy when you were active with your Mom/Dad/Caregiver?",
+      "subtext": "",
+      "isDelayNext": true
+    },
+    {
+      "id": 9,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "Thinking about the fun things during physical activity can make it more enjoyable!",
+      "subtext": ""
+    },
+    {
+      "id": 10,
+      "type": "CHALLENGE",
+      "img_url": "",
+      "text": "Do you want to know what's going to happen next?",
+      "subtext": "To read the rest of the story, complete a one-week challenge with your family.",
+      "isDelayNext": true
+    }
+  ]
+}
