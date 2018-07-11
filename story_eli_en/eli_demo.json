@@ -43,7 +43,7 @@
       "subtext": null
     },
     {
-      "id": 7,
+      "id": 6,
       "type": "REFLECTION",
       "img_url": null,
       "text": "Tell me a time when you were active with your Mom, Dad, or other adult who lives with you at home.",
@@ -52,7 +52,7 @@
       "isShowReflectionStart": true
     },
     {
-      "id": 8,
+      "id": 7,
       "type": "REFLECTION",
       "img_url": "",
       "text": "What did you enjoy when you were active with your Mom/Dad/Caregiver?",
@@ -60,14 +60,14 @@
       "isDelayNext": true
     },
     {
-      "id": 9,
+      "id": 8,
       "type": "STATEMENT",
       "img_url": "",
       "text": "Thinking about the fun things during physical activity can make it more enjoyable!",
       "subtext": ""
     },
     {
-      "id": 10,
+      "id": 9,
       "type": "CHALLENGE",
       "img_url": "",
       "text": "Do you want to know what's going to happen next?",
