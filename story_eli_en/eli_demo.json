@@ -50,7 +50,7 @@
       "subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, swimming.",
       "isDelayNext": true,
       "isShowReflectionStart": true,
-	  "reflectionGroup": 1
+	  "contentGroup": "1"
     },
     {
       "id": 7,
@@ -59,7 +59,7 @@
       "text": "What did you enjoy when you were active with your Mom/Dad/Caregiver?",
       "subtext": "",
       "isDelayNext": true,
-	  "reflectionGroup": 1
+	  "contentGroup": "1"
     },
     {
       "id": 8,
