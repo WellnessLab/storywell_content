@@ -50,7 +50,9 @@
       "subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, swimming.",
       "isDelayNext": true,
       "isShowReflectionStart": true,
-	  "contentGroup": "1"
+	  "contentGroupId": "1",
+      "contentGroupName": "Active with your family",
+      "nextContentId": 7
     },
     {
       "id": 7,
@@ -59,7 +61,8 @@
       "text": "What did you enjoy when you were active with your Mom/Dad/Caregiver?",
       "subtext": "",
       "isDelayNext": true,
-	  "contentGroup": "1"
+	  "contentGroupId": "1",
+      "nextContentId": 8
     },
     {
       "id": 8,
@@ -70,11 +73,18 @@
     },
     {
       "id": 9,
+      "type": "COVER",
+      "img_url": "",
+      "text": "Chapter 2",
+      "subtext": ""
+    },
+    {
+      "id": 10,
       "type": "CHALLENGE",
       "img_url": "",
       "text": "Do you want to know what's going to happen next?",
       "subtext": "To read the rest of the story, complete a one-week challenge with your family.",
-      "isDelayNext": true
+      "isLocked": true
     }
   ]
 }
