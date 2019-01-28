@@ -5,7 +5,8 @@
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_en/cobby_cover.png",
       "text": "Cobby and the Game of Cowabuball",
-      "subtext": "Chapter 1 \n\n Landing at Hippolandia"
+      "subtext": "Chapter 1 \n\n Landing at Hippolandia",
+      "isLocked": true
     },
     {
       "id": 1,

@@ -5,7 +5,8 @@
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
       "text": "Getting Started: Eli and the Red Hat Blown by the Wind",
-      "subtext": ""
+      "subtext": "",
+      "isLocked": false
     },
     {
       "id": 1,
@@ -95,9 +96,9 @@
     },
     {
       "id": 12,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_07.jpg",
-      "text": "It\'s a baobab tree. A big, tall baobab tree.\n\n\"That’s a very tall tree,\" says Eli.\n\n\"How do we get Miss Antelope’s red hat?\"\n\n\"I have an idea,\" says Mom.",
+      "type": "MEMO",
+      "img_url": "",
+      "text": "You have completed this storybook. Your next storybook is called. \n\n\"Cobby and the Game of Cowabuball\" \n\nPress GO to see the storybooks.",
       "subtext": null
     }
   ]
