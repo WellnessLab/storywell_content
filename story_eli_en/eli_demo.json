@@ -75,7 +75,7 @@
     {
       "id": 9,
       "type": "COVER",
-      "img_url": "ttp://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
       "text": "Chapter 2",
       "subtext": ""
     },
@@ -99,7 +99,8 @@
       "type": "MEMO",
       "img_url": "",
       "text": "You have completed this storybook. Your next storybook is called. \n\n\"Cobby and the Game of Cowabuball\" \n\nPress GO to see the storybooks.",
-      "subtext": null
+      "subtext": null,
+      "storyPageIdToUnlock": "s11_p0"
     }
   ]
 }
