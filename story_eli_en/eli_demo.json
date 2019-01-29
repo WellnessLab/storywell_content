@@ -98,8 +98,8 @@
       "id": 12,
       "type": "MEMO",
       "img_url": "",
-      "text": "You have completed this storybook. Your next storybook is called. \n\n\"Cobby and the Game of Cowabuball\" \n\nPress GO to see the storybooks.",
-      "subtext": null,
+      "text": "You have completed this storybook. Your next story is:\n\n\"Cobby and the Game of Cowabuball\"",
+      "subtext": "Press GO to see the storybooks.",
       "storyPageIdToUnlock": "s11_c0"
     }
   ]
