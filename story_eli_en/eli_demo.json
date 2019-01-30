@@ -77,7 +77,8 @@
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
       "text": "Chapter 2",
-      "subtext": ""
+      "subtext": "",
+      "isLocked": false
     },
     {
       "id": 10,
