@@ -90,13 +90,6 @@
     },
     {
       "id": 11,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_06.jpg",
-      "text": "The hat flies and flies, then lands on a tree. \n\nBut it is not just any tree...",
-      "subtext": null
-    },
-    {
-      "id": 12,
       "type": "MEMO",
       "img_url": "",
       "text": "You have completed this storybook. Your next story is:\n\n\"Cobby and the Game of Cowabuball\"",
