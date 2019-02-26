@@ -226,14 +226,14 @@
 			"id": 29,
 			"type": "PAGE",
 			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_05.jpg",
-			"text": "Sydney's turkey contraption fell off her bike and and fell apart.",
+			"text": "Sydney's turkey contraption fell off her bike and and fell apart.\n\n\"There's no way to save this fake turkey! I can't bike anymore!\" yells Sydney who is feeling upset.\n\n\"And I'm going to lose the race,\" she says.",
 			"subtext": null
 		},
 		{
 			"id": 30,
 			"type": "PAGE",
 			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_06.jpg",
-			"text": "\"There's no way to save this fake turkey! I can't bike anymore!\" yells Sydney who is feeling upset.\n\n\"And I'm going to lose the race,\" she says.\n\n\"Sydney, you have used the bike for two months. You can bike without the turkey contraption,\" said Pa Turkey.\n\n\"No, I can't! Sloths are not good at biking,\" says Sydney.",
+			"text": "\"Sydney, you have used the bike for two months. You can bike without the turkey contraption,\" said Pa Turkey.\n\n\"No, I can't! Sloths are not good at biking,\" says Sydney.",
 			"subtext": null
 		},
 		{
@@ -261,7 +261,7 @@
 			"id": 34,
 			"type": "PAGE",
 			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_10.jpg",
-			"text": "\"Winning is fun. But getting better at something is a lot more fun,\" Bob says.\n\n\"And today you are learned that you don't need the turkey contraption. You can balance all on your own!. You can go places with your bike by yourself. You can use your bike even when your Pa is not in the forest.\"",
+			"text": "\"Winning is fun. But getting better at something is a lot more fun,\" Bob says.\n\n\"And today you learned that you don't need the turkey contraption. You can balance all on your own!. You can go places with your bike by yourself. You can use your bike even when your Pa is not in the forest.\"",
 			"subtext": null
 		},
 		{
@@ -297,7 +297,7 @@
 			"id": 38,
 			"type": "STATEMENT",
 			"img_url": "",
-			"text": "Practice makes perfect! It is more important to try your best at an activity, rather than thinking about winning.",
+			"text": "Practice makes perfect!\n\nIt is more important to try your best at an activity, rather than thinking about winning.",
 			"subtext": ""
 		},
 		{
