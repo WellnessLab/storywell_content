@@ -4,7 +4,7 @@
       "id": 0,
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_unicorn_en/cover.png",
-      "text": "Sydney the Sloth and the Uphill Ride",
+      "text": "Have you ever seen a unicorn?",
       "subtext": "Chapter 1: That magical thing behind the forest",
       "isLocked": false
     },
@@ -12,21 +12,21 @@
       "id": 1,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_unicorn_en/c1_01.jpg",
-      "text": "It is a warm summer day when Edith sits on the edge of the lake. She is sketching a squirrel carrying an acorn. Edith has a big imagination. ",
+      "text": "It is a warm summer day when Edith sits on the edge of the lake.\n\nShe is sketching a squirrel carrying an acorn. Edith has a big imagination. ",
       "subtext": null
     },
     {
       "id": 2,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_unicorn_en/c1_02.jpg",
-      "text": "Suddenly the squirrel runs away, leaping quickly into the dense forest nearby. Her drawing is half finished, so Edith chases the little critter into the dense forest.",
+      "text": "Suddenly the squirrel runs away, leaping quickly into the dense forest nearby. \n\nHer drawing is half finished, so Edith chases the little critter into the dense forest.",
       "subtext": null
     },
     {
       "id": 3,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_unicorn_en/c1_03.jpg",
-      "text": "As Edith runs, the forest gets denser and denser. Edith is careful to step over roots and duck under branches. Eventually, Edith comes to a clearing in the forest. In the clearing, she sees the most magical thing she has ever seen.\n\nIt’s a unicorn!",
+      "text": "As Edith runs, the forest gets denser and denser. Edith is careful to step over roots and duck under branches. \n\nEventually, Edith comes to a clearing in the forest. In the clearing, she sees the most magical thing she has ever seen.\n\nIt’s a unicorn!",
       "subtext": null
     },
     {
@@ -76,7 +76,7 @@
       "id": 9,
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_unicorn_en/cover.png",
-      "text": "Chapter 2 \n\n Unicorn Run",
+      "text": "Chapter 2\n\nUnicorn Run",
       "subtext": null,
       "isLocked": false
     },
@@ -148,7 +148,7 @@
       "id": 18,
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_unicorn_en/cover.png",
-      "text": "Chapter 3: The Shoes",
+      "text": "Chapter 3:\n\nThe Shoes",
       "subtext": null,
       "isLocked": false
     },
@@ -198,28 +198,28 @@
       "id": 25,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_unicorn_en/c3_06.jpg",
-      "text": "\"Oh I can help you with that!\" says Edith.\n\n\"I'm good at finding lost things!\"\n\n\"Let's retrace our steps to find your shoes and you won't be late for your birthday party,\" says Edith.\n",
+      "text": "\"Oh I can help you with that!\" says Edith.\n\n\"I'm good at finding lost things!\"\n\n\"Let's retrace our steps to find your shoe and you won't be late for your birthday party,\" says Edith.\n",
       "subtext": null
     },
     {
       "id": 26,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_unicorn_en/c3_07.jpg",
-      "text": "As they walk back retracing their steps, they see a glimmering thing floating above a lake.\n\n\"Those are my shoes,\" says the Unicorn.\n",
+      "text": "As they walk back retracing their steps, they see a glimmering thing floating above a lake.\n\n\"That's my shoe,\" says the Unicorn.\n",
       "subtext": null
     },
     {
       "id": 27,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_unicorn_en/c3_08.jpg",
-      "text": "\"Your shoes surely are shimmering,\" says Edith.\n\n\"But they're flying and floating above the lake, how do I get it?\" asks the Unicorn.\n\n\"I can jump to those small rocks in the lake and grab your shoes,\" says Edith.",
+      "text": "\"Your shoe surely is shimmering,\" says Edith.\n\n\"But it's flying and floating above the lake, how do I get it?\" asks the Unicorn.\n\n\"I can jump to those small rocks in the lake and grab your shoe,\" says Edith.",
       "subtext": null
     },
     {
       "id": 28,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_unicorn_en/c3_09.jpg",
-      "text": "Edith jumps carefully on the rocks inside the lake, one by one until she is close enough to grab the floating unicorn shoes.\n\n\"I got your shoes!\" yells Edith.",
+      "text": "Edith jumps carefully on the rocks inside the lake, one by one until she is close enough to grab the floating unicorn shoe.\n\n\"I got your shoe!\" yells Edith.",
       "subtext": null
     },
     {
