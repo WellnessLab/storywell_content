@@ -47,7 +47,7 @@
 			"type": "REFLECTION",
 			"img_url": null,
 			"text": "Tell me a time when you were active with your Mom, Dad, or other adult who lives with you at home.",
-			"subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, swimming.",
+			"subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, and swimming.",
 			"isDelayNext": true,
 			"isShowReflectionStart": true,
 			"contentGroupId": "1",
@@ -68,7 +68,7 @@
 			"id": 8,
 			"type": "STATEMENT",
 			"img_url": "",
-			"text": "Thinking about the fun things during physical activity can make it more enjoyable!",
+			"text": "Thinking about the fun things that happen during physical activity can make it more enjoyable!",
 			"subtext": ""
 		},
 		{
@@ -112,7 +112,7 @@
 			"type": "REFLECTION",
 			"img_url": null,
 			"text": "Tell me a time when you were active with your family. What are the good feelings that you had after exercising?",
-			"subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, swimming.",
+			"subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, and swimming.",
 			"isDelayNext": true,
 			"isShowReflectionStart": true,
 			"contentGroupId": "2",
