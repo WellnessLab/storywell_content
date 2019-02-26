@@ -54,18 +54,18 @@
       "id": 7,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_07.jpg",
-      "text": "Something magical happened. A breeze of cool air hits Sydney\'s face.  Sydney is biking on her new bike!\n\nThe kids in the forests cheer for Sydney's successful bike ride.",
+      "text": "Something magical happened. A breeze of cool air hits Sydney's face.  Sydney is biking on her new bike!\n\nThe kids in the forests cheer for Sydney's successful bike ride.",
       "subtext": null
     },
     {
       "id": 8,
       "type": "REFLECTION",
       "img_url": "",
-      "text": "Can you tell me a story? Tell a story when you couldn\'t play a fun phyisical activity by yourself.",
+      "text": "Can you tell me a story? Tell a story when you couldn't play a fun phyisical activity by yourself.",
       "subtext": "",
       "isDelayNext": true,
       "isShowReflectionStart": true,
-	  "contentGroupId": "1",
+      "contentGroupId": "1",
       "contentGroupName": "Family Members Help Each Other",
       "nextContentId": 9
     },
@@ -75,7 +75,8 @@
       "img_url": "",
       "text": "Did you get somebody to help you to feel ok? How did that make you feel?",
       "subtext": "",
-	  "contentGroupId": "1",
+      "isDelayNext": true,
+      "contentGroupId": "1",
       "nextContentId": 10
     },
     {
