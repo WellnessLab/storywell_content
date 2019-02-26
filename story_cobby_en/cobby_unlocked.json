@@ -96,7 +96,8 @@
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_en/cobby_cover.png",
       "text": "Chapter 2 \n\n Searching for a Cowball",
-      "subtext": ""
+      "subtext": "",
+      "isLocked": false
     },
     {
       "id": 13,
@@ -182,7 +183,8 @@
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_en/cobby_cover.png",
       "text": "Chapter 3 \n\n Teaching Cowball",
-      "subtext": ""
+      "subtext": "",
+      "isLocked": false
     },
     {
       "id": 24,
@@ -274,7 +276,8 @@
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_cobby_en/cobby_cover.png",
       "text": "Chapter 4 \n\n A New Game",
-      "subtext": null
+      "subtext": null,
+      "isLocked": false
     },
     {
       "id": 36,
