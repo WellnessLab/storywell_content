@@ -1,419 +1,418 @@
 {
-  "contents": [
-    {
-      "id": 0,
-      "type": "COVER",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/cover.png",
-      "text": "Sydney the Sloth and the Uphill Ride",
-      "subtext": "Chapter 1: Good Bike Ride",
-      "isLocked": false
-    },
-    {
-      "id": 1,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_01.jpg",
-      "text": "Sydney the sloth and her family live in a deep green forest in South America. Her house is under big tall trees. After school, she spends her days sleeping and napping under the trees.",
-      "subtext": null
-    },
-    {
-      "id": 2,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_02.jpg",
-      "text": "One day, her father, who is a turkey, buys her a shiny blue bike.\n\n\"Sydney, you can play outside with your bike,\" says Pa.\n\nSydney wants to play outside, but after much thinking, she would rather take a nap in her house.\n\n\"I like outside. I want to be outside. But right now I want to be inside and have a nap,\" says Sydney.",
-      "subtext": null
-    },
-    {
-      "id": 3,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_03.jpg",
-      "text": "\"Oh come on Sydney, let\'s go outside. It will be fun!\" says Pa.\n\nSo they did.\n\n\"Ride this bicycle,\" says Pa.\n\n",
-      "subtext": null
-    },
-    {
-      "id": 4,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_04.jpg",
-      "text": "Sydney has never ridden a bike before. She falls off within seconds.",
-      "subtext": null
-    },    
-    {
-      "id": 5,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_05.jpg",
-      "text": "\"No sloth is good at balancing themselves, Pa!\" says Sydney.\n\n\"Don't say that,\" says Pa. \"Let me help you balance the bike,\" he says.",
-      "subtext": null
-    },
-    {
-      "id": 6,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_06.jpg",
-      "text": "As Sydney climbs on the bike again, Pa Turkey leaps and sit on the back of the bike.\n\n\"Push the pedal and I will balance the bike,\" says Pa.\n\nSydney pushes the pedal down. One, two, and three.\n\n\"Keep going. You can do it!\" says Pa.",
-      "subtext": null
-    },
-    {
-      "id": 7,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_07.jpg",
-      "text": "Something magical happened. A breeze of cool air hits Sydney's face.  Sydney is biking on her new bike!\n\nThe kids in the forests cheer for Sydney's successful bike ride.",
-      "subtext": null
-    },
-    {
-      "id": 8,
-      "type": "REFLECTION",
-      "img_url": "",
-      "text": "Can you tell me a story? Tell a story when you couldn't play a fun phyisical activity by yourself.",
-      "subtext": "",
-      "isDelayNext": true,
-      "isShowReflectionStart": true,
-      "contentGroupId": "1",
-      "contentGroupName": "Family Members Help Each Other",
-      "nextContentId": 9
-    },
-    {
-      "id": 9,
-      "type": "REFLECTION",
-      "img_url": "",
-      "text": "Did you get somebody to help you to feel ok? How did that make you feel?",
-      "subtext": "",
-      "isDelayNext": true,
-      "contentGroupId": "1",
-      "nextContentId": 10
-    },
-    {
-      "id": 10,
-      "type": "STATEMENT",
-      "img_url": "",
-      "text": "Asking for help from your parent or relatives is a great way to have fun, and try new activities!",
-      "subtext": ""
-    },
-    {
-      "id": 11,
-      "type": "COVER",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/cover.png",
-      "text": "Chapter 2 \n\n Bike Ride with Friends",
-      "subtext": null,
-      "isLocked": false
-    },
-    {
-      "id": 12,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_01.jpg",
-      "text": "Since her first successful bike ride, Sydney has been playing outside with the help of her father, Pa Turkey. They go to the grocery store with the bike. They go to the laundry and they even go to the pool. Biking is a lot of fun.",
-      "subtext": null
-    },
-    {
-      "id": 13,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_02.jpg",
-      "text": "\"Why don't you try balancing the bike by yourself while I am away?\" says Pa.\n\nThe next day, Sydney tries to use the bike by herself. She invites her closest friends with her.\n\nShe starts to pedal. One. Two. Three.",
-      "subtext": null
-    },
-    {
-      "id": 14,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_03.jpg",
-      "text": "The breeze starts to hit her face but suddenly she falls to the ground again.\n\n\"No sloth is good at balancing,\" says Sydney.",
-      "subtext": ""
-    },
-    {
-      "id": 15,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_04.jpg",
-      "text": "\"That can't be true!\" says Cobby her friend.\n\n\"I need my dad to balance the bike. And he is out of town\", says Sydney.",
-      "subtext": null
-    },
-    {
-      "id": 16,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_05.jpg",
-      "text": "\"I have an idea!\" says Cobbie.",
-      "subtext": null
-    },
-    {
-      "id": 17,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_06.jpg",
-      "text": "Cobby runs around the jungle to get the stuff he needs. He grabs a bunch of twigs, a bagful of leaves, and two dozen small rocks. Then Cobbie makes something very unbelievable.",
-      "subtext": null
-    },
-    {        
-      "id": 18,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_07.jpg",
-      "text": "Cobby makes a contraption that looks like Pa Turkey!\n\n\"This fake turkey will help you balance your bike, Sydney,\" says Cobbie.\n\nSydney is unsure. The fake turkey looks funny. \"Are you sure this is a good idea?\"\n\n\"Trust me!\" says Cobbie as he ties the turkey contraption to Sydney\'s bike.",
-      "subtext": null
-    },
-    {
-      "id": 19,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_08.jpg",
-      "text": "Sydney climbs on the bike. She is still feeling unsure about the contraption.\n\n\"Imagine that this is Pa Turkey. Now hit the pedals!\" yells Cobbie.\n\nSydney started to push the pedal. One. Two. And three.\n\n\"Keep going. You can do it,\" cheers Cobbie.\n\nAnd that magical thing happened again. A breeze of cool air hits Sydney's face. Sydney is biking on her new bike! With a fake turkey on her back.",
-      "subtext": null
-    },
-    {
-      "id": 20,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_09.jpg",
-      "text": "Sydney and Cobbie and their friends bike around the forest until it was getting dark and it was time for them to go home.",
-      "subtext": null
-    },
-    {
-      "id": 21,
-      "type": "REFLECTION",
-      "img_url": null,
-      "text": "Tell a story about a time when you wanted to do be active and a person other than your family member helped you.",
-      "subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, swimming.",
-      "isDelayNext": true,
-      "isShowReflectionStart": true,
-	  "contentGroupId": "2",
-      "contentGroupName": "Helpful People Around You",
-      "nextContentId": 21
-    },
-    {
-      "id": 22,
-      "type": "REFLECTION",
-      "img_url": "",
-      "text": "Do you think they could help you to be more active in the next few weeks?",
-      "subtext": "",
-      "isDelayNext": true,
-	  "contentGroupId": "2",
-      "nextContentId": 23
-    },
-    {
-      "id": 23,
-      "type": "STATEMENT",
-      "img_url": "",
-      "text": "You don't have to do physical activities alone. It is always good to get help from other people close to you!",
-      "subtext": ""
-    },
+	"contents": [{
+			"id": 0,
+			"type": "COVER",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/cover.png",
+			"text": "Sydney the Sloth and the Uphill Ride",
+			"subtext": "Chapter 1: Good Bike Ride",
+			"isLocked": false
+		},
+		{
+			"id": 1,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_01.jpg",
+			"text": "Sydney the sloth and her family live in a deep green forest in South America. Her house is under big tall trees. After school, she spends her days sleeping and napping under the trees.",
+			"subtext": null
+		},
+		{
+			"id": 2,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_02.jpg",
+			"text": "One day, her father, who is a turkey, buys her a shiny blue bike.\n\n\"Sydney, you can play outside with your bike,\" says Pa.\n\nSydney wants to play outside, but after much thinking, she would rather take a nap in her house.\n\n\"I like outside. I want to be outside. But right now I want to be inside and have a nap,\" says Sydney.",
+			"subtext": null
+		},
+		{
+			"id": 3,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_03.jpg",
+			"text": "\"Oh come on Sydney, let's go outside. It will be fun!\" says Pa.\n\nSo they did.\n\n\"Ride this bicycle,\" says Pa.\n\n",
+			"subtext": null
+		},
+		{
+			"id": 4,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_04.jpg",
+			"text": "Sydney has never ridden a bike before. She falls off within seconds.",
+			"subtext": null
+		},
+		{
+			"id": 5,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_05.jpg",
+			"text": "\"No sloth is good at balancing themselves, Pa!\" says Sydney.\n\n\"Don't say that,\" says Pa. \"Let me help you balance the bike,\" he says.",
+			"subtext": null
+		},
+		{
+			"id": 6,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_06.jpg",
+			"text": "As Sydney climbs on the bike again, Pa Turkey leaps and sit on the back of the bike.\n\n\"Push the pedal and I will balance the bike,\" says Pa.\n\nSydney pushes the pedal down. One, two, and three.\n\n\"Keep going. You can do it!\" says Pa.",
+			"subtext": null
+		},
+		{
+			"id": 7,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_07.jpg",
+			"text": "Something magical happened. A breeze of cool air hits Sydney's face.  Sydney is biking on her new bike!\n\nThe kids in the forests cheer for Sydney's successful bike ride.",
+			"subtext": null
+		},
+		{
+			"id": 8,
+			"type": "REFLECTION",
+			"img_url": "",
+			"text": "Can you tell me a story? Tell a story when you couldn't play a fun phyisical activity by yourself.",
+			"subtext": "",
+			"isDelayNext": true,
+			"isShowReflectionStart": true,
+			"contentGroupId": "1",
+			"contentGroupName": "Family Members Help Each Other",
+			"nextContentId": 9
+		},
+		{
+			"id": 9,
+			"type": "REFLECTION",
+			"img_url": "",
+			"text": "Did you get somebody to help you to feel ok? How did that make you feel?",
+			"subtext": "",
+			"isDelayNext": true,
+			"contentGroupId": "1",
+			"nextContentId": 10
+		},
+		{
+			"id": 10,
+			"type": "STATEMENT",
+			"img_url": "",
+			"text": "Asking for help from your parent or relatives is a great way to have fun, and try new activities!",
+			"subtext": ""
+		},
+		{
+			"id": 11,
+			"type": "COVER",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/cover.png",
+			"text": "Chapter 2 \n\n Bike Ride with Friends",
+			"subtext": null,
+			"isLocked": false
+		},
+		{
+			"id": 12,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_01.jpg",
+			"text": "Since her first successful bike ride, Sydney has been playing outside with the help of her father, Pa Turkey. They go to the grocery store with the bike. They go to the laundry and they even go to the pool. Biking is a lot of fun.",
+			"subtext": null
+		},
+		{
+			"id": 13,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_02.jpg",
+			"text": "\"Why don't you try balancing the bike by yourself while I am away?\" says Pa.\n\nThe next day, Sydney tries to use the bike by herself. She invites her closest friends with her.\n\nShe starts to pedal. One. Two. Three.",
+			"subtext": null
+		},
+		{
+			"id": 14,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_03.jpg",
+			"text": "The breeze starts to hit her face but suddenly she falls to the ground again.\n\n\"No sloth is good at balancing,\" says Sydney.",
+			"subtext": ""
+		},
+		{
+			"id": 15,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_04.jpg",
+			"text": "\"That can't be true!\" says Cobby her friend.\n\n\"I need my dad to balance the bike. And he is out of town\", says Sydney.",
+			"subtext": null
+		},
+		{
+			"id": 16,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_05.jpg",
+			"text": "\"I have an idea!\" says Cobbie.",
+			"subtext": null
+		},
+		{
+			"id": 17,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_06.jpg",
+			"text": "Cobby runs around the jungle to get the stuff he needs. He grabs a bunch of twigs, a bagful of leaves, and two dozen small rocks. Then Cobbie makes something very unbelievable.",
+			"subtext": null
+		},
+		{
+			"id": 18,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_07.jpg",
+			"text": "Cobby makes a contraption that looks like Pa Turkey!\n\n\"This fake turkey will help you balance your bike, Sydney,\" says Cobbie.\n\nSydney is unsure. The fake turkey looks funny. \"Are you sure this is a good idea?\"\n\n\"Trust me!\" says Cobbie as he ties the turkey contraption to Sydney's bike.",
+			"subtext": null
+		},
+		{
+			"id": 19,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_08.jpg",
+			"text": "Sydney climbs on the bike. She is still feeling unsure about the contraption.\n\n\"Imagine that this is Pa Turkey. Now hit the pedals!\" yells Cobbie.\n\nSydney started to push the pedal. One. Two. And three.\n\n\"Keep going. You can do it,\" cheers Cobbie.\n\nAnd that magical thing happened again. A breeze of cool air hits Sydney's face. Sydney is biking on her new bike! With a fake turkey on her back.",
+			"subtext": null
+		},
+		{
+			"id": 20,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c2_09.jpg",
+			"text": "Sydney and Cobbie and their friends bike around the forest until it was getting dark and it was time for them to go home.",
+			"subtext": null
+		},
+		{
+			"id": 21,
+			"type": "REFLECTION",
+			"img_url": null,
+			"text": "Tell a story about a time when you wanted to do be active and a person other than your family member helped you.",
+			"subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, swimming.",
+			"isDelayNext": true,
+			"isShowReflectionStart": true,
+			"contentGroupId": "2",
+			"contentGroupName": "Helpful People Around You",
+			"nextContentId": 21
+		},
+		{
+			"id": 22,
+			"type": "REFLECTION",
+			"img_url": "",
+			"text": "Do you think they could help you to be more active in the next few weeks?",
+			"subtext": "",
+			"isDelayNext": true,
+			"contentGroupId": "2",
+			"nextContentId": 23
+		},
+		{
+			"id": 23,
+			"type": "STATEMENT",
+			"img_url": "",
+			"text": "You don't have to do physical activities alone. It is always good to get help from other people close to you!",
+			"subtext": ""
+		},
 
-    {
-      "id": 24,
-      "type": "COVER",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/cover.png",
-      "text": "Chapter 3: Forest Charity Race",
-      "subtext": null,
-      "isLocked": false
-    },
-    {
-      "id": 25,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_01.jpg",
-      "text": "Every year, the residents of the forest have a tradition that is unlike any other forest. They have a charity race.\n\nAnimals of all sizes bring their coolest bikes outside for a race to raise money to make the forest safe and clean. The fastest bicyclist is Bob the Rhino with his red bike.",
-      "subtext": null
-    },
-    {
-      "id": 26,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_02.jpg",
-      "text": "\"I want to win this race,\" says Sydney.\n\n\"But this is not a game to win, this is for everyone in the forest to have fun,\" says Pa Turkey.\n\n\"And to give something to the community,\" says Ma. \"I have a surprise for you,\" says Ma to Pa Turkey.\n\n",
-      "subtext": null
-    },
-    {
-      "id": 27,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_03.jpg",
-      "text": "She brings a new bike for Pa Turkey.\n\n\"Now you two can bike together in the race,\" says Ma.",
-      "subtext": null
-    },
-    {
-      "id": 28,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_04.jpg",
-      "text": "Sydney and Pa in the charity race together. Sometimes Sydney is ahead of her father. Sometimes, Pa is ahead of Sydney.\n\nSydney wants to win the race, so she pedals faster and faster. Then something really bad happened.",
-      "subtext": null
-    },
-    {
-      "id": 29,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_05.jpg",
-      "text": "Sydney's turkey contraption fell off her bike and and fell apart.",
-      "subtext": null
-    },
-    {
-      "id": 30,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_06.jpg",
-      "text": "\"There's no way to save this fake turkey! I can't bike anymore!\" yells Sydney who is feeling upset.\n\n\"And I'm going to lose the race,\" she says.\n\n\"Sydney, you have used the bike for two months. You can bike without the turkey contraption,\" said Pa Turkey.\n\n\"No, I can't! Sloths are not good at biking,\" says Sydney.",
-      "subtext": null
-    },
-    {
-      "id": 31,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_07.jpg",
-      "text": "\"You have been riding that bike all day every day for the last two months. Sloths can be good at biking,\" says Pa Turkey.\n\n\"Let's give it another try,\" says Pa.\n\nSydney begins to pedal his bike without the contraption turkey. One. Two. Three. And within seconds she is blazing through the forest!",
-      "subtext": null
-    },    
-    {
-      "id": 32,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_08.jpg",
-      "text": "Once she and her father got to the finish line, they hear the news. They came in last.\n\n\"We didn't win!\" says Sydney.\n\n\"But it doesn't matter,\" says a deep voice behind Sydney's back.",
-      "subtext": null
-    },    
-    {
-      "id": 33,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_09.jpg",
-      "text": "It's Bob the Rhino, the fastest cyclist in the forest.\n\n\"Did you bike without your turkey contraption today?\" he asks.\n\n\"Yes I did,\" Sydney answers.\n\n\"That is more important than winning, Sydney,\" says Bob.",
-      "subtext": null
-    },
-    {
-      "id": 34,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_10.jpg",
-      "text": "\"Winning is fun. But getting better at something is a lot more fun,\" Bob says.\n\n\"And today you are learned that you don't need the turkey contraption. You can balance all on your own!. You can go places with your bike by yourself. You can use your bike even when your Pa is not in the forest.\"",
-      "subtext": null
-    },    
-    {
-      "id": 35,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_11.jpg",
-      "text": "The night after the race, Sydney is feeling happy. She did not win the race, but she is getting better at something.\n\nAnd that is the most important thing of all.",
-      "subtext": null
-    },
-    {
-      "id": 36,
-      "type": "REFLECTION",
-      "img_url": null,
-      "text": "Tell me a story. Think about a time when you did not win a race or a physical activity game.",
-      "subtext": "",
-      "isDelayNext": true,
-      "isShowReflectionStart": true,
-	  "contentGroupId": "3",
-      "contentGroupName": "Being Active is Not Always About Winning",
-      "nextContentId": 37
-    },
-    {
-      "id": 37,
-      "type": "REFLECTION",
-      "img_url": "",
-      "text": "Did that makes you want to stop playing? Think about the good things that happened even when you did not win.",
-      "subtext": "",
-      "isDelayNext": true,
-	  "contentGroupId": "3",
-      "nextContentId": 38
-    },
-    {
-      "id": 38,
-      "type": "STATEMENT",
-      "img_url": "",
-      "text": "Practice makes perfect! It is more important to try your best at an activity, rather than thinking about winning.",
-      "subtext": ""
-    },
-    {
-      "id": 39,
-      "type": "COVER",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/cover.png",
-      "text": "Chapter 4: A Trip to the Hill",
-      "subtext": null,
-      "isLocked": false
-    },
-    {
-      "id": 40,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_01.jpg",
-      "text": "The better Sydney gets with her bike, the more places she can explore. Now, she can even bike all the way to riverside to chat with the Crocodiles.\n\n\"The crocodiles are very friendly,\" says Sydney to her Mom.",
-      "subtext": null
-    },
-    {
-      "id": 41,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_02.jpg",
-      "text": "Sydney bikes  to the meadows to race with the sheep.\n\n\"Their hair is very thick, but they do run very fast!\" says Sydney to her Pa.\n\nShe also bikes to the waterfall to sing with the fish.\n\n\"They sound like they're singing underwater!\" says Sydney.\n\n",
-      "subtext": null
-    },
-    {
-      "id": 42,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_03.jpg",
-      "text": "\"Why don't you take your little brother to the hill to sing with the birds?\" says Pa Turkey.\n\n\"But he doesn't have a bike,\" protests Sydney.\n\n\"You're going to walk your bike to the hill. Then you can use your bike there,\" says Pa.\n\n\"Okay,\" says Sydney.\n\n",
-      "subtext": null
-    },
-    {
-      "id": 43,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_04.jpg",
-      "text": "The next day, the two sloths walk to the hilly part of their neighborhood.\n\nSydney is not happy because she wants to ride her bike. Instead, she has to babysit her little brother instead.\n\n\"Just play with your kite,\" says Sydney to her brother.\n\nBut something unexpected is about to ruin their day.",
-      "subtext": null
-    },
-   {
-      "id": 44,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_05.jpg",
-      "text": "A strong wind pushes the two sloths to the ground and whisks the brother's kite away.\n\n\"I lost my kite,\" cries Sydney's brother.\n\nThe kite rolls around in the wind. It goes up and down and swirls around. Over and over again. Finally, it lands on a spot that the two sloths can't reach.",
-      "subtext": null
-    },
-    {
-      "id": 45,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_06.jpg",
-      "text": "It lands on top of a hill. One of the tallest hills in their neighborhood.\n\n\"Sydney, help me get my kite back. Can you bike there?\" asks Sydney\'s brother.\n\n\"I don't know. Sloths are not good at riding a bicycle,\" says Sydney before she pauses.",
-      "subtext": null
-    },   
-    {
-      "id": 46,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_07.jpg",
-      "text": "\"Sloths may not be good riding bikes, but I always get better at something every time I practice,\" Sydney whispered.",
-      "subtext": null
-    },   
-    {
-      "id": 47,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_08.jpg",
-      "text": "So she made up her mind. She pedals her bike. One... Two... Three.",
-      "subtext": null
-    },   
-    {
-      "id": 48,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_09.jpg",
-      "text": "And the nice cool breeze hit her face again. Sydney\'s brother\'s jaw dropped. His sister can bike very fast unlike any other sloths he has ever seen. She blazes all the way up the hill to get the kite and coasts all the way down.",
-      "subtext": null
-    },
-    {
-      "id": 49,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_10.jpg",
-      "text": "\"Here\'s your kite. Hold it tight,\" says Sydney to her brother.\n\nHer brother can\'t say a word. He is very impressed with his sister.\n\nFor Sydney, it doesn\'t matter if her brother doesn\'t even say thank you. What really matters is her brother\'s big smile. The smile that showed how proud he that his sister tries hard to learn to bike.",
-      "subtext": null
-    },
-    {
-      "id": 50,
-      "type": "REFLECTION",
-      "img_url": null,
-      "text": "Tell a story about a time when you realized that you were getting better to be active.",
-      "subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, swimming.",
-      "isDelayNext": true,
-      "isShowReflectionStart": true,
-	  "contentGroupId": "4",
-      "contentGroupName": "Getting Better At an Activity",
-      "nextContentId": 51
-    },
-    {
-      "id": 51,
-      "type": "REFLECTION",
-      "img_url": "",
-      "text": "How did it make you feel to know that you are getting good at that activity?",
-      "subtext": "",
-      "isDelayNext": true,
-	  "contentGroupId": "4",
-      "nextContentId": 52
-    },
-    {
-      "id": 52,
-      "type": "STATEMENT",
-      "img_url": "",
-      "text": "When you notice that an activity is getting easier, it means that you are getting better at it.",
-      "subtext": ""
-    },
-    {
-      "id": 53,
-      "type": "MEMO",
-      "img_url": "",
-      "text": "You have completed this storybook. Your next story is:\n\n\"Cobby and the Game of Cowabuball\"",
-      "subtext": "Press GO to see the storybooks.",
-    }
-  ]
+		{
+			"id": 24,
+			"type": "COVER",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/cover.png",
+			"text": "Chapter 3: Forest Charity Race",
+			"subtext": null,
+			"isLocked": false
+		},
+		{
+			"id": 25,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_01.jpg",
+			"text": "Every year, the residents of the forest have a tradition that is unlike any other forest. They have a charity race.\n\nAnimals of all sizes bring their coolest bikes outside for a race to raise money to make the forest safe and clean. The fastest bicyclist is Bob the Rhino with his red bike.",
+			"subtext": null
+		},
+		{
+			"id": 26,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_02.jpg",
+			"text": "\"I want to win this race,\" says Sydney.\n\n\"But this is not a game to win, this is for everyone in the forest to have fun,\" says Pa Turkey.\n\n\"And to give something to the community,\" says Ma. \"I have a surprise for you,\" says Ma to Pa Turkey.\n\n",
+			"subtext": null
+		},
+		{
+			"id": 27,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_03.jpg",
+			"text": "She brings a new bike for Pa Turkey.\n\n\"Now you two can bike together in the race,\" says Ma.",
+			"subtext": null
+		},
+		{
+			"id": 28,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_04.jpg",
+			"text": "Sydney and Pa in the charity race together. Sometimes Sydney is ahead of her father. Sometimes, Pa is ahead of Sydney.\n\nSydney wants to win the race, so she pedals faster and faster. Then something really bad happened.",
+			"subtext": null
+		},
+		{
+			"id": 29,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_05.jpg",
+			"text": "Sydney's turkey contraption fell off her bike and and fell apart.",
+			"subtext": null
+		},
+		{
+			"id": 30,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_06.jpg",
+			"text": "\"There's no way to save this fake turkey! I can't bike anymore!\" yells Sydney who is feeling upset.\n\n\"And I'm going to lose the race,\" she says.\n\n\"Sydney, you have used the bike for two months. You can bike without the turkey contraption,\" said Pa Turkey.\n\n\"No, I can't! Sloths are not good at biking,\" says Sydney.",
+			"subtext": null
+		},
+		{
+			"id": 31,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_07.jpg",
+			"text": "\"You have been riding that bike all day every day for the last two months. Sloths can be good at biking,\" says Pa Turkey.\n\n\"Let's give it another try,\" says Pa.\n\nSydney begins to pedal his bike without the contraption turkey. One. Two. Three. And within seconds she is blazing through the forest!",
+			"subtext": null
+		},
+		{
+			"id": 32,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_08.jpg",
+			"text": "Once she and her father got to the finish line, they hear the news. They came in last.\n\n\"We didn't win!\" says Sydney.\n\n\"But it doesn't matter,\" says a deep voice behind Sydney's back.",
+			"subtext": null
+		},
+		{
+			"id": 33,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_09.jpg",
+			"text": "It's Bob the Rhino, the fastest cyclist in the forest.\n\n\"Did you bike without your turkey contraption today?\" he asks.\n\n\"Yes I did,\" Sydney answers.\n\n\"That is more important than winning, Sydney,\" says Bob.",
+			"subtext": null
+		},
+		{
+			"id": 34,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_10.jpg",
+			"text": "\"Winning is fun. But getting better at something is a lot more fun,\" Bob says.\n\n\"And today you are learned that you don't need the turkey contraption. You can balance all on your own!. You can go places with your bike by yourself. You can use your bike even when your Pa is not in the forest.\"",
+			"subtext": null
+		},
+		{
+			"id": 35,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c3_11.jpg",
+			"text": "The night after the race, Sydney is feeling happy. She did not win the race, but she is getting better at something.\n\nAnd that is the most important thing of all.",
+			"subtext": null
+		},
+		{
+			"id": 36,
+			"type": "REFLECTION",
+			"img_url": null,
+			"text": "Tell me a story. Think about a time when you did not win a race or a physical activity game.",
+			"subtext": "",
+			"isDelayNext": true,
+			"isShowReflectionStart": true,
+			"contentGroupId": "3",
+			"contentGroupName": "Being Active is Not Always About Winning",
+			"nextContentId": 37
+		},
+		{
+			"id": 37,
+			"type": "REFLECTION",
+			"img_url": "",
+			"text": "Did that makes you want to stop playing? Think about the good things that happened even when you did not win.",
+			"subtext": "",
+			"isDelayNext": true,
+			"contentGroupId": "3",
+			"nextContentId": 38
+		},
+		{
+			"id": 38,
+			"type": "STATEMENT",
+			"img_url": "",
+			"text": "Practice makes perfect! It is more important to try your best at an activity, rather than thinking about winning.",
+			"subtext": ""
+		},
+		{
+			"id": 39,
+			"type": "COVER",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/cover.png",
+			"text": "Chapter 4: A Trip to the Hill",
+			"subtext": null,
+			"isLocked": false
+		},
+		{
+			"id": 40,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_01.jpg",
+			"text": "The better Sydney gets with her bike, the more places she can explore. Now, she can even bike all the way to riverside to chat with the Crocodiles.\n\n\"The crocodiles are very friendly,\" says Sydney to her Mom.",
+			"subtext": null
+		},
+		{
+			"id": 41,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_02.jpg",
+			"text": "Sydney bikes  to the meadows to race with the sheep.\n\n\"Their hair is very thick, but they do run very fast!\" says Sydney to her Pa.\n\nShe also bikes to the waterfall to sing with the fish.\n\n\"They sound like they're singing underwater!\" says Sydney.\n\n",
+			"subtext": null
+		},
+		{
+			"id": 42,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_03.jpg",
+			"text": "\"Why don't you take your little brother to the hill to sing with the birds?\" says Pa Turkey.\n\n\"But he doesn't have a bike,\" protests Sydney.\n\n\"You're going to walk your bike to the hill. Then you can use your bike there,\" says Pa.\n\n\"Okay,\" says Sydney.\n\n",
+			"subtext": null
+		},
+		{
+			"id": 43,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_04.jpg",
+			"text": "The next day, the two sloths walk to the hilly part of their neighborhood.\n\nSydney is not happy because she wants to ride her bike. Instead, she has to babysit her little brother instead.\n\n\"Just play with your kite,\" says Sydney to her brother.\n\nBut something unexpected is about to ruin their day.",
+			"subtext": null
+		},
+		{
+			"id": 44,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_05.jpg",
+			"text": "A strong wind pushes the two sloths to the ground and whisks the brother's kite away.\n\n\"I lost my kite,\" cries Sydney's brother.\n\nThe kite rolls around in the wind. It goes up and down and swirls around. Over and over again. Finally, it lands on a spot that the two sloths can't reach.",
+			"subtext": null
+		},
+		{
+			"id": 45,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_06.jpg",
+			"text": "It lands on top of a hill. One of the tallest hills in their neighborhood.\n\n\"Sydney, help me get my kite back. Can you bike there?\" asks Sydney's brother.\n\n\"I don't know. Sloths are not good at riding a bicycle,\" says Sydney before she pauses.",
+			"subtext": null
+		},
+		{
+			"id": 46,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_07.jpg",
+			"text": "\"Sloths may not be good riding bikes, but I always get better at something every time I practice,\" Sydney whispered.",
+			"subtext": null
+		},
+		{
+			"id": 47,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_08.jpg",
+			"text": "So she made up her mind. She pedals her bike. One... Two... Three.",
+			"subtext": null
+		},
+		{
+			"id": 48,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_09.jpg",
+			"text": "And the nice cool breeze hit her face again. Sydney's brother's jaw dropped. His sister can bike very fast unlike any other sloths he has ever seen. She blazes all the way up the hill to get the kite and coasts all the way down.",
+			"subtext": null
+		},
+		{
+			"id": 49,
+			"type": "PAGE",
+			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c4_10.jpg",
+			"text": "\"Here's your kite. Hold it tight,\" says Sydney to her brother.\n\nHer brother can't say a word. He is very impressed with his sister.\n\nFor Sydney, it doesn't matter if her brother doesn't even say thank you. What really matters is her brother's big smile. The smile that showed how proud he that his sister tries hard to learn to bike.",
+			"subtext": null
+		},
+		{
+			"id": 50,
+			"type": "REFLECTION",
+			"img_url": null,
+			"text": "Tell a story about a time when you realized that you were getting better to be active.",
+			"subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, swimming.",
+			"isDelayNext": true,
+			"isShowReflectionStart": true,
+			"contentGroupId": "4",
+			"contentGroupName": "Getting Better At an Activity",
+			"nextContentId": 51
+		},
+		{
+			"id": 51,
+			"type": "REFLECTION",
+			"img_url": "",
+			"text": "How did it make you feel to know that you are getting good at that activity?",
+			"subtext": "",
+			"isDelayNext": true,
+			"contentGroupId": "4",
+			"nextContentId": 52
+		},
+		{
+			"id": 52,
+			"type": "STATEMENT",
+			"img_url": "",
+			"text": "When you notice that an activity is getting easier, it means that you are getting better at it.",
+			"subtext": ""
+		},
+		{
+			"id": 53,
+			"type": "MEMO",
+			"img_url": "",
+			"text": "You have completed this storybook. Your next story is:\n\n\"\"",
+			"subtext": "Press GO to see the storybooks."
+		}
+	]
 }
