@@ -184,7 +184,7 @@
       "nextContentId": 24
     },
     {
-      "id": 16,
+      "id": 24,
       "type": "REFLECTION",
       "img_url": "",
       "text": "What can you learn from that person?",
@@ -319,7 +319,7 @@
       "nextContentId": 42
     },
     {
-      "id": 31,
+      "id": 42,
       "type": "REFLECTION",
       "img_url": "",
       "text": "Who are the people that helped you to become good at it?",
