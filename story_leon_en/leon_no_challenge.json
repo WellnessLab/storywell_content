@@ -4,90 +4,90 @@
       "id": 0,
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/cover.png",
-      "text": "Leon is Hungry",
-      "subtext": "Chapter 1:\n\nThe Boo Camp",
+      "text": "Leon is Soooo Hungry",
+      "subtext": "",
       "isLocked": false
     },
     {
       "id": 1,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_01.jpg",
-      "text": "On a windy day, a piece of paper flies from the sky and lands in front of Sally the Salamander and her friend Herbert the squirrel.",
+      "text": "It is exactly noon when Leon the Lion was hungry for lunch. \n\n\"I haven't eaten anything since I woke up this morning,\" he says to himself. \n\n\"I can't play this video game very well when I’m hungry,\" he thought.",
       "subtext": null
     },
     {
       "id": 2,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_02.jpg",
-      "text": "\"Look, it says 'Boo Camp!' says Sally.\n\n\"I don’t like scary stuff,\" says Herbert hesitantly.\n\nSally says, \"I like scary stories. I want to go to this scary camp!\"\n",
+      "text": "Leon remembers that before his mother left for work, she left a plate of lasagna in the fridge. \n\nLeon paused his game console, walked to the kitchen, and opened the fridge.\n\nHe pulled the lasagna from the fridge’s shelf, but because he was so hungry he couldn't hold the dish tight enough.",
       "subtext": null
     },
     {
       "id": 3,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_03.jpg",
-      "text": "Sally fills out the form on the flyer and signed up for the lottery to win a free \"Boo Camp\" trip.",
+      "text": "The whole dish of lasagna fell on to the floor, smothering the otherwise clean kitchen.",
       "subtext": null
     },
     {
       "id": 4,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_04.jpg",
-      "text": "Sally waited for days and days.\n\nEight weeks passed when her dad gets a call from Australia.",
+      "text": "Now Leon is hungry and has nothing to eat.\n\nHowever, he remembers that there is a takeout place two blocks from his home. ",
       "subtext": null
     },
     {
       "id": 5,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_05.jpg",
-      "text": "It is Ms. Wallaby, a woman with a kind voice. Her voice is not clear because she's on the other side of the world.\n\nWhat Sally's dad hears is Sally has indeed won the lottery to go to the 'Boo Camp' for one month.",
+      "text": "Then he hears a voice very familiar to him. “Hey, Leon what are you doing standing outside your door like that,” asks a grey-haired otter. It’s Mr. Oscar.\n\nLeon is relieved because his mother has known Mr. Oscar for a very long time.",
       "subtext": null
     },
     {
       "id": 6,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_06.jpg",
-      "text": "Sally takes a long flight on a plane from her home to New York.\n\nFrom New York to Tokyo. From Tokyo to Jakarta.\n\nAnd from Jakarta to Darwin, Australia. \n\nThen she takes a bus from the Darwin airport to the Boo Camp, in the town of Humpty Doo in Outer Darwin.",
+      "text": "“I need to go to the takeaway place over there, but I’m scared to walk there,” says Lonnie pointing to the directions to the takeaway.",
       "subtext": null
     },
     {
       "id": 7,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_07.jpg",
-      "text": "When she gets there, Sally gets a shock of her lifetime. \n\nShe signed up for the \"Boomerang Camp\" not the \"Boo Camp.\" The \"merang\" in her flyer was ripped!\n\nBoomerang is a sports game from Australia. While it looks fun, Sally wants to go to scary camp, not a sports camp.",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_06.jpg",
+      "text": "“Well I happen to be on my walk to the pharmacy that is next to the takeaway,” says Mr. Oscar.\n\n“We can walk there together and get some exercise. I can tell you my story of when many years ago I went on an expedition to the North Pole!” says Mr. Oscar.",
       "subtext": null
     },
     {
       "id": 8,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_08.jpg",
-      "text": "Ms. Wallaby says that she can help. She calls Sally’s dad on the other side of the world.\n\nAs soon as her dad picked up the phone, Sally begins frantically explaining what happened.\n\n\"Sally,\" says her dad. \"I know you want to go home now, but you have traveled far. You can come home, but are you sure you don't want to give it a try and live in Australia for another week?\"",
+      "text": "“Yes, I would like to walk there and listen to your story,” said Leon.",
       "subtext": null
     },
     {
       "id": 9,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_09.jpg",
-      "text": "Sally is hesitant, but after thinking and more thinking, she decides it might be better to give a try.\n\nShe can always go home if she doesn't like the Boomerang Camp. But if she likes the Boomerang Camp, she can stay there for four weeks and make new friends!",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_01.jpg",
+      "text": "The little lion jumped off the porch and walked together with Mr. Oscar.",
       "subtext": null
     },
     {
       "id": 10,
       "type": "REFLECTION",
       "img_url": "",
-      "text": "Can you tell me a story about a time when you were scared to try a new activity?",
+      "text": "Tell me a story about when you were not sure how to do a new physical activity.",
       "subtext": "",
       "isDelayNext": true,
       "isShowReflectionStart": true,
       "contentGroupId": "1",
-      "contentGroupName": "Trying New Activity",
+      "contentGroupName": "Unsure About a New Activity",
       "nextContentId": 11
     },
     {
       "id": 11,
       "type": "REFLECTION",
       "img_url": "",
-      "text": "Instead of feeling scared, what are some good things you can think about when you are doing that activity?",
+      "text": "How did you feel sure you could do the activity?",
       "subtext": "",
       "contentGroupId": "1",
       "nextContentId": 12,
@@ -97,14 +97,14 @@
       "id": 12,
       "type": "STATEMENT",
       "img_url": "",
-      "text": "Sally was scared to stay at the camp, but she thinks she can make some really nice friends.\n\nIt is good to look for the fun parts when you are trying new physical activities!",
+      "text": "Trying new things can be difficult, but you may really like them!",
       "subtext": ""
     },
     {
       "id": 13,
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/cover.png",
-      "text": "Chapter 2:\n\nThe Boomerang Camp",
+      "text": "Chapter 2:\n\nLeon Missed the Restaurant",
       "subtext": null,
       "isLocked": false
     },
@@ -112,355 +112,306 @@
       "id": 14,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_01.jpg",
-      "text": "It's Sally's first morning at the Boomerang Camp in the town of Humpty Doo, Australia. \n\nThere are 20 kids from all over the world at the camp. The kids are excited to learn how to use a boomerang.",
+      "text": "Leon and Mr. Oscar walked to the takeaway place to get Leon’s lunch.\n\nWhile they walk briskly, Mr. Oscar tells Leon about his expedition to the North Pole.",
       "subtext": null
     },
     {
       "id": 15,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_02.jpg",
-      "text": "The training begins after breakfast. Ms. Wallaby starts with a demonstration on how to throw a boomerang.\n\n\"Get a boomerang for you,\" says Ms. Wallaby while pointing to three buckets full of boomerangs.",
+      "text": "Mr. Oscar tells Leon about the giant whale in the Arctic sea that can jump as high as a two-story house.\n\n“They are big, but they surely can swim very fast,” says Mr. Leon as he concludes his story.",
       "subtext": null
     },
     {
       "id": 16,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_03.jpg",
-      "text": "The kids at the camp rush to boomerang buckets to get boomerangs that they liked most. There are purple boomerangs and orange boomerangs. There is a big boomerang with flowers and a small boomerang with a drawing of cars and trains.\n\nSally picks an pink boomerang with a picture of a crocodile.",
+      "text": "“Okay Leon, where are we going again?” asks Mr. Oscar.\n\nThen Leon realizes that he got a problem. He didn’t realize that he misses the takeaway place while he was listening to Mr. Oscar’s super interesting story about the north pole expedition.",
       "subtext": ""
     },
     {
       "id": 17,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_04.jpg",
-      "text": "Ms. Wallaby gives another example of how to throw a boomerang. Then she said, \"Okay everyone, now throw your boomerangs.\"",
+      "text": "Leon is feeling upset again.\n\n“I think we might have missed the takeaway restaurant,” says Leon as he tries to contain his upsetness.",
       "subtext": null
     },
     {
       "id": 18,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_05.jpg",
-      "text": "Immediately, the kids throw their boomerangs. Some boomerangs fly as far as nine feet. Some fly at a modest five feet.\n\nBut when Sally’s throws her pink boomerang, her boomerang only flies one foot far.",
+      "text": "“Oh, I’m sorry Leon. I guess I was just very excited to tell my stories,” says Mr. Oscar. \n\n",
       "subtext": null
     },
     {
       "id": 19,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_06.jpg",
-      "text": "\"I'm not good at this. I am going to fly home first thing in the morning,\" says Sally.",
+      "text": "“You know what, see that place on the corner? They have amazing tacos and I’ll get some for you!” says Mr. Oscar. ",
       "subtext": null
     },
     {
       "id": 20,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_07.jpg",
-      "text": "\"You have to try again,\" says Ms. Wallaby.\n\n\"Throw your boomerang like this,\" she says while demonstrating how to throw a boomerang correctly.",
+      "text": "So the little lion and the white-haired otter go to the taco place. \n\nLeon is a little exhausted and a little out of breath from the long walk.\n\nBut it was a fun walk anyway.",
       "subtext": null
     },
     {
       "id": 21,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_08.jpg",
-      "text": "Sally throws her orange boomerang once more.\n\nHer boomerang only flies three feet.\n\nTwo kids, Eve and Brandon cheer for Sally's new accomplishment!",
-      "subtext": null
-    },
-    {
-      "id": 22,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_09.jpg",
-      "text": "\"That's a very start, Sally,\" says Ms. Wallaby. \n\n\"If you keep trying, you can throw your boomerang five, ten, and even twenty feet further!\"",
-      "subtext": null
-    },
-    {
-      "id": 23,
       "type": "REFLECTION",
       "img_url": null,
-      "text": "Can you tell me a story? Can you tell me about a person you know that wasn't very good at an activity when they started but is now good at it?",
+      "text": "Can you tell a story about something fun you realized when you were being active?",
       "subtext": " ",
       "isDelayNext": true,
       "isShowReflectionStart": true,
       "contentGroupId": "2",
-      "contentGroupName": "Inspiring People",
-      "nextContentId": 24
+      "contentGroupName": "Finding Fun in Activities",
+      "nextContentId": 22
     },
     {
-      "id": 16,
+      "id": 22,
       "type": "REFLECTION",
       "img_url": "",
-      "text": "What can you learn from that person?",
+      "text": "How does fun exercise make you feel?",
       "subtext": "",
       "isDelayNext": true,
       "contentGroupId": "2",
-      "nextContentId": 25
+      "nextContentId": 23
     },
     {
-      "id": 25,
+      "id": 23,
       "type": "STATEMENT",
       "img_url": "",
-      "text": "It is good to have people to look up to when you are thinking about being more healthy.",
+      "text": "When you realize that exercise is fun, you will enjoy doing it.",
       "subtext": ""
     },
     {
-      "id": 26,
+      "id": 24,
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/cover.png",
-      "text": "Chapter 3:\n\nPractice Makes Perfect",
+      "text": "Chapter 3:\n\nLeon Meets Hubert",
       "subtext": null,
       "isLocked": false
     },
     {
-      "id": 27,
+      "id": 25,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_01.jpg",
-      "text": "Sally's throws keep getting better.\n\nShe has made further and further throws.\n\nBut no matter how hard she throws her boomerang, she can only go as far as five feet.",
+      "text": "Mr. Oscar the white-haired otter helped Leon the lion to get tacos for lunch. However, as the two entered the takeaway place they find a long line of animals about to order tacos.\n\n“I told you this tacos place is popular,” said Mr. Oscar as they walked into the end of the long line. However, suddenly Mr. Otter frowns.\n",
+      "subtext": null
+    },
+    {
+      "id": 26,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_02.jpg",
+      "text": "However, suddenly Mr. Otter frowns.\n\n“Oh my, it’s almost 3 ‘clock! I need to get my medicines to the pharmacy now,” yells Mr. Oscar.",
+      "subtext": null
+    },
+    {
+      "id": 27,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_03.jpg",
+      "text": "“Leon, I will need to leave you here for ten minutes. I need to get my medicines now,” says Mr. Oscar while he gave two $10 bills to Leon. \n\n“Wait here. Order some tacos. I’ll be right back in ten minutes! Get me veggies tacos. Don’t go anywhere!” says the otter.\n",
       "subtext": null
     },
     {
       "id": 28,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_02.jpg",
-      "text": "\"Am I not good at this. Or am I not trying hard enough?\" she mumbles.\n\n\"Come on, try again,\" says Priyanka the Platypus.",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_04.jpg",
+      "text": "Leon is still trying to grasp what is going on while Mr. Oscar ran very quickly to the pharmacy.\n\nAnd there is a problem: Leon is always nervous when ordering food in new restaurants. ",
       "subtext": null
     },
     {
       "id": 29,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_03.jpg",
-      "text": "\"Move your hand like this, then throw your boomerang like this,\" says Kaven Koala. \n\n\"But first you have to stand like that,\" he says while pointing to Ms. Wallaby.",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_05.jpg",
+      "text": "As Leon waits in the line, he comes closer and closer to the grumpy restaurant staff who takes the order.\n\nLeon has no idea what to do because he is very nervous.",
       "subtext": null
     },
     {
       "id": 30,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_04.jpg",
-      "text": "\"Okay. Stand like this. Move my hand like this. And throw like this,\" Sally mumbles.\n\nSally throws her boomerang, but what happens truly shocks her.",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_06.jpg",
+      "text": "Then he realizes that the person in front of him is somebody that he knows very well.\n\nIt’s Hubert Heron, also known as @whobert2005. He is a YouTube star, a video game expert, and the brother of Leon’s classmates. ",
       "subtext": null
     },
     {
       "id": 31,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_05.jpg",
-      "text": "A strong wind from the bushland pushes her boomerang away and makes it land towards the swamp.\n\nThe boomerang hits a saltwater crocodile.",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_07.jpg",
+      "text": "“Hey Hubert, this is Leon!” says Leon.\n\nHubert looks very happy to see Leon. “Hey, buddy! How are you doing! What are you doing here?” says the Heron.\n\n“I want to order tacos for me and Mr. Otter, but I always feel nervous when I’m in a new restaurant and the staff looks grumpy,” says Leon.",
       "subtext": null
     },
     {
       "id": 32,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_06.jpg",
-      "text": "\"I'm really sorry. I'm really sorry,\" says Sally as she rushes to make sure the crocodile is not hurt.",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_08.jpg",
+      "text": "“Hah! That’s ok. People get nervous for many reasons! I can order the tacos for you, but it will be more fun if you order it yourself,” says Hubert while he smiles. \n\n“Just say, ‘Can I get these tacos and those tacos please.’” says Hubert.\n\nLeon feels more comfortable now that there is Hubert with him. Leon is a still a little nervous when it was his turn to order the food, but he decides to say:\n\n“Hi ma-am. Can I get two chicken tacos and two veggies tacos, please? Thanks,” says Leon. He is relieved.\n\n“Sure, that would be ten dollars,” says the staff.\n\nLeon gave the money to the cashier and he got his tacos.",
       "subtext": null
     },
     {
       "id": 33,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_07.jpg",
-      "text": "\"That's okay. I'm thick-skinned. Boomerangs don't hurt me. \n\n\"My name is Cayden. What are you up to?\" says the crocodile.\n\n\"I'm really sorry. I was trying to learn how to throw a boomerang, but I can't throw farther than five feet!\" exclaims Sally.",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_09.jpg",
+      "text": "Immediately afterwards he saw Mr. Oscar rush into the tacos place.\n\n“Did you get the tacos?” asks Mr. Oscar.\n\n“I did, and these are your tacos,” Leon answers.",
       "subtext": null
     },
     {
       "id": 34,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_08.jpg",
-      "text": "\"Oh, you need to make your arm stronger and stronger to throw a boomerang. \n\n\"I can tell you how to be good at boomerang throwing. It’s arm strength,\" says Cayden.\n\n\"But I'm a salamander and I have weak arms,\" says Sally.\n\n\"Oh I used to have a weak arm, but not anymore. I can tell you a secret trick,\" says Cayden.",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_10.jpg",
+      "text": "“Hey Leon, do you want to hang out with my video game friends at that park across the street,” asks Hubert.\n\n“Sure! Mr. Oscar do you want to join us?” says Leon.\n\n“I would love to! But I need to feed my goldfish John. Maybe next time?” says Mr. Oscars as he parts with Leon and Hubert.\n\nLeon is excited now that he got really good tacos from Mr. Oscar and is going to hang out with Hubert’s video game friends.\n",
       "subtext": null
     },
     {
       "id": 35,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_09.jpg",
-      "text": "\"The secret trick is, I filled a big plastic bottle with water and I lifted it up and down for five minutes every day,\" says Cayden. \n\n\"To be healthy and good at sport, you need to be active at home too.\"\n\n\"That sounds like a good idea. So I need to practice here in the field and practice at home too?\" Sally asks.\n\n“Absolutely! That’s how I got good arm strength,” says Cayden.",
-      "subtext": null
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Tell me a story. What are the things that make you feel not sure you can do a new activity?",
+      "subtext": "A \"physical activity\" is a thing you do that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "3",
+      "contentGroupName": "People Who Can Help You",
+      "nextContentId": 36
     },
     {
       "id": 36,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_10.jpg",
-      "text": "That night before bed, Sally looks for a big plastic bottle and fills it with water. She secures the cap so the water won't spill out. \n\nThen she lifted the bottle up and down.\n\nFive times using her left arm, and five times using her right. ",
-      "subtext": null
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "How can adults help you with that?",
+      "subtext": "",
+      "isDelayNext": true,
+      "contentGroupId": "3",
+      "nextContentId": 37
     },
     {
       "id": 37,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_01.jpg",
-      "text": "The next day, Sally throws the boomerang. Again, she only throws it 5 feet.\n\nSally is disappointed.",
-      "subtext": null
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "It's good to ask for help when you are not sure about doing a physical activity.",
+      "subtext": ""
     },
     {
       "id": 38,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_12.jpg",
-      "text": "Cayden sees that Sally is disappointed and says \"Don't worry. It takes everyone time to get better at throwing a boomerang.\"",
-      "subtext": null
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/cover.png",
+      "text": "Chapter 4:\n\nMeeting the Video Games Expert",
+      "subtext": null,
+      "isLocked": false
     },
     {
       "id": 39,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_10.jpg",
-      "text": "Sally continues to use Cayden's secret trick exercise.\n\nOn the fifth day, something exciting happened.",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_01.jpg",
+      "text": "Leon and Hubert the video game expert are at the park across the tacos place. As they finish their tacos Leon hears several people say hi to Hubert. \n\nThey are Hubert friends who play video games a lot. They are video game experts!",
       "subtext": null
     },
     {
       "id": 40,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_11.jpg",
-      "text": "Sally throws her boomerang as far as 6 feet!\n\nOne foot farther than she had ever thrown a boomerang before!!",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_02.jpg",
+      "text": "“Hey guys,” says Hubert. “This little guy over here is Leon. He’s a good friend of my brother.”\n\n“Hey Leon, how’s it going?” asks Bob.\n\n“How are you doing, Leon?” says Clara.\n\n“Hey Leon,” Bob shouts. “Do you want to play a game with us?” he asks.\n",
       "subtext": null
     },
     {
       "id": 41,
-      "type": "REFLECTION",
-      "img_url": null,
-      "text": "Can you tell me a story? Can you tell a story about the time when you became good at an activity or sport?",
-      "subtext": "An \"activity\" things you do that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.",
-      "isDelayNext": true,
-      "isShowReflectionStart": true,
-      "contentGroupId": "3",
-      "contentGroupName": "People Who Help You Getting Good at Exercising",
-      "nextContentId": 42
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_03.jpg",
+      "text": "Without any hesitation, Leon says, “Yes. Of course!” \n\nLeon loves playing video games, and playing with video game experts sounds like a lot of fun.",
+      "subtext": null
     },
     {
-      "id": 31,
-      "type": "REFLECTION",
-      "img_url": "",
-      "text": "Who are the people that helped you to become good at it?",
-      "subtext": "",
-      "isDelayNext": true,
-      "contentGroupId": "3",
-      "nextContentId": 43
+      "id": 42,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_05.jpg",
+      "text": "Then Bob says, “Great!” while he pull out a brown basketball out of his bag. “Come on let’s play a few games,” says Bob.",
+      "subtext": null
     },
     {
       "id": 43,
-      "type": "STATEMENT",
-      "img_url": "",
-      "text": "Getting help from other people helps you to be good at sports.\n\nHelping others to be more active can make more people be healthy.",
-      "subtext": ""
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_06.jpg",
+      "text": "Leon is confused. “But, I thought we’re going to play video games,” he asks.",
+      "subtext": null
     },
     {
       "id": 44,
-      "type": "COVER",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/cover.png",
-      "text": "Chapter 4:\n\nLast Days of Camp",
-      "subtext": null,
-      "isLocked": false
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_08.jpg",
+      "text": "Hubert answers, “Oh no. We don’t play video games all the time. We also play basketball. \n\nIt makes your heart stronger.” Then Hubert says, “Do you still want to play basketball with us?”",
+      "subtext": null
     },
     {
       "id": 45,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_01.jpg",
-      "text": "Sally is so much better at throwing boomerangs than when she first arrived at the Boomerang Camp in the town of Humpty Doo. \n\nAt first, she could barely throw the boomerang one foot. \n\nNow with practice, she keeps improving, throwing the boomerang as far as five feet, seven feet, and more.",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_07.jpg",
+      "text": "Leon says, “Yes!”",
       "subtext": null
     },
     {
       "id": 46,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_02.jpg",
-      "text": "Three days before the last day at the Boomerang Camp, Sally's throws her boomerang and it flew 15 feet.\n\nWhat happened afterward made everyone yell in excitement.",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_09.jpg",
+      "text": "So the little lion played basketball with Hubert, Bob, and Clara.",
       "subtext": null
     },
     {
       "id": 47,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_03.jpg",
-      "text": "Sally’s boomerang flew around a tree...\n\na watering hole...\n\nand the tall rocks.\n\nThen it landed back on the ground in front of Sally's little salamander feet.\n\n",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_10.jpg",
+      "text": "They play until the sun almost sets.",
       "subtext": null
     },
     {
       "id": 48,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_04.jpg",
-      "text": "Sally is happy that she learned to throw a boomerang, but she is feeling upset that the last day of camp is coming closer and closer.",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_11.jpg",
+      "text": "Soon, Leon’s mom comes to pick him up. Leon is a little upset that he had to stop playing basketball.",
       "subtext": null
     },
     {
       "id": 49,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_05.jpg",
-      "text": "\"Ms. Wallaby, I don't want to go home. I will miss my friends Cayden, Priyanka, and Kaven,\" says Sally to the boomerang teacher.\n\n\"Sally, you can always call them and send them emails. They also helped you to learn to throw a boomerang. Every time you throw a boomerang they are also with you,\" says Ms. Wallaby.",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_12.jpg",
+      "text": "But then, Hubert says something. “Hey, it was fun playing the game with you. Let’s plan to do this again this week!’\n\nLeon is a happy lion as he will play with Hubert, Bob, and Clara again this week. As he walked home with his Mom, Leon tells her how amazing his day was.\n",
       "subtext": null
     },
     {
       "id": 50,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_06.jpg",
-      "text": "\"And look, who is that behind the door?\" asks Ms. Wallaby.\n\nThe figure behind the door is Cayden carrying a box wrapped in blue paper and a pink tape.",
-      "subtext": null
-    },
-    {
-      "id": 51,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_07.jpg",
-      "text": "\"Sally I will miss you, and I have something for you,\" says Cayden the Crocodile.\n\n\"Thank you, Cayden. I will miss you, too!\" says Sally.\n",
-      "subtext": null
-    },
-    {
-      "id": 52,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_08.jpg",
-      "text": "\"Thank you, Cayden. I will miss you, too!\" says Sally.\n\nSally unwrapped Cayden's gift. It was wrapped using seven layers of gift wraps. Inside the gift box was a orange boomerang with a picture of a crocodile.\n\n\"Cayden, thank you very much,\" says Sally. \n",
-      "subtext": null
-    },
-    {
-      "id": 53,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_09.jpg",
-      "text": "\"You should keep my boomerang.\" Sally hands Cayden her pink boomerang.\n\n\"Thank you, Sally. I will remember you every time I play with this boomerang,\" says Cayden.\n",
-      "subtext": null
-    },
-    {
-      "id": 54,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_10.jpg",
-      "text": "\n\n\n\nThey hug and say goodbye.",
-      "subtext": null
-    },
-    {
-      "id": 55,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_11.jpg",
-      "text": "Back home, Sally teaches her friends in her neighborhood to throw boomerangs.\n\nBoomerangs become so popular that every convenience store on every block sells boomerangs!",
-      "subtext": null
-    },
-    {
-      "id": 56,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_12.jpg",
-      "text": "Sally does not feel sad. In fact, she always feels happy when she throws her orange boomerang from Cayden.\n\nShe knows that she has a best friend on the other side of the world.",
-      "subtext": null
-    },
-    {
-      "id": 57,
       "type": "REFLECTION",
       "img_url": null,
-      "text": "Can you tell a story about a time when you exercised or be active with people that you really like?",
+      "text": "Leon enjoyed playing sport and he plans to it again. Tell me about a time when you plan a physical activity. ",
       "subtext": "",
       "isDelayNext": true,
       "isShowReflectionStart": true,
       "contentGroupId": "4",
-      "contentGroupName": "People You Like To Exercise With",
-      "nextContentId": 58
+      "contentGroupName": "Planning Exercise Activities",
+      "nextContentId": 51
     },
     {
-      "id": 58,
+      "id": 51,
       "type": "REFLECTION",
       "img_url": "",
-      "text": "Tell the good feelings when you exercised with people that you like?",
+      "text": "How does thinking about physical activities helps you to be active?",
       "subtext": "",
       "isDelayNext": true,
       "contentGroupId": "4",
-      "nextContentId": 59
+      "nextContentId": 52
     },
     {
       "id": 59,
       "type": "STATEMENT",
       "img_url": "",
-      "text": "Physical activity can be a lot of fun if you do it with somebody that you really like.",
+      "text": "Sometimes planning our activities helps us achieve our goals!",
       "subtext": ""
     },
     {
-      "id": 60,
+      "id": 53,
       "type": "MEMO",
       "img_url": "",
-      "text": "You have completed this storybook. Your next story is:\n\n\"Leon is Hungry\"",
+      "text": "You have completed this storybook.",
       "subtext": "Press GO to see the storybooks."
     }
   ]

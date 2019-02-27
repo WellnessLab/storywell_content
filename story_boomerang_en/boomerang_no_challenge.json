@@ -311,7 +311,7 @@
       "type": "REFLECTION",
       "img_url": null,
       "text": "Can you tell me a story? Can you tell a story about the time when you became good at an activity or sport?",
-      "subtext": "An \"activity\" things you do that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.",
+      "subtext": "An \"activity\" is a thing you do that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.",
       "isDelayNext": true,
       "isShowReflectionStart": true,
       "contentGroupId": "3",
