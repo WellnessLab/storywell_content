@@ -254,25 +254,46 @@
       "id": 33,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_08.jpg",
-      "text": "“Hah! That’s ok. People get nervous for many reasons! I can order the tacos for you, but it will be more fun if you order it yourself,” says Hubert while he smiles. \n\n“Just say, ‘Can I get these tacos and those tacos please.’” says Hubert.\n\nLeon feels more comfortable now that there is Hubert with him. Leon is a still a little nervous when it was his turn to order the food, but he decides to say:\n\n“Hi ma-am. Can I get two chicken tacos and two veggies tacos, please? Thanks,” says Leon. He is relieved.\n\n“Sure, that would be ten dollars,” says the staff.\n\nLeon gave the money to the cashier and he got his tacos.",
-      "subtext": null
-    },
-    {
-      "id": 33,
-      "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_09.jpg",
-      "text": "Immediately afterwards he saw Mr. Oscar rush into the tacos place.\n\n“Did you get the tacos?” asks Mr. Oscar.\n\n“I did, and these are your tacos,” Leon answers.",
+      "text": "“Hah! That’s ok. People get nervous for many reasons! I can order the tacos for you, but it will be more fun if you order it yourself,” says Hubert. \n\n“Just say, ‘Can I get these tacos and those tacos please.’” says Hubert.",
       "subtext": null
     },
     {
       "id": 34,
       "type": "PAGE",
-      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_10.jpg",
-      "text": "“Hey Leon, do you want to hang out with my video game friends at that park across the street,” asks Hubert.\n\n“Sure! Mr. Oscar do you want to join us?” says Leon.\n\n“I would love to! But I need to feed my goldfish John. Maybe next time?” says Mr. Oscars as he parts with Leon and Hubert.\n\nLeon is excited now that he got really good tacos from Mr. Oscar and is going to hang out with Hubert’s video game friends.\n",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_09.jpg",
+      "text": "Leon feels more comfortable now that there is Hubert with him. Leon is a still a little nervous when it was his turn to order the food, but he decides to say:\n\n“Hi ma-am. Can I get two chicken tacos and two veggies tacos, please? Thanks,” says Leon. He is relieved.\n\nLeon gave the money to the cashier and he got his tacos.",
       "subtext": null
     },
     {
       "id": 35,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_10.jpg",
+      "text": "Immediately afterwards he saw Mr. Oscar rush into the tacos place.\n\n“Did you get the tacos?” asks Mr. Oscar.\n\n“I did, and these are your tacos,” Leon answers.",
+      "subtext": null
+    },
+    {
+      "id": 36,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_11.jpg",
+      "text": "“Hey Leon, do you want to hang out with my video game friends at that park across the street,” asks Hubert.\n\n“Sure! Mr. Oscar do you want to join us?” asks Leon.",
+      "subtext": null
+    },
+    {
+      "id": 37,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_13.jpg",
+      "text": "“I would love to! But I need to feed my goldfish John. Maybe next time?” says Mr. Oscars as he parts with Leon and Hubert.\n\nLeon is excited now that he got really good tacos from Mr. Oscar and is going to hang out with Hubert’s video game friends.\n",
+      "subtext": null
+    },
+    {
+      "id": 38,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_13.jpg",
+      "text": "Leon is excited now that he got really good tacos from Mr. Oscar and is going to hang out with Hubert’s video game friends.",
+      "subtext": null
+    },
+    {
+      "id": 39,
       "type": "REFLECTION",
       "img_url": null,
       "text": "Tell me a story. What are the things that make you feel not sure you can do a new activity?",
@@ -281,27 +302,27 @@
       "isShowReflectionStart": true,
       "contentGroupId": "3",
       "contentGroupName": "People Who Can Help You",
-      "nextContentId": 36
+      "nextContentId": 40
     },
     {
-      "id": 36,
+      "id": 40,
       "type": "REFLECTION",
       "img_url": "",
       "text": "How can adults help you with that?",
       "subtext": "",
       "isDelayNext": true,
       "contentGroupId": "3",
-      "nextContentId": 37
+      "nextContentId": 41
     },
     {
-      "id": 37,
+      "id": 41,
       "type": "STATEMENT",
       "img_url": "",
       "text": "It's good to ask for help when you are not sure about doing a physical activity.",
       "subtext": ""
     },
     {
-      "id": 38,
+      "id": 42,
       "type": "COVER",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/cover.png",
       "text": "Chapter 4:\n\nMeeting the Video Games Expert",
@@ -309,84 +330,84 @@
       "isLocked": false
     },
     {
-      "id": 39,
+      "id": 43,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_01.jpg",
       "text": "Leon and Hubert the video game expert are at the park across the tacos place. As they finish their tacos Leon hears several people say hi to Hubert. \n\nThey are Hubert friends who play video games a lot. They are video game experts!",
       "subtext": null
     },
     {
-      "id": 40,
+      "id": 44,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_02.jpg",
       "text": "“Hey guys,” says Hubert. “This little guy over here is Leon. He’s a good friend of my brother.”\n\n“Hey Leon, how’s it going?” asks Bob.\n\n“How are you doing, Leon?” says Clara.\n\n“Hey Leon,” Bob shouts. “Do you want to play a game with us?” he asks.\n",
       "subtext": null
     },
     {
-      "id": 41,
+      "id": 45,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_03.jpg",
       "text": "Without any hesitation, Leon says, “Yes. Of course!” \n\nLeon loves playing video games, and playing with video game experts sounds like a lot of fun.",
       "subtext": null
     },
     {
-      "id": 42,
+      "id": 46,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_05.jpg",
       "text": "Then Bob says, “Great!” while he pull out a brown basketball out of his bag. “Come on let’s play a few games,” says Bob.",
       "subtext": null
     },
     {
-      "id": 43,
+      "id": 47,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_06.jpg",
       "text": "Leon is confused. “But, I thought we’re going to play video games,” he asks.",
       "subtext": null
     },
     {
-      "id": 44,
+      "id": 48,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_08.jpg",
       "text": "Hubert answers, “Oh no. We don’t play video games all the time. We also play basketball. \n\nIt makes your heart stronger.” Then Hubert says, “Do you still want to play basketball with us?”",
       "subtext": null
     },
     {
-      "id": 45,
+      "id": 49,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_07.jpg",
       "text": "Leon says, “Yes!”",
       "subtext": null
     },
     {
-      "id": 46,
+      "id": 50,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_09.jpg",
       "text": "So the little lion played basketball with Hubert, Bob, and Clara.",
       "subtext": null
     },
     {
-      "id": 47,
+      "id": 51,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_10.jpg",
       "text": "They play until the sun almost sets.",
       "subtext": null
     },
     {
-      "id": 48,
+      "id": 52,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_11.jpg",
       "text": "Soon, Leon’s mom comes to pick him up. Leon is a little upset that he had to stop playing basketball.",
       "subtext": null
     },
     {
-      "id": 49,
+      "id": 53,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_12.jpg",
       "text": "But then, Hubert says something. “Hey, it was fun playing the game with you. Let’s plan to do this again this week!’\n\nLeon is a happy lion as he will play with Hubert, Bob, and Clara again this week. As he walked home with his Mom, Leon tells her how amazing his day was.\n",
       "subtext": null
     },
     {
-      "id": 50,
+      "id": 54,
       "type": "REFLECTION",
       "img_url": null,
       "text": "Leon enjoyed playing sport and he plans to it again. Tell me about a time when you plan a physical activity. ",
@@ -395,27 +416,27 @@
       "isShowReflectionStart": true,
       "contentGroupId": "4",
       "contentGroupName": "Planning Exercise Activities",
-      "nextContentId": 51
+      "nextContentId": 55
     },
     {
-      "id": 51,
+      "id": 55,
       "type": "REFLECTION",
       "img_url": "",
       "text": "How does thinking about physical activities helps you to be active?",
       "subtext": "",
       "isDelayNext": true,
       "contentGroupId": "4",
-      "nextContentId": 52
+      "nextContentId": 56
     },
     {
-      "id": 59,
+      "id": 56,
       "type": "STATEMENT",
       "img_url": "",
       "text": "Sometimes planning our activities helps us achieve our goals!",
       "subtext": ""
     },
     {
-      "id": 53,
+      "id": 57,
       "type": "MEMO",
       "img_url": "",
       "text": "You have completed this storybook.",
