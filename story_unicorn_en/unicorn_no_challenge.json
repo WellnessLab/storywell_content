@@ -305,11 +305,18 @@
       "id": 39,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_unicorn_en/c4_06.jpg",
-      "text": "\"Edith, this is my friend Mike,\" says the Unicorn, introducing the rhino. \n\n\"And this is Linus,\" says the unicorn while pointing to the flying penguin. \n\n\"This is my friend Edith who inspired me to be brave,\" says the Unicorn to Mike and Linus.\n\nEdith couldn't be any happier to have not only one, but two new friends.\n",
+      "text": "\"Edith, this is my friend Mike,\" says the Unicorn, introducing the rhino. \n\n\"And this is Linus,\" says the unicorn while pointing to the flying penguin. \n\n\"This is my friend Edith who inspired me to be brave,\" says the Unicorn to Mike and Linus.",
       "subtext": null
     },
     {
       "id": 40,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_unicorn_en/c4_07.jpg",
+      "text": "Edith couldn't be any happier to have not only one, but two new friends.\n",
+      "subtext": null
+    },
+    {
+      "id": 41,
       "type": "REFLECTION",
       "img_url": null,
       "text": "Can you tell me a story? Tell a story about someone you know who inspires you to be physically active.",
@@ -321,7 +328,7 @@
       "nextContentId": 41
     },
     {
-      "id": 41,
+      "id": 42,
       "type": "REFLECTION",
       "img_url": "",
       "text": "How do they inspire you to be more physically active?",
@@ -331,14 +338,14 @@
       "nextContentId": 42
     },
     {
-      "id": 42,
+      "id": 43,
       "type": "STATEMENT",
       "img_url": "",
       "text": "Looking up to people can help you become healthier as you grow older.",
       "subtext": ""
     },
     {
-      "id": 43,
+      "id": 44,
       "type": "MEMO",
       "img_url": "",
       "text": "You have completed this storybook. Your next story is:\n\n\"Sally the Salamander and the Boomerang School\"",
