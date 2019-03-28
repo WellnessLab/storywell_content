@@ -6,7 +6,7 @@
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/getting_started_en/getting_started-01.png",
       "text": "Welcome to Storywell!",
       "subtext": "",
-      "isLocked": true
+      "isLocked": false
     },
     {
       "id": 1,
