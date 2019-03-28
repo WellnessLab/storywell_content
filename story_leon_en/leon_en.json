@@ -1,0 +1,446 @@
+{
+  "contents": [
+    {
+      "id": 0,
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/cover.png",
+      "text": "Leon is Soooo Hungry",
+      "subtext": "",
+      "isLocked": true
+    },
+    {
+      "id": 1,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_01.jpg",
+      "text": "It is exactly noon when Leon the Lion was hungry for lunch. \n\n\"I haven't eaten anything since I woke up this morning,\" he says to himself. \n\n\"I can't play this video game very well when I’m hungry,\" he thought.",
+      "subtext": null
+    },
+    {
+      "id": 2,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_02.jpg",
+      "text": "Leon remembers that before his mother left for work, she left a plate of lasagna in the fridge. \n\nLeon paused his game console, walked to the kitchen, and opened the fridge.\n\nHe pulled the lasagna from the fridge’s shelf, but because he was so hungry he couldn't hold the dish tight enough.",
+      "subtext": null
+    },
+    {
+      "id": 3,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_03.jpg",
+      "text": "The whole dish of lasagna fell on to the floor, smothering the otherwise clean kitchen.",
+      "subtext": null
+    },
+    {
+      "id": 4,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_04.jpg",
+      "text": "Now Leon is hungry and has nothing to eat.\n\nHowever, he remembers that there is a takeout place two blocks from his home. ",
+      "subtext": null
+    },
+    {
+      "id": 5,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_05.jpg",
+      "text": "Leon immediately rushes to the foyer and opens the main door, but he was terrified. There were so many people outside and the traffic is very noisy.\n\nLeon freezes for a minute or two because he is so terrified outside.",
+      "subtext": null
+    },
+    {
+      "id": 6,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_06.jpg",
+      "text": "Then he hears a voice very familiar to him. “Hey, Leon what are you doing standing outside your door like that,” asks a grey-haired otter. It’s Mr. Oscar.\n\nLeon is relieved because his mother has known Mr. Oscar for a very long time.",
+      "subtext": null
+    },
+    {
+      "id": 7,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_07.jpg",
+      "text": "“I need to go to the takeaway place over there, but I’m scared to walk there,” says Lonnie pointing to the directions to the takeaway.",
+      "subtext": null
+    },
+    {
+      "id": 8,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_06.jpg",
+      "text": "“Well I happen to be on my walk to the pharmacy that is next to the takeaway,” says Mr. Oscar.\n\n“We can walk there together and get some exercise. I can tell you my story of when many years ago I went on an expedition to the North Pole!” says Mr. Oscar.",
+      "subtext": null
+    },
+    {
+      "id": 9,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c1_08.jpg",
+      "text": "“Yes, I would like to walk there and listen to your story,” said Leon.",
+      "subtext": null
+    },
+    {
+      "id": 10,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_01.jpg",
+      "text": "The little lion jumped off the porch and walked together with Mr. Oscar.",
+      "subtext": null
+    },
+    {
+      "id": 11,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "Tell me a story about when you were not sure how to do a new physical activity.",
+      "subtext": "",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "1",
+      "contentGroupName": "Unsure About a New Activity",
+      "nextContentId": 12
+    },
+    {
+      "id": 12,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "How did you feel sure you could do the activity?",
+      "subtext": "",
+      "contentGroupId": "1",
+      "nextContentId": 13,
+      "isDelayNext": true
+    },
+    {
+      "id": 13,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "Trying new things can be difficult, but you may really like them!",
+      "subtext": ""
+    },
+    {
+      "id": 14,
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/cover.png",
+      "text": "Chapter 2:\n\nLeon Missed the Restaurant",
+      "subtext": null,
+      "isLocked": false
+    },
+    {
+      "id": 15,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_01.jpg",
+      "text": "Leon and Mr. Oscar walked to the takeaway place to get Leon’s lunch.\n\nWhile they walk briskly, Mr. Oscar tells Leon about his expedition to the North Pole.",
+      "subtext": null
+    },
+    {
+      "id": 16,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_02.jpg",
+      "text": "Mr. Oscar tells Leon about the giant whale in the Arctic sea that can jump as high as a two-story house.\n\n“They are big, but they surely can swim very fast,” says Mr. Leon as he concludes his story.",
+      "subtext": null
+    },
+    {
+      "id": 17,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_03.jpg",
+      "text": "“Okay Leon, where are we going again?” asks Mr. Oscar.\n\nThen Leon realizes that he got a problem. He didn’t realize that he misses the takeaway place while he was listening to Mr. Oscar’s super interesting story about the north pole expedition.",
+      "subtext": ""
+    },
+    {
+      "id": 18,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_04.jpg",
+      "text": "Leon is feeling upset again.\n\n“I think we might have missed the takeaway restaurant,” says Leon as he tries to contain his upsetness.",
+      "subtext": null
+    },
+    {
+      "id": 19,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_05.jpg",
+      "text": "“Oh, I’m sorry Leon. I guess I was just very excited to tell my stories,” says Mr. Oscar. \n\n",
+      "subtext": null
+    },
+    {
+      "id": 20,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_06.jpg",
+      "text": "“You know what, see that place on the corner? They have amazing tacos and I’ll get some for you!” says Mr. Oscar. ",
+      "subtext": null
+    },
+    {
+      "id": 21,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c2_07.jpg",
+      "text": "So the little lion and the white-haired otter go to the taco place. \n\nLeon is a little exhausted and a little out of breath from the long walk.\n\nBut it was a fun walk anyway.",
+      "subtext": null
+    },
+    {
+      "id": 22,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Can you tell a story about something fun you realized when you were being active?",
+      "subtext": " ",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "2",
+      "contentGroupName": "Finding Fun in Activities",
+      "nextContentId": 23
+    },
+    {
+      "id": 23,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "How does fun exercise make you feel?",
+      "subtext": "",
+      "isDelayNext": true,
+      "contentGroupId": "2",
+      "nextContentId": 24
+    },
+    {
+      "id": 24,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "When you realize that exercise is fun, you will enjoy doing it.",
+      "subtext": ""
+    },
+    {
+      "id": 25,
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/cover.png",
+      "text": "Chapter 3:\n\nLeon Meets Hubert",
+      "subtext": null,
+      "isLocked": false
+    },
+    {
+      "id": 26,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_01.jpg",
+      "text": "Mr. Oscar the white-haired otter helped Leon the lion to get tacos for lunch. However, as the two entered the takeaway place they find a long line of animals about to order tacos.\n\n“I told you this tacos place is popular,” said Mr. Oscar as they walked into the end of the long line. However, suddenly Mr. Otter frowns.\n",
+      "subtext": null
+    },
+    {
+      "id": 27,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_02.jpg",
+      "text": "However, suddenly Mr. Otter frowns.\n\n“Oh my, it’s almost 3 ‘clock! I need to get my medicines to the pharmacy now,” yells Mr. Oscar.",
+      "subtext": null
+    },
+    {
+      "id": 28,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_03.jpg",
+      "text": "“Leon, I will need to leave you here for ten minutes. I need to get my medicines now,” says Mr. Oscar while he gave two $10 bills to Leon. \n\n“Wait here. Order some tacos. I’ll be right back in ten minutes! Get me veggies tacos. Don’t go anywhere!” says the otter.\n",
+      "subtext": null
+    },
+    {
+      "id": 29,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_04.jpg",
+      "text": "Leon is still trying to grasp what is going on while Mr. Oscar ran very quickly to the pharmacy.\n\nAnd there is a problem: Leon is always nervous when ordering food in new restaurants. ",
+      "subtext": null
+    },
+    {
+      "id": 30,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_05.jpg",
+      "text": "As Leon waits in the line, he comes closer and closer to the grumpy restaurant staff who takes the order.\n\nLeon has no idea what to do because he is very nervous.",
+      "subtext": null
+    },
+    {
+      "id": 31,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_06.jpg",
+      "text": "Then he realizes that the person in front of him is somebody that he knows very well.\n\nIt’s Hubert Heron, also known as @whobert2005. He is a YouTube star, a video game expert, and the brother of Leon’s classmates. ",
+      "subtext": null
+    },
+    {
+      "id": 32,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_07.jpg",
+      "text": "“Hey Hubert, this is Leon!” says Leon.\n\nHubert looks very happy to see Leon. “Hey, buddy! How are you doing! What are you doing here?” says the Heron.\n\n“I want to order tacos for me and Mr. Otter, but I always feel nervous when I’m in a new restaurant and the staff looks grumpy,” says Leon.",
+      "subtext": null
+    },
+    {
+      "id": 33,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_08.jpg",
+      "text": "“Hah! That’s ok. People get nervous for many reasons! I can order the tacos for you, but it will be more fun if you order it yourself,” says Hubert. \n\n“Just say, ‘Can I get these tacos and those tacos please.’” says Hubert.",
+      "subtext": null
+    },
+    {
+      "id": 34,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_09.jpg",
+      "text": "Leon feels more comfortable now that there is Hubert with him. Leon is a still a little nervous when it was his turn to order the food, but he decides to say:\n\n“Hi ma-am. Can I get two chicken tacos and two veggies tacos, please? Thanks,” says Leon. He is relieved.\n\nLeon gave the money to the cashier and he got his tacos.",
+      "subtext": null
+    },
+    {
+      "id": 35,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_10.jpg",
+      "text": "Immediately afterwards he saw Mr. Oscar rush into the tacos place.\n\n“Did you get the tacos?” asks Mr. Oscar.\n\n“I did, and these are your tacos,” Leon answers.",
+      "subtext": null
+    },
+    {
+      "id": 36,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_11.jpg",
+      "text": "“Hey Leon, do you want to hang out with my video game friends at that park across the street,” asks Hubert.\n\n“Sure! Mr. Oscar do you want to join us?” asks Leon.",
+      "subtext": null
+    },
+    {
+      "id": 37,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c3_13.jpg",
+      "text": "“I would love to! But I need to feed my goldfish John. Maybe next time?” says Mr. Oscars as he parts with Leon and Hubert.",
+      "subtext": null
+    },
+    {
+      "id": 38,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_01.jpg",
+      "text": "Leon is excited now that he got really good tacos from Mr. Oscar and is going to hang out with Hubert’s video game friends.",
+      "subtext": null
+    },
+    {
+      "id": 39,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Tell me a story. What are the things that make you feel not sure you can do a new activity?",
+      "subtext": "A \"physical activity\" is a thing you do that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "3",
+      "contentGroupName": "People Who Can Help You",
+      "nextContentId": 40
+    },
+    {
+      "id": 40,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "How can adults help you with that?",
+      "subtext": "",
+      "isDelayNext": true,
+      "contentGroupId": "3",
+      "nextContentId": 41
+    },
+    {
+      "id": 41,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "It's good to ask for help when you are not sure about doing a physical activity.",
+      "subtext": ""
+    },
+    {
+      "id": 42,
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/cover.png",
+      "text": "Chapter 4:\n\nMeeting the Video Games Expert",
+      "subtext": null,
+      "isLocked": false
+    },
+    {
+      "id": 43,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_01.jpg",
+      "text": "Leon and Hubert the video game expert are at the park across the tacos place. As they finish their tacos Leon hears several people say hi to Hubert. \n\nThey are Hubert friends who play video games a lot. They are video game experts!",
+      "subtext": null
+    },
+    {
+      "id": 44,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_02.jpg",
+      "text": "“Hey guys,” says Hubert. “This little guy over here is Leon. He’s a good friend of my brother.”\n\n“Hey Leon, how’s it going?” asks Bob.\n\n“How are you doing, Leon?” says Clara.\n\n“Hey Leon,” Bob shouts. “Do you want to play a game with us?” he asks.\n",
+      "subtext": null
+    },
+    {
+      "id": 45,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_03.jpg",
+      "text": "Without any hesitation, Leon says, “Yes. Of course!” \n\nLeon loves playing video games, and playing with video game experts sounds like a lot of fun.",
+      "subtext": null
+    },
+    {
+      "id": 46,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_05.jpg",
+      "text": "Then Bob says, “Great!” while he pull out a brown basketball out of his bag. “Come on let’s play a few games,” says Bob.",
+      "subtext": null
+    },
+    {
+      "id": 47,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_06.jpg",
+      "text": "Leon is confused. “But, I thought we’re going to play video games,” he asks.",
+      "subtext": null
+    },
+    {
+      "id": 48,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_08.jpg",
+      "text": "Hubert answers, “Oh no. We don’t play video games all the time. We also play basketball. \n\nIt makes your heart stronger.” Then Hubert says, “Do you still want to play basketball with us?”",
+      "subtext": null
+    },
+    {
+      "id": 49,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_07.jpg",
+      "text": "Leon says, “Yes!”",
+      "subtext": null
+    },
+    {
+      "id": 50,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_09.jpg",
+      "text": "So the little lion played basketball with Hubert, Bob, and Clara.",
+      "subtext": null
+    },
+    {
+      "id": 51,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_10.jpg",
+      "text": "They play until the sun almost sets.",
+      "subtext": null
+    },
+    {
+      "id": 52,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_11.jpg",
+      "text": "Soon, Leon’s mom comes to pick him up. Leon is a little upset that he had to stop playing basketball.",
+      "subtext": null
+    },
+    {
+      "id": 53,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_leon_en/c4_12.jpg",
+      "text": "But then, Hubert says something. “Hey, it was fun playing the game with you. Let’s plan to do this again this week!’\n\nLeon is a happy lion as he will play with Hubert, Bob, and Clara again this week. As he walked home with his Mom, Leon tells her how amazing his day was.\n",
+      "subtext": null
+    },
+    {
+      "id": 54,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Leon enjoyed playing sport and he plans to it again. Tell me about a time when you plan a physical activity. ",
+      "subtext": "",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "4",
+      "contentGroupName": "Planning Exercise Activities",
+      "nextContentId": 55
+    },
+    {
+      "id": 55,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "How does thinking about physical activities helps you to be active?",
+      "subtext": "",
+      "isDelayNext": true,
+      "contentGroupId": "4",
+      "nextContentId": 56
+    },
+    {
+      "id": 56,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "Sometimes planning our activities helps us achieve our goals!",
+      "subtext": ""
+    },
+    {
+      "id": 57,
+      "type": "MEMO",
+      "img_url": "",
+      "text": "You have completed this storybook.",
+      "subtext": "Press GO to see the storybooks."
+    }
+  ]
+}

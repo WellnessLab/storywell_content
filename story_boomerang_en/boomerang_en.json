@@ -1,0 +1,467 @@
+{
+  "contents": [
+    {
+      "id": 0,
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/cover.png",
+      "text": "Sally\nthe Salamander\nand the\nBoomerang School",
+      "subtext": "Chapter 1:\n\nThe Boo Camp",
+      "isLocked": true
+    },
+    {
+      "id": 1,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c1_01.jpg",
+      "text": "On a windy day, a piece of paper flies from the sky and lands in front of Sally the Salamander and her friend Herbert the squirrel.",
+      "subtext": null
+    },
+    {
+      "id": 2,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c1_02.jpg",
+      "text": "\"Look, it says 'Boo Camp!' says Sally.\n\n\"I don’t like scary stuff,\" says Herbert hesitantly.\n\nSally says, \"I like scary stories. I want to go to this scary camp!\"\n",
+      "subtext": null
+    },
+    {
+      "id": 3,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c1_03.jpg",
+      "text": "Sally fills out the form on the flyer and signed up for the lottery to win a free \"Boo Camp\" trip.",
+      "subtext": null
+    },
+    {
+      "id": 4,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c1_04.jpg",
+      "text": "Sally waited for days and days.\n\nEight weeks passed when her dad gets a call from Australia.",
+      "subtext": null
+    },
+    {
+      "id": 5,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c1_05.jpg",
+      "text": "It is Ms. Wallaby, a woman with a kind voice. Her voice is not clear because she's on the other side of the world.\n\nWhat Sally's dad hears is Sally has indeed won the lottery to go to the 'Boo Camp' for one month.",
+      "subtext": null
+    },
+    {
+      "id": 6,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c1_06.jpg",
+      "text": "Sally takes a long flight on a plane from her home to New York.\n\nFrom New York to Tokyo. From Tokyo to Jakarta.\n\nAnd from Jakarta to Darwin, Australia. \n\nThen she takes a bus from the Darwin airport to the Boo Camp, in the town of Humpty Doo in Outer Darwin.",
+      "subtext": null
+    },
+    {
+      "id": 7,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c1_07.jpg",
+      "text": "When she gets there, Sally gets a shock of her lifetime. \n\nShe signed up for the \"Boomerang Camp\" not the \"Boo Camp.\" The \"merang\" in her flyer was ripped!\n\nBoomerang is a sports game from Australia. While it looks fun, Sally wants to go to scary camp, not a sports camp.",
+      "subtext": null
+    },
+    {
+      "id": 8,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c1_08.jpg",
+      "text": "Ms. Wallaby says that she can help. She calls Sally’s dad on the other side of the world.\n\nAs soon as her dad picked up the phone, Sally begins frantically explaining what happened.\n\n\"Sally,\" says her dad. \"I know you want to go home now, but you have traveled far. You can come home, but are you sure you don't want to give it a try and live in Australia for another week?\"",
+      "subtext": null
+    },
+    {
+      "id": 9,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c1_09.jpg",
+      "text": "Sally is hesitant, but after thinking and more thinking, she decides it might be better to give a try.\n\nShe can always go home if she doesn't like the Boomerang Camp. But if she likes the Boomerang Camp, she can stay there for four weeks and make new friends!",
+      "subtext": null
+    },
+    {
+      "id": 10,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "Can you tell me a story about a time when you were scared to try a new activity?",
+      "subtext": "",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "1",
+      "contentGroupName": "Trying New Activity",
+      "nextContentId": 11
+    },
+    {
+      "id": 11,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "Instead of feeling scared, what are some good things you can think about when you are doing that activity?",
+      "subtext": "",
+      "contentGroupId": "1",
+      "nextContentId": 12,
+      "isDelayNext": true
+    },
+    {
+      "id": 12,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "Sally was scared to stay at the camp, but she thinks she can make some really nice friends.\n\nIt is good to look for the fun parts when you are trying new physical activities!",
+      "subtext": ""
+    },
+    {
+      "id": 13,
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/cover.png",
+      "text": "Chapter 2:\n\nThe Boomerang Camp",
+      "subtext": null,
+      "isLocked": false
+    },
+    {
+      "id": 14,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c2_01.jpg",
+      "text": "It's Sally's first morning at the Boomerang Camp in the town of Humpty Doo, Australia. \n\nThere are 20 kids from all over the world at the camp. The kids are excited to learn how to use a boomerang.",
+      "subtext": null
+    },
+    {
+      "id": 15,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c2_02.jpg",
+      "text": "The training begins after breakfast. Ms. Wallaby starts with a demonstration on how to throw a boomerang.\n\n\"Get a boomerang for you,\" says Ms. Wallaby while pointing to three buckets full of boomerangs.",
+      "subtext": null
+    },
+    {
+      "id": 16,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c2_03.jpg",
+      "text": "The kids at the camp rush to boomerang buckets to get boomerangs that they liked most. There are purple boomerangs and orange boomerangs. There is a big boomerang with flowers and a small boomerang with a drawing of cars and trains.\n\nSally picks an pink boomerang with a picture of a crocodile.",
+      "subtext": ""
+    },
+    {
+      "id": 17,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c2_04.jpg",
+      "text": "Ms. Wallaby gives another example of how to throw a boomerang. Then she said, \"Okay everyone, now throw your boomerangs.\"",
+      "subtext": null
+    },
+    {
+      "id": 18,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c2_05.jpg",
+      "text": "Immediately, the kids throw their boomerangs. Some boomerangs fly as far as nine feet. Some fly at a modest five feet.\n\nBut when Sally’s throws her pink boomerang, her boomerang only flies one foot far.",
+      "subtext": null
+    },
+    {
+      "id": 19,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c2_06.jpg",
+      "text": "\"I'm not good at this. I am going to fly home first thing in the morning,\" says Sally.",
+      "subtext": null
+    },
+    {
+      "id": 20,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c2_07.jpg",
+      "text": "\"You have to try again,\" says Ms. Wallaby.\n\n\"Throw your boomerang like this,\" she says while demonstrating how to throw a boomerang correctly.",
+      "subtext": null
+    },
+    {
+      "id": 21,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c2_08.jpg",
+      "text": "Sally throws her orange boomerang once more.\n\nHer boomerang only flies three feet.\n\nTwo kids, Eve and Brandon cheer for Sally's new accomplishment!",
+      "subtext": null
+    },
+    {
+      "id": 22,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c2_09.jpg",
+      "text": "\"That's a very start, Sally,\" says Ms. Wallaby. \n\n\"If you keep trying, you can throw your boomerang five, ten, and even twenty feet further!\"",
+      "subtext": null
+    },
+    {
+      "id": 23,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Can you tell me a story? Can you tell me about a person you know that wasn't very good at an activity when they started but is now good at it?",
+      "subtext": " ",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "2",
+      "contentGroupName": "Inspiring People",
+      "nextContentId": 24
+    },
+    {
+      "id": 24,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "What can you learn from that person?",
+      "subtext": "",
+      "isDelayNext": true,
+      "contentGroupId": "2",
+      "nextContentId": 25
+    },
+    {
+      "id": 25,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "It is good to have people to look up to when you are thinking about being more healthy.",
+      "subtext": ""
+    },
+    {
+      "id": 26,
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/cover.png",
+      "text": "Chapter 3:\n\nPractice Makes Perfect",
+      "subtext": null,
+      "isLocked": false
+    },
+    {
+      "id": 27,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c3_01.jpg",
+      "text": "Sally's throws keep getting better.\n\nShe has made further and further throws.\n\nBut no matter how hard she throws her boomerang, she can only go as far as five feet.",
+      "subtext": null
+    },
+    {
+      "id": 28,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c3_02.jpg",
+      "text": "\"Am I not good at this. Or am I not trying hard enough?\" she mumbles.\n\n\"Come on, try again,\" says Priyanka the Platypus.",
+      "subtext": null
+    },
+    {
+      "id": 29,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c3_03.jpg",
+      "text": "\"Move your hand like this, then throw your boomerang like this,\" says Kaven Koala. \n\n\"But first you have to stand like that,\" he says while pointing to Ms. Wallaby.",
+      "subtext": null
+    },
+    {
+      "id": 30,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c3_04.jpg",
+      "text": "\"Okay. Stand like this. Move my hand like this. And throw like this,\" Sally mumbles.\n\nSally throws her boomerang, but what happens truly shocks her.",
+      "subtext": null
+    },
+    {
+      "id": 31,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c3_05.jpg",
+      "text": "A strong wind from the bushland pushes her boomerang away and makes it land towards the swamp.\n\nThe boomerang hits a saltwater crocodile.",
+      "subtext": null
+    },
+    {
+      "id": 32,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c3_06.jpg",
+      "text": "\"I'm really sorry. I'm really sorry,\" says Sally as she rushes to make sure the crocodile is not hurt.",
+      "subtext": null
+    },
+    {
+      "id": 33,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c3_07.jpg",
+      "text": "\"That's okay. I'm thick-skinned. Boomerangs don't hurt me. \n\n\"My name is Cayden. What are you up to?\" says the crocodile.\n\n\"I'm really sorry. I was trying to learn how to throw a boomerang, but I can't throw farther than five feet!\" exclaims Sally.",
+      "subtext": null
+    },
+    {
+      "id": 34,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c3_08.jpg",
+      "text": "\"Oh, you need to make your arm stronger and stronger to throw a boomerang. \n\n\"I can tell you how to be good at boomerang throwing. It’s arm strength,\" says Cayden.\n\n\"But I'm a salamander and I have weak arms,\" says Sally.\n\n\"Oh I used to have a weak arm, but not anymore. I can tell you a secret trick,\" says Cayden.",
+      "subtext": null
+    },
+    {
+      "id": 35,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c3_09.jpg",
+      "text": "\"The secret trick is, I filled a big plastic bottle with water and I lifted it up and down for five minutes every day,\" says Cayden. \n\n\"To be healthy and good at sport, you need to be active at home too.\"\n\n\"That sounds like a good idea. So I need to practice here in the field and practice at home too?\" Sally asks.\n\n“Absolutely! That’s how I got good arm strength,” says Cayden.",
+      "subtext": null
+    },
+    {
+      "id": 36,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c3_10.jpg",
+      "text": "That night before bed, Sally looks for a big plastic bottle and fills it with water. She secures the cap so the water won't spill out. \n\nThen she lifted the bottle up and down.\n\nFive times using her left arm, and five times using her right. ",
+      "subtext": null
+    },
+    {
+      "id": 37,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c3_01.jpg",
+      "text": "The next day, Sally throws the boomerang. Again, she only throws it 5 feet.\n\nSally is disappointed.",
+      "subtext": null
+    },
+    {
+      "id": 38,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c3_12.jpg",
+      "text": "Cayden sees that Sally is disappointed and says \"Don't worry. It takes everyone time to get better at throwing a boomerang.\"",
+      "subtext": null
+    },
+    {
+      "id": 39,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c3_10.jpg",
+      "text": "Sally continues to use Cayden's secret trick exercise.\n\nOn the fifth day, something exciting happened.",
+      "subtext": null
+    },
+    {
+      "id": 40,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c3_11.jpg",
+      "text": "Sally throws her boomerang as far as 6 feet!\n\nOne foot farther than she had ever thrown a boomerang before!!",
+      "subtext": null
+    },
+    {
+      "id": 41,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Can you tell me a story? Can you tell a story about the time when you became good at an activity or sport?",
+      "subtext": "An \"activity\" is a thing you do that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "3",
+      "contentGroupName": "People Who Help You Getting Good at Exercising",
+      "nextContentId": 42
+    },
+    {
+      "id": 42,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "Who are the people that helped you to become good at it?",
+      "subtext": "",
+      "isDelayNext": true,
+      "contentGroupId": "3",
+      "nextContentId": 43
+    },
+    {
+      "id": 43,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "Getting help from other people helps you to be good at sports.\n\nHelping others to be more active can make more people be healthy.",
+      "subtext": ""
+    },
+    {
+      "id": 44,
+      "type": "COVER",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/cover.png",
+      "text": "Chapter 4:\n\nLast Days of Camp",
+      "subtext": null,
+      "isLocked": false
+    },
+    {
+      "id": 45,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c4_01.jpg",
+      "text": "Sally is so much better at throwing boomerangs than when she first arrived at the Boomerang Camp in the town of Humpty Doo. \n\nAt first, she could barely throw the boomerang one foot. \n\nNow with practice, she keeps improving, throwing the boomerang as far as five feet, seven feet, and more.",
+      "subtext": null
+    },
+    {
+      "id": 46,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c4_02.jpg",
+      "text": "Three days before the last day at the Boomerang Camp, Sally's throws her boomerang and it flew 15 feet.\n\nWhat happened afterward made everyone yell in excitement.",
+      "subtext": null
+    },
+    {
+      "id": 47,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c4_03.jpg",
+      "text": "Sally’s boomerang flew around a tree...\n\na watering hole...\n\nand the tall rocks.\n\nThen it landed back on the ground in front of Sally's little salamander feet.\n\n",
+      "subtext": null
+    },
+    {
+      "id": 48,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c4_04.jpg",
+      "text": "Sally is happy that she learned to throw a boomerang, but she is feeling upset that the last day of camp is coming closer and closer.",
+      "subtext": null
+    },
+    {
+      "id": 49,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c4_05.jpg",
+      "text": "\"Ms. Wallaby, I don't want to go home. I will miss my friends Cayden, Priyanka, and Kaven,\" says Sally to the boomerang teacher.\n\n\"Sally, you can always call them and send them emails. They also helped you to learn to throw a boomerang. Every time you throw a boomerang they are also with you,\" says Ms. Wallaby.",
+      "subtext": null
+    },
+    {
+      "id": 50,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c4_06.jpg",
+      "text": "\"And look, who is that behind the door?\" asks Ms. Wallaby.\n\nThe figure behind the door is Cayden carrying a box wrapped in blue paper and a pink tape.",
+      "subtext": null
+    },
+    {
+      "id": 51,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c4_07.jpg",
+      "text": "\"Sally I will miss you, and I have something for you,\" says Cayden the Crocodile.\n\n\"Thank you, Cayden. I will miss you, too!\" says Sally.\n",
+      "subtext": null
+    },
+    {
+      "id": 52,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c4_08.jpg",
+      "text": "\"Thank you, Cayden. I will miss you, too!\" says Sally.\n\nSally unwrapped Cayden's gift. It was wrapped using seven layers of gift wraps. Inside the gift box was a orange boomerang with a picture of a crocodile.\n\n\"Cayden, thank you very much,\" says Sally. \n",
+      "subtext": null
+    },
+    {
+      "id": 53,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c4_09.jpg",
+      "text": "\"You should keep my boomerang.\" Sally hands Cayden her pink boomerang.\n\n\"Thank you, Sally. I will remember you every time I play with this boomerang,\" says Cayden.\n",
+      "subtext": null
+    },
+    {
+      "id": 54,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c4_10.jpg",
+      "text": "\n\n\n\nThey hug and say goodbye.",
+      "subtext": null
+    },
+    {
+      "id": 55,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c4_11.jpg",
+      "text": "Back home, Sally teaches her friends in her neighborhood to throw boomerangs.\n\nBoomerangs become so popular that every convenience store on every block sells boomerangs!",
+      "subtext": null
+    },
+    {
+      "id": 56,
+      "type": "PAGE",
+      "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_boomerang_en/c4_12.jpg",
+      "text": "Sally does not feel sad. In fact, she always feels happy when she throws her orange boomerang from Cayden.\n\nShe knows that she has a best friend on the other side of the world.",
+      "subtext": null
+    },
+    {
+      "id": 57,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Can you tell a story about a time when you exercised or be active with people that you really like?",
+      "subtext": "",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "4",
+      "contentGroupName": "People You Like To Exercise With",
+      "nextContentId": 58
+    },
+    {
+      "id": 58,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "Tell the good feelings when you exercised with people that you like?",
+      "subtext": "",
+      "isDelayNext": true,
+      "contentGroupId": "4",
+      "nextContentId": 59
+    },
+    {
+      "id": 59,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "Physical activity can be a lot of fun if you do it with somebody that you really like.",
+      "subtext": ""
+    },
+    {
+      "id": 60,
+      "type": "MEMO",
+      "img_url": "",
+      "text": "You have completed this storybook. Your next story is:\n\n\"Leon is Hungry\"",
+      "subtext": "Press GO to see the storybooks."
+    }
+  ]
+}
