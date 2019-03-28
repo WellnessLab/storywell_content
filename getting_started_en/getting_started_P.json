@@ -12,7 +12,7 @@
       "id": 1,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/getting_started_en/getting_started-02.png",
-      "text": "Storywell is an app to help families to be more physically active. With this app, families can also read storybooks together.\n\nBy reading stories together, caregivers can connect with their children. Reading together also helps kids develop their imagination and literacy skills.",
+      "text": "Storywell is an app that help families to be more physically active. With this app, families can also read storybooks together.\n\nBy reading stories together, caregivers can connect with their children. Reading together also helps kids develop their imagination and literacy skills.",
       "subtext": null
     },
     {
@@ -26,7 +26,7 @@
       "id": 3,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/getting_started_en/getting_started-04.png",
-      "text": "The fitness challenges are created just for your family. Each week’s challenge is adjusted based on how active you were in the previous week.",
+      "text": "The fitness challenges are created just for your family. Each week’s challenge is adjusted based on how active you were in the previous week.\n\nSwipe left to continue.",
       "subtext": null
     },
     {
@@ -40,7 +40,7 @@
       "id": 5,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/getting_started_en/getting_started-06.png",
-      "text": "The child’s physical activity is represented by red balloons. The caregiver’s physical activity is represented by blue balloons.\n\n1 balloon means 1000 steps.",
+      "text": "The child’s physical activity is represented by red balloons. The caregiver’s physical activity is represented by blue balloons.\n\nThe more balloons you get, the closer you meet your family goal.",
       "subtext": null
     },
     {
@@ -66,15 +66,15 @@
       "id": 8,
       "type": "STATEMENT",
       "img_url": "",
-      "text": "Fruit is a good source of vitamin! ",
+      "text": "By eating healthy, you will grow up strong!",
       "subtext": ""
     },
     {
       "id": 9,
       "type": "MEMO",
       "img_url": "",
-      "text": "You have completed this getting started book! Your next story is:\n\n\"Eli and the Red hat Blown by the Wind\"",
-      "subtext": "Press GO to see the storybooks.",
+      "text": "You have completed this getting started book! Your next story is:\n\n\"Eli and the Red Hat Blown by the Wind\"",
+      "subtext": "",
       "storyPageIdToUnlock": "s1_c0"
     }
   ]
