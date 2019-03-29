@@ -17,7 +17,7 @@
       	"isLocked": true
     },
     {
-      "id": 3,
+      "id": 2,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_unicorn_en/c1_01.jpg",
       "text": "It is a warm summer day when Edith sits on the edge of the lake.\n\nShe is sketching a squirrel carrying an acorn. Edith has a big imagination. ",
@@ -381,7 +381,7 @@
       "type": "MEMO",
       "img_url": "",
       "text": "You have completed this storybook. Your next story is:\n\n\"Sally the Salamander and the Boomerang School\"",
-      "subtext": "Press GO to see the storybooks."
+      "subtext": ""
     }
   ]
 }
