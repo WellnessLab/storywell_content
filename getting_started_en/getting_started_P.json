@@ -57,7 +57,7 @@
       "text": "What is your favorite fruit and why?",
       "subtext": "Press the record button below to answer the question.\n\nThe recordings are stored in your phone and the computers managed by Northeastern University. All recordings can only be accessed by you and the research staff at Northeastern University.",
       "isDelayNext": true,
-      "isShowReflectionStart": false,
+      "isShowReflectionStart": true,
 	  "contentGroupId": "1",
       "contentGroupName": "Favorite Fruit",
       "nextContentId": 8
