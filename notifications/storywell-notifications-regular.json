@@ -1,0 +1,128 @@
+[ {
+  "day" : 1,
+  "notificationId" : 89,
+  "text" : "Check the Storywell app to see more.",
+  "title" : "Read a storybook with your family",
+  "type" : "REGULAR"
+}, {
+  "day" : 2,
+  "notificationId" : 89,
+  "text" : "Check Storywell app to see if you have unlocked a story!",
+  "title" : "See if you have unlocked a family story!",
+  "type" : "REGULAR"
+}, {
+  "day" : 3,
+  "notificationId" : 89,
+  "text" : "Complete the family challenge to unlock your storybook.",
+  "title" : "There’s still time to unlock the storybook.",
+  "type" : "REGULAR"
+}, {
+  "day" : 4,
+  "notificationId" : 89,
+  "title" : "Completing the challenge will unlock stories for your family to read.",
+  "type" : "REGULAR"
+}, {
+  "day" : 5,
+  "notificationId" : 89,
+  "text" : "Tap here to see how active your family is and unlock stories.",
+  "title" : "Stories are waiting to be unlocked!.",
+  "type" : "REGULAR"
+}, {
+  "day" : 6,
+  "notificationId" : 89,
+  "title" : "Check the adventure screen to view your family progress!",
+  "type" : "REGULAR"
+}, {
+  "day" : 7,
+  "notificationId" : 89,
+  "title" : "Be active with your child to unlock the next chapter.",
+  "type" : "REGULAR"
+}, {
+  "day" : 8,
+  "notificationId" : 89,
+  "title" : "Want to unlock more stories to read with your child?",
+  "type" : "REGULAR"
+}, {
+  "day" : 9,
+  "notificationId" : 89,
+  "text" : "A walk with your child can bring you closer to unlocking new stories to read together!",
+  "title" : "Unlock family storybooks for your children.",
+  "type" : "REGULAR"
+}, {
+  "day" : 10,
+  "notificationId" : 89,
+  "title" : "Your family might have unlocked a storybook. Check now.",
+  "type" : "REGULAR"
+}, {
+  "day" : 11,
+  "notificationId" : 89,
+  "text" : "In two days, Storywell will send you trivia about steps that you can tell your child.",
+  "title" : "Family Fitness Trivia",
+  "type" : "REGULAR"
+}, {
+  "day" : 12,
+  "notificationId" : 89,
+  "text" : "Tomorrow, Storywell will send trivia about steps for you to share with your child.",
+  "title" : "Family Fitness Trivia",
+  "type" : "REGULAR"
+}, {
+  "day" : 13,
+  "notificationId" : 89,
+  "text" : "A walk around Boston Common is about 2400 steps! Check Storywell to see how much your family walked today.",
+  "title" : "Family Trivia Day 1",
+  "type" : "REGULAR"
+}, {
+  "day" : 14,
+  "notificationId" : 89,
+  "text" : "Do you know there are tigers at Franklin Park Zoo? A tiger’s roar can be heard from up to 2 miles away. That’s 4,250 steps! Check now if have walked as far as a tiger’s roar.",
+  "title" : "Family Trivia Day 2",
+  "type" : "REGULAR"
+}, {
+  "day" : 15,
+  "notificationId" : 89,
+  "text" : "The Prudential Center tower is 750 feet high. If you could walk vertically, that would be 300 steps! Check how many steps you walked today.",
+  "title" : "Family Trivia Day 3",
+  "type" : "REGULAR"
+}, {
+  "day" : 16,
+  "notificationId" : 89,
+  "text" : "The longest home run ever hit at Fenway Park was 502 feet by Ted Williams. That 200 steps in seconds! Check how many steps you walked today.",
+  "title" : "Family Trivia Day 4",
+  "type" : "REGULAR"
+}, {
+  "day" : 17,
+  "notificationId" : 89,
+  "text" : "Atlantic harbor seals at the New England Aquarium can swim as fast as 12 miles per hour. That’s 25,000 steps per hour! How fast can you walk in an hour?",
+  "title" : "Family Trivia Day 5",
+  "type" : "REGULAR"
+}, {
+  "day" : 18,
+  "notificationId" : 89,
+  "text" : "A walk around the Franklin Park loop is about 5000 steps and it is a great way to meet new people!",
+  "title" : "Family Trivia Day 6",
+  "type" : "REGULAR"
+}, {
+  "day" : 19,
+  "notificationId" : 89,
+  "text" : "Want to be active and meet new people? Try walking about half of the new Neponset Greenway, which is about 8,000 steps.",
+  "title" : "Family Trivia Day 7",
+  "type" : "REGULAR"
+}, {
+  "day" : 20,
+  "notificationId" : 89,
+  "text" : "A walk around Hunt playground (Almont Park) is about 2,100 steps! Be sure to check out the football field, community garden, and tennis courts!",
+  "title" : "Family Trivia Day 8",
+  "type" : "REGULAR"
+}, {
+  "day" : 21,
+  "notificationId" : 89,
+  "text" : "Looking for a place to walk with your family? A walk around Castle Island is about 1,700 steps.",
+  "title" : "Family Trivia Day 9",
+  "type" : "REGULAR"
+}, {
+  "day" : 22,
+  "notificationId" : 89,
+  "text" : "The entire Orange Line is 11 miles long. Or 23 thousand steps. How much did you walk today?",
+  "title" : "Family Trivia Day 10",
+  "type" : "REGULAR"
+} ]
