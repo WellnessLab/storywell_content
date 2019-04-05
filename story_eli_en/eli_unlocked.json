@@ -2,7 +2,7 @@
 	"contents": [{
 			"id": 0,
 			"type": "COVER",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png",
 			"text": "Eli and the Red Hat Blown by the Wind",
 			"subtext": "",
 			"isLocked": false
@@ -10,35 +10,35 @@
 		{
 			"id": 1,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_01.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_01.jpg",
 			"text": "Eli and Mom Elephants go for a walk down at the grassland.  It is a windy day.",
 			"subtext": null
 		},
 		{
 			"id": 2,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_02.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_02.jpg",
 			"text": "Wooooosh!\n\nA strong wind blows Miss Antelope's red hat right off her head!\n\n\"Help me catch my hat. My red hat,\" she cries.",
 			"subtext": null
 		},
 		{
 			"id": 3,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_03.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_03.jpg",
 			"text": "\"Eli, let's help Miss Antelope catch her red hat,\" says Mama Elephant.\n\nBut Eli is scared. \"If I run too fast, I will trip and fall over,\" says Eli.\n\n\"You'll be fine! Come on. We will start slow and get faster one step at a time,\" says Mama.",
 			"subtext": null
 		},
 		{
 			"id": 4,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_04.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_04.jpg",
 			"text": "So the two elephants run up and down the grassland after the flying red hat blown by the wind. A strong wind.",
 			"subtext": null
 		},
 		{
 			"id": 5,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_05.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_05.jpg",
 			"text": "The two elephants are sweating and breathing a little faster. \n\n\"Hee hee hee! This is fun, Mom,\" says Eli. ",
 			"subtext": null
 		},
@@ -74,7 +74,7 @@
 		{
 			"id": 9,
 			"type": "COVER",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png",
 			"text": "Chapter 2",
 			"subtext": "",
 			"isLocked": false
@@ -82,28 +82,28 @@
 		{
 			"id": 10,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_06.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_06.jpg",
 			"text": "The hat flies and flies, then lands on a tree. \n\nBut it is not just any tree...",
 			"subtext": null
 		},
 		{
 			"id": 11,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c1_07.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_07.jpg",
 			"text": "It's a baobab tree. A big, tall tree.\n\n\"That's a very tall tree,\" says Eli.\n\n\"How do we get Miss Antelope's red hat?\"\n\n\"I have an idea,\" says Mom.",
 			"subtext": null
 		},
 		{
 			"id": 12,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c2_01.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_01.jpg",
 			"text": "\"Point your trunk towards the hat,\" says Mama.\n\nEli and Mama point their big trunks at the red hat on the big tall tree.\n\n\"Now one, two, three, blow that hat,\" yells Mom.\n\nThey blow the hat at the same time.",
 			"subtext": null
 		},
 		{
 			"id": 13,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c2_02.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_02.jpg",
 			"text": "\"Hey Mom, this is fun! I can blow the red hat on the big tall tree!\" says Eli.\n\n\"That’s because you exercise often. It makes you strong and healthy. And you will feel good about yourself” says Mama.\n\n\"Come on, let’s blow that red hat one more time.\"",
 			"subtext": null
 		},
@@ -139,21 +139,21 @@
 		{
 			"id": 17,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c2_03.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_03.jpg",
 			"text": "As the elephants blow towards the hat once again, the hat flies off the big tall tree and up into the air.",
 			"subtext": null
 		},
 		{
 			"id": 18,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c2_04.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_04.jpg",
 			"text": "The wind catches the hat yet again, it flies further and further away!",
 			"subtext": null
 		},
 		{
 			"id": 19,
 			"type": "COVER",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png",
 			"text": "Chapter 3",
 			"subtext": "",
 			"isLocked": false
@@ -161,42 +161,42 @@
 		{
 			"id": 20,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c2_04.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_04.jpg",
 			"text": "The wind grabs the hat, carrying the hat away from the Elephants. And suddenly... ",
 			"subtext": null
 		},
 		{
 			"id": 21,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c2_05.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_05.jpg",
 			"text": "...the hat lands on the river! The river carries the hat downstream, away from the elephants. Eventually, the hat gets caught on a branch on the opposite side of the river.\n\n\"Now how do we get the hat? It's on the other side of the river!\" Eli asks.",
 			"subtext": null
 		},
 		{
 			"id": 22,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c3_01.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_01.jpg",
 			"text": "\"Just then, a green scaly creature surfaces from the river.\n\n\"Look! It’s my friend Croco!” says Eli.",
 			"subtext": null
 		},
 		{
 			"id": 23,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c3_02.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_02.jpg",
 			"text": "\"Hi Eli!\" says Croco, the little green crocodile.\n\n\"Croco, can you help me catch that hat on the other side of the river?\" asks Eli.",
 			"subtext": null
 		},
 		{
 			"id": 24,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c3_03.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_03.jpg",
 			"text": "\"Sure I can help you, but it would be more fun if you do it yourself,\" says Croco. \"I can teach you how to jump across the river.\"\n\nEli is not sure. \"I’m not a good jumper,\" says Eli.",
 			"subtext": null
 		},
 		{
 			"id": 25,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c3_04.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_04.jpg",
 			"text": "\"It's not difficult at all. I will show you how,\" says Croco.\n\nCroco raises his body, leaps to one big rock on the river. Then he jumps and leaps again to land on another rock. Finally, he lands on the other side of the river.",
 			"subtext": null
 		},
@@ -232,28 +232,28 @@
 		{
 			"id": 29,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c3_05.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_05.jpg",
 			"text": "Eli leaps to the first big rock in the river.\n\nThen Eli jumps and leaps again to land on another rock until finally, Eli landed on the other side of the river.\n\n\"This is not difficult at all!\" says Eli.",
 			"subtext": null
 		},
 		{
 			"id": 30,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c3_06.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_06.jpg",
 			"text": "\"Mom! I have Miss Antelope’s red hat that was blown by the wind,\" says Eli to her Mom.",
 			"subtext": null
 		},
 		{
 			"id": 31,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c3_07.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_07.jpg",
 			"text": "Eli's Mom is still on the other side of the river.\n\n\"Mom you have to cross the river!\" says Eli. \"You have to cross the river because you have to see this!\"",
 			"subtext": null
 		},
 		{
 			"id": 32,
 			"type": "COVER",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png",
 			"text": "Chapter 4",
 			"subtext": "",
 			"isLocked": false
@@ -261,35 +261,35 @@
 		{
 			"id": 33,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c4_01.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_01.jpg",
 			"text": "Now, Eli's Mom wants to see the other side of the river.\n\nShe  takes a few big steps back and quickly runs towards the edge of the river.",
 			"subtext": null
 		},
 		{
 			"id": 34,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c4_02.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_02.jpg",
 			"text": "Just as she is about to reach the water, she jumps and leaps across the rocks.",
 			"subtext": null
 		},
 		{
 			"id": 35,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c4_03.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_03.jpg",
 			"text": "\"Yipeee!\" she cheers.\n\n\"You are good at this Mom!\" says Eli happily.",
 			"subtext": null
 		},
 		{
 			"id": 36,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c4_04.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_04.jpg",
 			"text": "Mom is sweating and out of breath. \"It feels good!\" she says.\n\n\"Look at that, Mom,\" Eli says. Eli's toes pointed to the edge of the cliff.",
 			"subtext": null
 		},
 		{
 			"id": 37,
 			"type": "PAGE",
-			"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/c4_05.jpg",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_05.jpg",
 			"text": "The sun is about to set and the valley shimmers with the rays of the setting sun.\n\nEli and Mom sit and watch the sun go down. They watch the sky change from a soft orange to brilliant gold as the sun drops below the horizon.\n\nThey sit together with the red hat that was blown by the wind.",
 			"subtext": null
 		},
