@@ -34,28 +34,28 @@
       "id": 4,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_03.jpg",
-      "text": "The land of Hippolandia is warm and green and filled with many creatures and inhabitants. Cobby likes his new house and his neighbors too. There is just one problem. The kids in Hippolandia don't play Cowball. They play Hippominton.",
+      "text": "The land of Hippolandia is warm and green and filled with many creatures of all different shapes and sizes. Cobby likes his new house and his neighbors too.\n\nThere is just one problem. The kids in Hippolandia don't play Cowball. They play Hippominton.",
       "subtext": null
     },
     {
       "id": 5,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_04.jpg",
-      "text": "Cobby can't play Hippominton very well because he can't jump very high. He tries and tries to jump as high as he can, but he just can't jump high enough to hit the Hippominton ball.",
+      "text": "Cobby can't play Hippominton very well because he doesn't know how to jump high. He tries and tries to jump as high as he can, but he just can't jump high enough to hit the Hippominton ball.",
       "subtext": null
     },
     {
       "id": 6,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_05.jpg",
-      "text": "\"I don't like this game because I always fail,\" says Cobby.",
+      "text": "\"I don't like this game because I don't know how to jump high,\" says Cobby.",
       "subtext": null
     },
     {
       "id": 7,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_06.jpg",
-      "text": "Arthur, the Alpaca, says to Cobby, \"Hey, I couldn't jump very high when I began playing Hippominton. But now I can jump better.\"\n\n\"Think about the good feelings you have when you jump.\n\n\"So no matter how high or low you hopped, you will always feel good\"\n\nOther kids start to jump. Some kids bounce really high, other kids don't jump very high.",
+      "text": "Arthur, the Alpaca, says to Cobby, \"Hey, I couldn't jump very high when I began playing Hippominton. But now I can jump better.\"\n\n\"Think about the good feelings you have when you jump.\n\n\"So no matter how high or low you jumps, you will always feel good\"\n\nOther kids start to jump. Some kids bounce really high, other kids don't jump very high.",
       "subtext": null
     },
      {
@@ -77,7 +77,8 @@
       "type": "REFLECTION",
       "img_url": null,
       "text": "Can you tell me a story?  Can you think of a time when you didn't want to exercise because you were scared you were not good enough?",
-      "subtext": "",
+      "subtext": "Being active means doing any activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, swimming.
+",
       "contentGroupId": "1",
       "contentGroupName": "Feeling Scared",
       "nextContentId": 11
@@ -96,7 +97,7 @@
       "id": 12,
       "type": "STATEMENT",
       "img_url": "",
-      "text": "Exercising is not about being \"the best\" all the time. It's fun to exerise if you enjoy it time and feels good afterwards.",
+      "text": "To be active is not about being \"the best\" all the time. To be active is about enjoying the time and feeling good afterword",
       "subtext": ""
     },
     {
@@ -111,7 +112,7 @@
   		"id": 14,
   		"type": "CHALLENGE",
   		"img_url": "",
-  		"text": "Do you want to know what's going to happen next?",
+  		"text": "Do you think Cobby can play his favorite game of Cowball soon?",
   		"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
   		"isLocked": true
 	},
@@ -206,7 +207,7 @@
   		"id": 26,
   		"type": "CHALLENGE",
   		"img_url": "",
-  		"text": "Do you want to know what's going to happen next?",
+  		"text": "Do you think Cobby will play the game of Cowball with his friends?",
   		"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
   		"isLocked": true
 	},
@@ -270,8 +271,8 @@
       "id": 35,
       "type": "REFLECTION",
       "img_url": null,
-      "text": "Can you think of a fun sports game or exercise activity that you can do together this week?",
-      "subtext": "",
+      "text": "Can you name a fun group activity that you can do together this week?",
+      "subtext": "Activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, swimming.",
       "isDelayNext": true,
       "isShowReflectionStart": true,
       "contentGroupId": "3",
@@ -307,7 +308,7 @@
   		"id": 39,
   		"type": "CHALLENGE",
   		"img_url": "",
-  		"text": "Do you want to know what's going to happen next?",
+  		"text": "Do you think Cobby's friends can play Cowball better this time?",
   		"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
   		"isLocked": true
 	},
@@ -364,7 +365,7 @@
       "id": 47,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c4_08.jpg",
-      "text": "The kids of Hippolandia now play the game of Cowminton every day.\n\nCobby is happy. Every day he can run faster and jump much higher. Cobby’s Mom is also happy that Cobby is happy.\n\nThis game makes Cobby feel great about himself.",
+      "text": "The kids of Hippolandia now play the game of Cowminton every day.\n\nCobby is happy. Every day he can run faster and jump much higher. Cobby’s Mom is also happy that Cobby is happy.\n\nThis new game makes everyone happy and healthy.",
       "subtext": ""
     },
     {
@@ -393,7 +394,7 @@
       "id": 50,
       "type": "STATEMENT",
       "img_url": "",
-      "text": "Physical activity can help you avoid being sick and makes you feel better too.!",
+      "text": "Physical activity can help you and the people around you feel better too!",
       "subtext": ""
     },
     {

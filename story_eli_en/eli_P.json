@@ -11,7 +11,7 @@
 			"id": 1,
 			"type": "PAGE",
 			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_01.jpg",
-			"text": "Eli and Mom Elephants go for a walk down at the grassland.  It is a windy day.",
+			"text": "Eli and Mama Elephants go for a walk down at the grassland.  It is a windy day.",
 			"subtext": null
 		},
 		{
@@ -98,7 +98,7 @@
 			"id": 12,
 			"type": "PAGE",
 			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_07.jpg",
-			"text": "It's a baobab tree. A big, tall tree.\n\n\"That's a very tall tree,\" says Eli.\n\n\"How do we get Miss Antelope's red hat?\"\n\n\"I have an idea,\" says Mom.",
+			"text": "It's a baobab tree. A big, tall tree.\n\n\"That's a very tall tree,\" says Eli.\n\n\"How do we get Miss Antelope's red hat?\"\n\n\"I have an idea,\" says Mama.",
 			"subtext": null
 		},
 		{
@@ -170,7 +170,7 @@
       		"id": 21,
       		"type": "CHALLENGE",
       		"img_url": "",
-      		"text": "Do you want to know what's going to happen next?",
+      		"text": "Do you want to know what's going to the red hat blown by the wind?",
       		"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
       		"isLocked": true
     	},
@@ -220,8 +220,8 @@
 			"id": 28,
 			"type": "REFLECTION",
 			"img_url": null,
-			"text": "Can you tell a time when you helped someone to learn new physical activity?",
-			"subtext": "",
+			"text": "Can you tell me a time when you helped someone to learn new activity?",
+			"subtext": "Any activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, swimming.",
 			"isDelayNext": true,
 			"isShowReflectionStart": true,
 			"contentGroupId": "3",
@@ -242,28 +242,28 @@
 			"id": 30,
 			"type": "STATEMENT",
 			"img_url": "",
-			"text": "Being physically active can make people around you be active and healthy too!",
+			"text": "Being active can make people around you be active and healthy too!",
 			"subtext": ""
 		},
 		{
 			"id": 31,
 			"type": "PAGE",
 			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_05.jpg",
-			"text": "Eli leaps to the first big rock in the river.\n\nThen Eli jumps and leaps again to land on another rock until finally, Eli landed on the other side of the river.\n\n\"This is not difficult at all!\" says Eli.",
+			"text": "Eli leaps to the first big rock in the river.\n\nThen Eli jumps and leaps again to land on another rock until finally, Eli lands on the other side of the river.\n\n\"This is not difficult at all!\" says Eli.",
 			"subtext": null
 		},
 		{
 			"id": 32,
 			"type": "PAGE",
 			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_06.jpg",
-			"text": "\"Mom! I have Miss Antelope’s red hat that was blown by the wind,\" says Eli to her Mom.",
+			"text": "\"Mama! I have Miss Antelope’s red hat that was blown by the wind,\" says Eli to Mama.",
 			"subtext": null
 		},
 		{
 			"id": 33,
 			"type": "PAGE",
 			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_07.jpg",
-			"text": "Eli's Mom is still on the other side of the river.\n\n\"Mom you have to cross the river!\" says Eli. \"You have to cross the river because you have to see this!\"",
+			"text": "Eli's Mama is still on the other side of the river.\n\n\"Mama you have to cross the river!\" says Eli. \"You have to cross the river because you have to see this!\"",
 			"subtext": null
 		},
 		{
@@ -278,7 +278,7 @@
       		"id": 35,
       		"type": "CHALLENGE",
       		"img_url": "",
-      		"text": "Do you want to know what's going to happen next?",
+      		"text": "Do you want to know what Eli saw?",
       		"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
       		"isLocked": true
     	},
@@ -286,7 +286,7 @@
 			"id": 36,
 			"type": "PAGE",
 			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_01.jpg",
-			"text": "Now, Eli's Mom wants to see the other side of the river.\n\nShe  takes a few big steps back and quickly runs towards the edge of the river.",
+			"text": "Now, Eli's Mama wants to see the other side of the river.\n\nShe  takes a few big steps back and quickly runs towards the edge of the river.",
 			"subtext": null
 		},
 		{
@@ -300,14 +300,14 @@
 			"id": 38,
 			"type": "PAGE",
 			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_03.jpg",
-			"text": "\"Yipeee!\" she cheers.\n\n\"You are good at this Mom!\" says Eli happily.",
+			"text": "\"Yipeee!\" she cheers.\n\n\"You are good at this Mama!\" says Eli happily.",
 			"subtext": null
 		},
 		{
 			"id": 39,
 			"type": "PAGE",
 			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_04.jpg",
-			"text": "Mom is sweating and out of breath. \"It feels good!\" she says.\n\n\"Look at that, Mom,\" Eli says. Eli's toes pointed to the edge of the cliff.",
+			"text": "Mama is sweating and out of breath. \"It feels good!\" she says.\n\n\"Look at that, Mama,\" Eli says. Eli's toes pointed to the edge of the cliff.",
 			"subtext": null
 		},
 		{
@@ -322,7 +322,7 @@
 			"type": "REFLECTION",
 			"img_url": null,
 			"text": "Can you think of a time when you were active with as a family?",
-			"subtext": "",
+			"subtext": "Being active means doing any activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, swimming.",
 			"isDelayNext": true,
 			"isShowReflectionStart": true,
 			"contentGroupId": "4",
@@ -333,7 +333,7 @@
 			"id": 42,
 			"type": "REFLECTION",
 			"img_url": "",
-			"text": "How do you feel if your family is more physically active?",
+			"text": "How do you feel if your family is more active?",
 			"subtext": "",
 			"isDelayNext": true,
 			"contentGroupId": "4",
@@ -343,7 +343,7 @@
 			"id": 43,
 			"type": "STATEMENT",
 			"img_url": "",
-			"text": "A healthy life begins in the family!",
+			"text": "A healthy life begins when families work together to create a healthy life.!",
 			"subtext": ""
 		},
 		{

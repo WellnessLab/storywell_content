@@ -69,14 +69,14 @@
       "id": 9, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_boomerang_en/c1_08.jpg", 
       "subtext": null, 
-      "text": "Ms. Wallaby says that she can help. She calls Sally\u2019s dad on the other side of the world.\n\nAs soon as her dad picked up the phone, Sally begins frantically explaining what happened.\n\n\"Sally,\" says her dad. \"I know you want to go home now, but you have traveled far. You can come home, but are you sure you don't want to give it a try and live in Australia for another week?\"", 
+      "text": "Ms. Wallaby says that she can help. She calls Sally\u2019s dad on the other side of the world.\n\nAs soon as her dad picked up the phone, Sally begins frantically explaining what happened.\n\n\"Sally,\" says her dad. \"I know you want to go home now, but you have traveled far. Are you sure you don't want to give it a try and live in Australia for another week??\"", 
       "type": "PAGE"
     }, 
     {
       "id": 10, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_boomerang_en/c1_09.jpg", 
       "subtext": null, 
-      "text": "Sally is hesitant, but after thinking and more thinking, she decides it might be better to give a try.\n\nShe can always go home if she doesn't like the Boomerang Camp. But if she likes the Boomerang Camp, she can stay there for four weeks and make new friends!", 
+      "text": "Sally is hesitant, but after thinking and more thinking, she decides it might be better to give a try.\n\nIf she doesn't like the Boomerang Camp, she can always go home. But if she does like Boomerang Camp, she can stay there for four weeks and make new friends!", 
       "type": "PAGE"
     }, 
     {
@@ -105,7 +105,7 @@
       "id": 13, 
       "img_url": "", 
       "subtext": "", 
-      "text": "Sally was scared to stay at the camp, but she thinks she can make some really nice friends.\n\nIt is good to look for the fun parts when you are trying new physical activities!", 
+      "text": "Sally was scared to stay at the camp, but she is excited to make some really nice friends. Trying new activities can be fun!", 
       "type": "STATEMENT"
     }, 
     {
@@ -121,7 +121,7 @@
       "img_url": "", 
       "isLocked": true, 
       "subtext": "To read the rest of the story, complete a one-day challenge with your family.", 
-      "text": "Do you want to know what's going to happen next?", 
+      "text": "Do you think Sally will like the Boomerang Camp?", 
       "type": "CHALLENGE"
     }, 
     {
@@ -135,7 +135,7 @@
       "id": 17, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_boomerang_en/c2_02.jpg", 
       "subtext": null, 
-      "text": "The training begins after breakfast. Ms. Wallaby starts with a demonstration on how to throw a boomerang.\n\n\"Get a boomerang for you,\" says Ms. Wallaby while pointing to three buckets full of boomerangs.", 
+      "text": "The training begins after breakfast. Ms. Wallaby starts with a demonstration on how to throw a boomerang.\n\n\"Get a boomerang for yourself,\" says Ms. Wallaby while pointing to three buckets full of boomerangs.", 
       "type": "PAGE"
     }, 
     {
@@ -156,7 +156,7 @@
       "id": 20, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_boomerang_en/c2_05.jpg", 
       "subtext": null, 
-      "text": "Immediately, the kids throw their boomerangs. Some boomerangs fly as far as nine feet. Some fly at a modest five feet.\n\nBut when Sally\u2019s throws her pink boomerang, her boomerang only flies one foot far.", 
+      "text": "Immediately, the kids throw their boomerangs. Some boomerangs fly as far as nine feet. Some fly five feet.\n\nBut when Sally\u2019s throws her pink boomerang, her boomerang only flies one foot far.", 
       "type": "PAGE"
     }, 
     {
@@ -229,7 +229,7 @@
       "img_url": "", 
       "isLocked": true, 
       "subtext": "To read the rest of the story, complete a one-day challenge with your family.", 
-      "text": "Do you want to know what's going to happen next?", 
+      "text": "Do you think Sally will be better at throwing boomerangs?", 
       "type": "CHALLENGE"
     }, 
     {
@@ -285,14 +285,14 @@
       "id": 37, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_boomerang_en/c3_08.jpg", 
       "subtext": null, 
-      "text": "\"Oh, you need to make your arm stronger and stronger to throw a boomerang. \n\n\"I can tell you how to be good at boomerang throwing. It\u2019s arm strength,\" says Cayden.\n\n\"But I'm a salamander and I have weak arms,\" says Sally.\n\n\"Oh I used to have a weak arm, but not anymore. I can tell you a secret trick,\" says Cayden.", 
+      "text": "\"Oh, you need to make your arm stronger to throw a boomerang.\n\n\"I can tell you how to be good at boomerang throwing. It\u2019s arm strength,\" says Cayden.\n\n\"But I'm a salamander and I have weak arms,\" says Sally.\n\n\"Oh I used to have a weak arm, but not anymore. I can tell you a secret trick,\" says Cayden.", 
       "type": "PAGE"
     }, 
     {
       "id": 38, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_boomerang_en/c3_09.jpg", 
       "subtext": null, 
-      "text": "\"The secret trick is, I filled a big plastic bottle with water and I lifted it up and down for five minutes every day,\" says Cayden. \n\n\"To be healthy and good at sport, you need to be active at home too.\"\n\n\"That sounds like a good idea. So I need to practice here in the field and practice at home too?\" Sally asks.\n\n\u201cAbsolutely! That\u2019s how I got good arm strength,\u201d says Cayden.", 
+      "text": "\"This is my secret trick. I filled a big plastic bottle with water. Then I lifted it up and down for five minutes every day,\" says Cayden. \n\n\"To be healthy and good at sport, you need to practice at home too.\"\n\n\"That sounds like a good idea. So I need to practice both on and off the field?\" Sally asks.\n\n\u201cAbsolutely! That\u2019s how I got good arm strength,\u201d says Cayden.", 
       "type": "PAGE"
     }, 
     {
@@ -456,7 +456,7 @@
       "id": 60, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_boomerang_en/c4_12.jpg", 
       "subtext": null, 
-      "text": "Sally does not feel sad. In fact, she always feels happy when she throws her orange boomerang from Cayden.\n\nShe knows that she has a best friend on the other side of the world.", 
+      "text": "Sally does not feel sad. In fact, she always feels happy.\n\nNow, every time Sally throws her boomerang, she thinks of her best friend on the other side of the world.", 
       "type": "PAGE"
     }, 
     {
@@ -468,7 +468,7 @@
       "isShowReflectionStart": true, 
       "nextContentId": 58, 
       "subtext": "", 
-      "text": "Can you tell a story about a time when you exercised or be active with people that you really like?", 
+      "text": "Can you tell a story about a time when you were active with people that you like?", 
       "type": "REFLECTION"
     }, 
     {
@@ -478,14 +478,14 @@
       "isDelayNext": true, 
       "nextContentId": 59, 
       "subtext": "", 
-      "text": "Tell the good feelings when you exercised with people that you like?", 
+      "text": "THow did it make you feel to exercise with people you like?", 
       "type": "REFLECTION"
     }, 
     {
       "id": 63, 
       "img_url": "", 
       "subtext": "", 
-      "text": "Physical activity can be a lot of fun if you do it with somebody that you really like.", 
+      "text": "Activity can be even more fun when you do it with someone you like.", 
       "type": "STATEMENT"
     }, 
     {

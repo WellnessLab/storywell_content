@@ -20,7 +20,7 @@
       "id": 2, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/c1_01.jpg", 
       "subtext": null, 
-      "text": "Sydney the sloth and her family live in a deep green forest in South America. Her house is under big tall trees. After school, she spends her days sleeping and napping under the trees.", 
+      "text": "Sydney the sloth and her family live in a deep green forest in South America. Her house is under big tall trees. After school, she spends her days ssleeping under the trees. ", 
       "type": "PAGE"
     }, 
     {
@@ -73,8 +73,8 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 9, 
-      "subtext": "", 
-      "text": "Can you tell me a story? Tell a story when you couldn't play a fun phyisical activity by yourself.", 
+      "subtext": "Any activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, swimming.", 
+      "text": "Can you tell me a story? Tell a story when you needed help with an activity?", 
       "type": "REFLECTION"
     }, 
     {
@@ -84,14 +84,14 @@
       "isDelayNext": true, 
       "nextContentId": 10, 
       "subtext": "", 
-      "text": "Did you get somebody to help you to feel ok? How did that make you feel?", 
+      "text": "How did it make you feel when they helped you?", 
       "type": "REFLECTION"
     }, 
     {
       "id": 11, 
       "img_url": "", 
       "subtext": "", 
-      "text": "Asking for help from your parent or relatives is a great way to have fun, and try new activities!", 
+      "text": "Asking for help from your parent or relatives is a great way to have fun, and learn new activities!", 
       "type": "STATEMENT"
     }, 
     {
@@ -107,7 +107,7 @@
       "img_url": "", 
       "isLocked": true, 
       "subtext": "To read the rest of the story, complete a one-day challenge with your family.", 
-      "text": "Do you want to know what's going to happen next?", 
+      "text": "Do you want to know what's going to happen with Sydney and her bike?", 
       "type": "CHALLENGE"
     }, 
     {
@@ -121,14 +121,14 @@
       "id": 15, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/c2_02.jpg", 
       "subtext": null, 
-      "text": "\"Why don't you try balancing the bike by yourself while I am away?\" says Pa.\n\nThe next day, Sydney tries to use the bike by herself. She invites her closest friends with her.\n\nShe starts to pedal. One. Two. Three.", 
+      "text": "\"Why don't you try balancing the bike by yourself while I am away?\" says Pa.\n\nThe next day, Sydney tries to use the bike by herself. She invites her closest friends to watch her.\n\nShe starts to pedal. One. Two. Three.", 
       "type": "PAGE"
     }, 
     {
       "id": 16, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/c2_03.jpg", 
       "subtext": "", 
-      "text": "The breeze starts to hit her face but suddenly she falls to the ground again.\n\n\"No sloth is good at balancing,\" says Sydney.", 
+      "text": "The breeze starts to hit her face but suddenly she falls to the ground again.\n\n\"Sloths are not good at balancing,\" says Sydney.", 
       "type": "PAGE"
     }, 
     {
@@ -156,14 +156,14 @@
       "id": 20, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/c2_07.jpg", 
       "subtext": null, 
-      "text": "Cobby makes a contraption that looks like Pa Turkey!\n\n\"This fake turkey will help you balance your bike, Sydney,\" says Cobbie.\n\nSydney is unsure. The fake turkey looks funny. \"Are you sure this is a good idea?\"\n\n\"Trust me!\" says Cobbie as he ties the turkey contraption to Sydney's bike.", 
+      "text": "Cobby makes wooden turkey wings that looks like Pa Turkey!\n\n\"This wooden wings will help you balance your bike,\" says Cobbie.\n\nSydney is unsure. The fake turkey looks funny. \"Are you sure this is a good idea?\"\n\n\"Trust me!\" says Cobbie as he ties the wooden wings to  Sydney's bike.", 
       "type": "PAGE"
     }, 
     {
       "id": 21, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/c2_08.jpg", 
       "subtext": null, 
-      "text": "Sydney climbs on the bike. She is still feeling unsure about the contraption.\n\n\"Imagine that this is Pa Turkey. Now hit the pedals!\" yells Cobbie.\n\nSydney started to push the pedal. One. Two. And three.\n\n\"Keep going. You can do it,\" cheers Cobbie.\n\nAnd that magical thing happened again. A breeze of cool air hits Sydney's face. Sydney is biking on her new bike! With a fake turkey on her back.", 
+      "text": "Sydney climbs on the bike. She is still feeling unsure about the wooden wings. \n\n\"Imagine that this is Pa Turkey. Now hit the pedals!\" yells Cobbie.\n\nSydney started to push the pedal. One. Two. And three.\n\n\"Keep going. You can do it,\" cheers Cobbie.\n\nAnd that magical thing happened again. A breeze of cool air hits Sydney's face. Sydney is biking on her new bike! With wooden turkey wings on her back.", 
       "type": "PAGE"
     }, 
     {
@@ -181,8 +181,8 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 21, 
-      "subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, swimming.", 
-      "text": "Tell a story about a time when you wanted to do be active and a person other than your family member helped you.", 
+      "subtext": "Any activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, swimming.", 
+      "text": "Tell a story about a time when you wanted to do an activity and a person other than your family member helped you.", 
       "type": "REFLECTION"
     }, 
     {
@@ -215,7 +215,7 @@
       "img_url": "", 
       "isLocked": true, 
       "subtext": "To read the rest of the story, complete a one-day challenge with your family.", 
-      "text": "Do you want to know what's going to happen next?", 
+      "text": "Do you think Sydney can ride the bike without the wooden wings?", 
       "type": "CHALLENGE"
     }, 
     {
@@ -250,21 +250,21 @@
       "id": 32, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/c3_05.jpg", 
       "subtext": null, 
-      "text": "Sydney's turkey contraption fell off her bike and and fell apart.\n\n\"There's no way to save this fake turkey! I can't bike anymore!\" yells Sydney who is feeling upset.\n\n\"And I'm going to lose the race,\" she says.", 
+      "text": "Sydney's wooden wings fell off her bike and and fell apart.\n\n\"There's no way to save this fake turkey! I can't bike anymore!\" yells Sydney who is feeling upset.\n\n\"And I'm going to lose the race,\" she says.", 
       "type": "PAGE"
     }, 
     {
       "id": 33, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/c3_06.jpg", 
       "subtext": null, 
-      "text": "\"Sydney, you have used the bike for two months. You can bike without the turkey contraption,\" said Pa Turkey.\n\n\"No, I can't! Sloths are not good at biking,\" says Sydney.", 
+      "text": "\"Sydney, you have used the bike for two months. You can bike without the wooden wings,\" says Pa Turkey.\n\n\"No, I can't! Sloths are not good at biking,\" says Sydney.", 
       "type": "PAGE"
     }, 
     {
       "id": 34, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/c3_07.jpg", 
       "subtext": null, 
-      "text": "\"You have been riding that bike all day every day for the last two months. Sloths can be good at biking,\" says Pa Turkey.\n\n\"Let's give it another try,\" says Pa.\n\nSydney begins to pedal his bike without the contraption turkey. One. Two. Three. And within seconds she is blazing through the forest!", 
+      "text": "\"You have been riding that bike all day every day for the last two months. Sloths can be good at biking,\" says Pa Turkey.\n\n\"Let's give it another try,\" says Pa.\n\nSydney begins to pedal his bike without the wooden wings. One. Two. Three. And within seconds she is blazing through the forest!", 
       "type": "PAGE"
     }, 
     {
@@ -278,21 +278,21 @@
       "id": 36, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/c3_09.jpg", 
       "subtext": null, 
-      "text": "It's Bob the Rhino, the fastest cyclist in the forest.\n\n\"Did you bike without your turkey contraption today?\" he asks.\n\n\"Yes I did,\" Sydney answers.\n\n\"That is more important than winning, Sydney,\" says Bob.", 
+      "text": "It's Bob the Rhino, the fastest cyclist in the forest.\n\n\"Did you bike without your wooden wings today?\" he asks.\n\n\"Yes I did,\" Sydney answers.\n\n\"That is more important than winning, Sydney,\" says Bob.", 
       "type": "PAGE"
     }, 
     {
       "id": 37, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/c3_10.jpg", 
       "subtext": null, 
-      "text": "\"Winning is fun. But getting better at something is a lot more fun,\" Bob says.\n\n\"And today you learned that you don't need the turkey contraption. You can balance all on your own!. You can go places with your bike by yourself. You can use your bike even when your Pa is not in the forest.\"", 
+      "text": "\"Winning is fun. But getting better at something is a lot more fun,\" Bob says.\n\n\"And today you learned that you don't need the wooden wings. You can balance all on your own! Now that is something to celebrate!.\"", 
       "type": "PAGE"
     }, 
     {
       "id": 38, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/c3_11.jpg", 
       "subtext": null, 
-      "text": "The night after the race, Sydney is feeling happy. She did not win the race, but she is getting better at something.\n\nAnd that is the most important thing of all.", 
+      "text": "The night after the race, Sydney is feeling happy. She did not win the race, but she did get better at something.\n\nAnd that is the most important thing of all.", 
       "type": "PAGE"
     }, 
     {
@@ -304,7 +304,7 @@
       "isShowReflectionStart": true, 
       "nextContentId": 37, 
       "subtext": "", 
-      "text": "Tell me a story. Think about a time when you did not win a race or a physical activity game.", 
+      "text": "Tell me a story. Think about a time when you did not win a physical activity game?", 
       "type": "REFLECTION"
     }, 
     {
@@ -314,7 +314,7 @@
       "isDelayNext": true, 
       "nextContentId": 38, 
       "subtext": "", 
-      "text": "Did that makes you want to stop playing? Think about the good things that happened even when you did not win.", 
+      "text": "Did that makes you want to stop playing? Think about what you learned even though you did not win?", 
       "type": "REFLECTION"
     }, 
     {
@@ -337,7 +337,7 @@
       "img_url": "", 
       "isLocked": true, 
       "subtext": "To read the rest of the story, complete a one-day challenge with your family.", 
-      "text": "Do you want to know what's going to happen next?", 
+      "text": "Do you want to know what's going to happen with Sydney?", 
       "type": "CHALLENGE"
     }, 
     {
@@ -351,7 +351,7 @@
       "id": 45, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/c4_02.jpg", 
       "subtext": null, 
-      "text": "Sydney bikes  to the meadows to race with the sheep.\n\n\"Their hair is very thick, but they do run very fast!\" says Sydney to her Pa.\n\nShe also bikes to the waterfall to sing with the fish.\n\n\"They sound like they're singing underwater!\" says Sydney.\n\n", 
+      "text": "Sydney bikes to the meadows to race with the sheep.\n\n\"Their hair is very thick, and they do run very fast!\" says Sydney to her Pa.\n\nShe also bikes to the waterfall to sing with the fish.\n\n\"They sound like they're singing underwater!\" says Sydney.\n\n", 
       "type": "PAGE"
     }, 
     {
@@ -407,7 +407,7 @@
       "id": 53, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/c4_10.jpg", 
       "subtext": null, 
-      "text": "\"Here's your kite. Hold it tight,\" says Sydney to her brother.\n\nHer brother can't say a word. He is very impressed with his sister.\n\nFor Sydney, it doesn't matter if her brother doesn't even say thank you. What really matters is her brother's big smile. The smile that showed how proud he that his sister tries hard to learn to bike.", 
+      "text": "\"Here's your kite. Hold it tight,\" says Sydney to her brother.\n\nHer brother can't say a word. He is very impressed with his sister.\n\nFor Sydney, it doesn't matter if her brother doesn't even say thank you. His smile showed just how proud he was of his sister.", 
       "type": "PAGE"
     }, 
     {
