@@ -88,7 +88,7 @@
       "isShowReflectionStart": true, 
       "nextContentId": 12, 
       "subtext": "", 
-      "text": "Can you tell me a story about a time when you were scared to try a new activity?", 
+      "text": "Can you tell me a time when you were unsure about trying a new activity?", 
       "type": "REFLECTION"
     }, 
     {
@@ -98,14 +98,14 @@
       "isDelayNext": true, 
       "nextContentId": 13, 
       "subtext": "", 
-      "text": "Instead of feeling scared, what are some good things you can think about when you are doing that activity?", 
+      "text": "What made you finally decide to try? Did you decide to continue once you tried?", 
       "type": "REFLECTION"
     }, 
     {
       "id": 13, 
       "img_url": "", 
       "subtext": "", 
-      "text": "Sally was scared to stay at the camp, but she is excited to make some really nice friends. Trying new activities can be fun!", 
+      "text": "If you try something new and you don't like it, you can change it and do something new!  Find what works for you and stick with it!", 
       "type": "STATEMENT"
     }, 
     {
@@ -189,14 +189,14 @@
     }, 
     {
       "contentGroupId": "2", 
-      "contentGroupName": "Inspiring People", 
+      "contentGroupName": "People Who Can Help You", 
       "id": 25, 
       "img_url": null, 
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 26, 
       "subtext": " ", 
-      "text": "Can you tell me a story? Can you tell me about a person you know that wasn't very good at an activity when they started but is now good at it?", 
+      "text": "Can you tell me a time when a person helped you learn a new activity?", 
       "type": "REFLECTION"
     }, 
     {
@@ -206,14 +206,14 @@
       "isDelayNext": true, 
       "nextContentId": 27, 
       "subtext": "", 
-      "text": "What can you learn from that person?", 
+      "text": "How did the person help you become better at that activity?", 
       "type": "REFLECTION"
     }, 
     {
       "id": 27, 
       "img_url": "", 
       "subtext": "", 
-      "text": "It is good to have people to look up to when you are thinking about being more healthy.", 
+      "text": "Being active can be difficult sometimes, but having someone else to support you can help a lot.\n\nFind someone that can help support you achieve your goals!", 
       "type": "STATEMENT"
     }, 
     {
@@ -332,14 +332,14 @@
     }, 
     {
       "contentGroupId": "3", 
-      "contentGroupName": "People Who Help You Getting Good at Exercising", 
+      "contentGroupName": "Getting Better at Being Active", 
       "id": 44, 
       "img_url": null, 
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 42, 
       "subtext": "An \"activity\" is a thing you do that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.", 
-      "text": "Can you tell me a story? Can you tell a story about the time when you became good at an activity or sport?", 
+      "text": "Can you tell me story about a time you were not good at an activity in the beginning?", 
       "type": "REFLECTION"
     }, 
     {
@@ -349,14 +349,14 @@
       "isDelayNext": true, 
       "nextContentId": 43, 
       "subtext": "", 
-      "text": "Who are the people that helped you to become good at it?", 
+      "text": "What made you decide to you keep trying? Did you notice you get better over time?", 
       "type": "REFLECTION"
     }, 
     {
       "id": 46, 
       "img_url": "", 
       "subtext": "", 
-      "text": "Getting help from other people helps you to be good at sports.\n\nHelping others to be more active can make more people be healthy.", 
+      "text": "Practice makes perfect! Make a commitment to practicing now, so you can achieve your goals, in the future.", 
       "type": "STATEMENT"
     }, 
     {
@@ -461,14 +461,14 @@
     }, 
     {
       "contentGroupId": "4", 
-      "contentGroupName": "People You Like To Exercise With", 
+      "contentGroupName": "Being Active Takes Time", 
       "id": 61, 
       "img_url": null, 
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 58, 
       "subtext": "", 
-      "text": "Can you tell a story about a time when you were active with people that you like?", 
+      "text": "Can you tell me a time when you didn’t like an activity in the beginning but grew to like it?", 
       "type": "REFLECTION"
     }, 
     {
@@ -478,14 +478,14 @@
       "isDelayNext": true, 
       "nextContentId": 59, 
       "subtext": "", 
-      "text": "How did it make you feel to exercise with people you like?", 
+      "text": "How did it make you feel to learn a new activity and actually have fun doing it?", 
       "type": "REFLECTION"
     }, 
     {
       "id": 63, 
       "img_url": "", 
       "subtext": "", 
-      "text": "Activity can be even more fun when you do it with someone you like.", 
+      "text": "Sometimes, it takes time to get better at new activities. Once we do, we can use these activities as a fun way to stay healthy!", 
       "type": "STATEMENT"
     }, 
     {

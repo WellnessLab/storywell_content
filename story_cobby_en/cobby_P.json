@@ -1,0 +1,408 @@
+{
+  "contents": [
+    {
+      "id": 0,
+      "type": "COVER",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/cobby_cover.png",
+      "text": "Cobby and the Game of Cowball",
+      "subtext": "Chapter 1 \n\n Landing at Hippolandia",
+      "isLocked": true
+    },
+	{
+  		"id": 1,
+  		"type": "CHALLENGE",
+  		"img_url": "",
+  		"text": "Do you want to know what's going to happen next?",
+  		"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
+  		"isLocked": true
+	},
+    {
+      "id": 2,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_01.jpg",
+      "text": "Cobby the little cow moved with Mommy Cow to the island of Hippolandia.",
+      "subtext": null
+    },
+    {
+      "id": 3,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_02.jpg",
+      "text": "But Cobby is not happy.\n\n\"I don't like moving to a new island,\" says Cobby.\n\nMommy Cow says, \"Sometimes, I get sad about leaving the old island, too, but I will be with you every time you are feeling upset.\"\n\n\"And, when you are feeling upset you can always play your favorite game of Cowball.\"",
+      "subtext": null
+    },
+    {
+      "id": 4,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_03.jpg",
+      "text": "The land of Hippolandia is warm and green and filled with many creatures of all different shapes and sizes. Cobby likes his new house and his neighbors too.\n\nThere is just one problem. The kids in Hippolandia don't play Cowball. They play Hippominton.",
+      "subtext": null
+    },
+    {
+      "id": 5,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_04.jpg",
+      "text": "Cobby can't play Hippominton very well because he doesn't know how to jump high. He tries and tries to jump as high as he can, but he just can't jump high enough to hit the Hippominton ball.",
+      "subtext": null
+    },
+    {
+      "id": 6,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_05.jpg",
+      "text": "\"I don't like this game because I don't know how to jump high,\" says Cobby.",
+      "subtext": null
+    },
+    {
+      "id": 7,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_06.jpg",
+      "text": "Arthur, the Alpaca, says to Cobby, \"Hey, I couldn't jump very high when I began playing Hippominton. But now I can jump better.\"\n\n\"Think about the good feelings you have when you jump.\n\n\"So no matter how high or low you jumps, you will always feel good\"\n\nOther kids start to jump. Some kids bounce really high, other kids don't jump very high.",
+      "subtext": null
+    },
+     {
+      "id": 8,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_07.jpg",
+      "text": "Cobby says to himself, \"Think about the good feelings you have while you jump.\"\n\nHe leaps up high and notices that his body feels great when he jumps.",
+      "subtext": null
+    },
+	{
+      "id": 9,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_08.jpg",
+      "text": "Cobby lands on the ground. Arthur, Bella, and Elena cheered! Cobby did not jump very high. But it felt good anyway!",
+      "subtext": null
+    },
+    {
+      "id": 10,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Can you think of a time you learned to do new activity?",
+      "subtext": "Active means doing any activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, swimming.
+",
+      "contentGroupId": "1",
+      "contentGroupName": "Feeling Scared",
+      "nextContentId": 11
+    },
+    {
+      "id": 11,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "What good feelings did have when trying that new activity?",
+      "subtext": "",
+      "isDelayNext": true,
+      "contentGroupId": "1",
+      "nextContentId": 12
+    },
+    {
+      "id": 12,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "Exercising is not about being \"the best\" all the time. It is also about the journey to reaching the finish line.",
+      "subtext": ""
+    },
+    {
+      "id": 13,
+      "type": "COVER",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/cobby_cover.png",
+      "text": "Chapter 2 \n\n Searching for a Cowball",
+      "subtext": "",
+      "isLocked": false
+    },
+	{
+  		"id": 14,
+  		"type": "CHALLENGE",
+  		"img_url": "",
+  		"text": "Do you think Cobby can play his favorite game of Cowball soon?",
+  		"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
+  		"isLocked": true
+	},
+    {
+      "id": 15,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c2_01.jpg",
+      "text": "Cobby has new friends. His new friends play Hippominton every day. Cobby misses playing Cowball because it is still his favorite game.",
+      "subtext": null
+    },
+    {
+      "id": 16,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c2_02.jpg",
+      "text": "\"Mommy, I want to play Cowball but nobody has the ball on this island,\" said Cobby.\n\n\"Oh I know what I can do,\" says Mommy Cow.\n\n\"Tomorrow is Saturday. First thing in the morning we ask our neighbors where we can get the ball for Cowball game,\" she says.",
+      "subtext": null
+    },
+    {
+      "id": 17,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c2_03.jpg",
+      "text": "In the morning, Mommy and Cobby go to Ms. Kamal the Cat.\n\nMs. Kamal  has no idea what a Cowball is. \"All I have are big balls of threads,\" says Ms. Kamal. \"But let me take you to Mr. Jose. He might be able to help you.\"So Cobby, Mommy, and Ms. Kamal go to Mr. Jose's house.",
+      "subtext": null
+    },
+    {
+      "id": 18,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c2_04.jpg",
+      "text": "\"I have no idea what a Cowball is. I have tall boxes, but no balls,\" says Mr. Jose.\n\nThen he says, \"Let me take you to Dr. Evelyn, she might be able to help you.\"\n\nSo Cobby, Mommy, Ms. Kamal, and Mr. Jose go to Dr. Evelyn's house.",
+      "subtext": null
+    },
+    {
+      "id": 19,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c2_05.jpg",
+      "text": "\"I know what a Cowball is, but I don't have any,\" said Dr. Evelyn. \"I have a smaller ball that you can use,\" she says. Dr. Evelyn shows Cobby the small ball.",
+      "subtext": null
+    },
+    {
+      "id": 20,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c2_06.jpg",
+      "text": "\"Thank you, Dr. Evelyn. But this ball is too small for a game of Cowball.\"\n\nDr. Evelyn says, \"I know it's not as big. But playing with a small Cowball is better than not playing at all.\"\n\n\"Yes. And you can teach us how to play Cowball,\" says Mr. Jose.",
+      "subtext": null
+    },
+    {
+      "id": 21,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c2_07.jpg",
+      "text": "That afternoon, Dr. Evelyn, Mommy Cow, and Cobby teach Mr. Jose and Ms. Kamal how to play Cowball.\n\nIt was a small Cowball, but it was fun nonetheless.",
+      "subtext": ""
+    },
+    {
+      "id": 22,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Can you tell me a time when people around you helped you learn a new activity?",
+      "subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, swimming.",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "2",
+      "contentGroupName": "Good Feelings When You Exercise",
+      "nextContentId": 23
+    },
+    {
+      "id": 23,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "What good feelings did you have when they helped you to be active?",
+      "subtext": "",
+      "isDelayNext": true,
+      "contentGroupId": "2",
+      "nextContentId": 24
+    },
+    {
+      "id": 24,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "There are times when we can't do everything by ourselves. And it's often there are people around you who can help you to be more active.",
+      "subtext": ""
+    },
+
+    {
+      "id": 25,
+      "type": "COVER",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/cobby_cover.png",
+      "text": "Chapter 3 \n\n Teaching Cowball",
+      "subtext": "",
+      "isLocked": false
+    },
+	{
+  		"id": 26,
+  		"type": "CHALLENGE",
+  		"img_url": "",
+  		"text": "Do you think Cobby will play the game of Cowball with his friends?",
+  		"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
+  		"isLocked": true
+	},
+    {
+      "id": 27,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c3_01.jpg",
+      "text": "Now that Cobby has a small Cowball he wants to teach his friends how to play the game. On Sunday afternoon, Cobby stops by Arthur's house to take him for a Cowball game with Bella and Dionne.",
+      "subtext": null
+    },
+    {
+      "id": 28,
+       "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c3_02.jpg",
+      "text": "Cobby began to explain the game rules. \"So to play Cowball..., you have to kick the ball and run. Then you kick the ball from this pole to that pole. Let me show you how,\" says Cobby.\n\nCobbie kicks the ball and runs and kicks and runs from one pole to the another. \"Now its your turn, Bella,\" says Cobby.",
+      "subtext": null
+    },
+    {
+      "id": 29,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c3_03.jpg",
+      "text": "Bella kicks the ball and runs then kicks the ball and runs. She finishes faster than Cobby!",
+      "subtext": null
+    },
+      {
+      "id": 30,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c3_05.jpg",
+      "text": "\"Arthur, it's your turn,\" says Bella.\n\nArthur kicks the ball. Then he runs. Then he stumbles. He kicks the ball again and tries to run to catch the ball. But Arthur is not a very fast runner. \"I can't do this. I'm exhausted,\" says Arthur.",
+      "subtext": null
+    },
+    {
+      "id": 31,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c3_04.jpg",
+      "text": "\"\"Let me try,\" says Elena. She kicks the ball and runs as fast as she can. Like Arthur, she can't catch the ball. She falls of to the ground instead. ",
+      "subtext": null
+    },
+    {
+      "id": 32,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c3_06.jpg",
+      "text": "\"I'm exhausted! Let me take a break,\" said Elena.\n\n\"Nobody wants to play Cowball,\" says Cobby.",
+      "subtext": null
+    },
+    {
+      "id": 33,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c3_07.jpg",
+      "text": "\"Nooo, that's not what we said,\" says Arthur.\n\nElena says, \"Yes. This is a fun game. But we need a break.\"\n\n\"Let's do this again next Saturday,\" says Bella.\n\n\"Yeah, let's do this again next Saturday!\" says Arthur.",
+      "subtext": null
+    },
+    {
+      "id": 34,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c3_08.jpg",
+      "text": "In the evening, Cobbie has dinner with his mom, brothers, and sisters.\n\n\"You smiled a lot tonight. Did you have a good time with your friends?\" Mommy Cow asks.\n\n\"Yes! We are going to play Cowball again next Saturday.\"",
+      "subtext": null
+    },
+    {
+      "id": 35,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Can you think of a time you enjoyed being active with a family member?",
+      "subtext": "Being active means doing any activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, swimming.",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "3",
+      "contentGroupName": "Family Exercise This Week",
+      "nextContentId": 36
+    },
+    {
+      "id": 36,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "How does your family makes you want to be more active?",
+      "subtext": "",
+      "isDelayNext": true,
+      "contentGroupId": "3",
+      "nextContentId": 37
+    },
+    {
+      "id": 37,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "Being active with others can help us keep up the good work!",
+      "subtext": ""
+    },
+    {
+      "id": 38,
+      "type": "COVER",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/cobby_cover.png",
+      "text": "Chapter 4 \n\n A New Game",
+      "subtext": null,
+      "isLocked": false
+    },
+	{
+  		"id": 39,
+  		"type": "CHALLENGE",
+  		"img_url": "",
+  		"text": "Do you think Cobby's friends can play Cowball better this time?",
+  		"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
+  		"isLocked": true
+	},
+    {
+      "id": 40,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c4_01.jpg",
+      "text": "It's Saturday morning. Cobby and his friends are practicing Cowball again.\n\nBella kicks the ball to one poll, runs to catch the ball, kicks the ball to the other poll, and runs again. She can run very fast.",
+      "subtext": null
+    },
+    {
+      "id": 41,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c4_02.jpg",
+      "text": "Arthur and Elena can't run very fast. They can't run as fast as Bella. \"Cobby, I think the game isn't very  fun. Elena and I can't run very fast,\" says Arthur.",
+      "subtext": null
+    },
+    {
+      "id": 42,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c4_03.jpg",
+      "text": "Bella says, \"Cobbie can play Hippominton with us!\"\n\n\"But he doesn't like it very much because he doesn't think he can jump very high,\" said Arthur.",
+      "subtext": null
+    },
+    {
+      "id": 43,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c4_04.jpg",
+      "text": "\"Why don't you just play Cowminton?\" says Mr. Jose who is standing nearby.\n\n\"What is Cowminton?\" Cobby asks.\n\n\"Cowminton is like Cowball, but not really. It's also like Hippominton, but not really,\" Mr. Jose explains.",
+      "subtext": ""
+    },
+    {
+      "id": 44,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c4_05.jpg",
+      "text": "\"Ultimately, it's part Cowball and part Hippominton,\" says Mr. Jose to the kids.\n\n\"To play this game, one of you must run very fast and kick the ball from this pole to that pole. Then your teammate should grab the ball and throw it higher than the pole\"",
+      "subtext": null
+    },
+    {
+      "id": 45,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c4_06.jpg",
+      "text": "Cobby kicks the ball from one pole while Elena waits by the other pole. Cobby kicks the ball again for Elena to catch.\n\nElena catches the ball then jumps very high. She throws the ball towards the other pole. The ball flew above the pole. Way higher.\n\n\"Elena, that is so cool!\" says Bella.",
+      "subtext": null
+    },
+    {
+      "id": 46,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c4_07.jpg",
+      "text": "\"This is a cool game. Let's play this again. Bella, we're a team okay?\" says Arthur.",
+      "subtext": ""
+    },
+    {
+      "id": 47,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c4_08.jpg",
+      "text": "The kids of Hippolandia now play the game of Cowminton every day.\n\nCobby is happy. Every day he can run faster and jump much higher. Cobby’s Mom is also happy that Cobby is happy.\n\nThis new game makes everyone happy and healthy.",
+      "subtext": ""
+    },
+    {
+      "id": 48,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Can you tell me a time when people around you helped you learn a new activity?",
+      "subtext": "",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "4",
+      "contentGroupName": "Happy and Healthy",
+      "nextContentId": 49
+    },
+    {
+      "id": 49,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "What good feelings did you have when they helped you to be active?",
+      "subtext": "",
+      "isDelayNext": true,
+      "contentGroupId": "4",
+      "nextContentId": 50
+    },
+    {
+      "id": 50,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "There are times when we can't do everything by ourselves. Often, there are people around you who can help you to be more active.",
+      "subtext": ""
+    },
+    {
+      "id": 51,
+      "type": "MEMO",
+      "img_url": "",
+      "text": "You have completed this storybook. Your next story is:\n\n\"Sydney the Sloth and the Uphill Ride\"",
+      "subtext": ""
+    }
+  ]
+}

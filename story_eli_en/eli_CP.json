@@ -46,7 +46,7 @@
 			"id": 6,
 			"type": "REFLECTION",
 			"img_url": null,
-			"text": "Tell me about a time when you were active with your Mom/Dad/Caregiver or other adults who lives with you at home?",
+			"text": "Can you think about the positive feelings you felt when you were active with your caregiver?",
 			"subtext": "\"Active\" means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.",
 			"isDelayNext": true,
 			"isShowReflectionStart": true,
@@ -58,7 +58,7 @@
 			"id": 7,
 			"type": "REFLECTION",
 			"img_url": "",
-			"text": "What did you enjoy when you were active with your Mom/Dad/Caregiver?",
+			"text": "How did you find it helpful to be active with your caregiver?",
 			"subtext": "",
 			"isDelayNext": true,
 			"contentGroupId": "1",
@@ -68,7 +68,7 @@
 			"id": 8,
 			"type": "STATEMENT",
 			"img_url": "",
-			"text": "Thinking about the fun things that \nhappen during \nphysical activity can make it more enjoyable!",
+			"text": "Working with others to achieve your goals can make activity easier and more fun!",
 			"subtext": ""
 		},
 		{
@@ -119,19 +119,19 @@
 			"id": 15,
 			"type": "REFLECTION",
 			"img_url": null,
-			"text": "Tell me a time when you were active with your family. What are the good feelings that you had after exercising?",
+			"text": "Tell me how it made you feel to have someone to be active together last week.",
 			"subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, and swimming.",
 			"isDelayNext": true,
 			"isShowReflectionStart": true,
 			"contentGroupId": "2",
-			"contentGroupName": "Enjoyable Exercise",
+			"contentGroupName": "Supportive People Around You",
 			"nextContentId": 16
 		},
 		{
 			"id": 16,
 			"type": "REFLECTION",
 			"img_url": "",
-			"text": "What are the good feelings that you had after exercising?",
+			"text": "Do you think having someone to be active can help you enjoy physical activities? Why?",
 			"subtext": "",
 			"isDelayNext": true,
 			"contentGroupId": "2",
@@ -141,7 +141,7 @@
 			"id": 17,
 			"type": "STATEMENT",
 			"img_url": "",
-			"text": "Being active regularly can help you think better at school and work. It can make you feel great too!",
+			"text": "Having people that can help and support your can make activity easier and more fun!",
 			"subtext": ""
 		},
 		{
@@ -220,7 +220,7 @@
 			"id": 28,
 			"type": "REFLECTION",
 			"img_url": null,
-			"text": "Can you tell me a time when you helped someone to learn new activity?",
+			"text": "Can you tell me about the joys of being helped to learn a new activity?",
 			"subtext": "Any activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, swimming.",
 			"isDelayNext": true,
 			"isShowReflectionStart": true,
@@ -232,7 +232,7 @@
 			"id": 29,
 			"type": "REFLECTION",
 			"img_url": "",
-			"text": "What sorts of feelings did you have after helping somebody to be good at being active? ",
+			"text": "How can supportive people help you achieve your goals?",
 			"subtext": "",
 			"isDelayNext": true,
 			"contentGroupId": "3",
@@ -242,7 +242,7 @@
 			"id": 30,
 			"type": "STATEMENT",
 			"img_url": "",
-			"text": "Being active can make people around you be active and healthy too!",
+			"text": "Others can help you be active and stay active too!",
 			"subtext": ""
 		},
 		{
@@ -343,7 +343,7 @@
 			"id": 43,
 			"type": "STATEMENT",
 			"img_url": "",
-			"text": "A healthy life begins when families work together to have a healthy life.!",
+			"text": "Being active to be healthy is best when you do it together as a family.",
 			"subtext": ""
 		},
 		{
