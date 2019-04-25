@@ -1,0 +1,80 @@
+{
+  "contents": [
+    {
+      "id": 0,
+      "type": "COVER",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-01.png",
+      "text": "Welcome to Storywell!",
+      "subtext": "",
+      "isLocked": false
+    },
+    {
+      "id": 1,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-02.png",
+      "text": "Storywell is an app that help families to be more physically active. With this app, families can also read storybooks together.\n\nBy reading stories together, caregivers can connect with their children. Reading together also helps kids develop their imagination and literacy skills.",
+      "subtext": null
+    },
+    {
+      "id": 2,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-03.png",
+      "text": "There are stories inside of the application for caregivers and children to read together. After the first story, there are many more stories that can be unlocked for you to read with your child. These stories can be unlocked by completing family fitness challenges together.\n\nSwipe left to continue.\n\nOr swipe right to read previous pages.",
+      "subtext": null
+    },
+    {
+      "id": 3,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-04.png",
+      "text": "The fitness challenges are created just for your family. Each week’s challenge is adjusted based on how active you were in the previous week.\n\nSwipe left to continue.",
+      "subtext": null
+    },
+    {
+      "id": 4,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-05.png",
+      "text": "This is the Adventure screen! Here you can view your family’s physical activity. The hero on this screen needs you to be active so they can cross to the next island. The more active your family is, the more balloons the hero gets to safely cross the sea.",
+      "subtext": null
+    },
+    {
+      "id": 5,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-06.png",
+      "text": "The child’s physical activity is represented by red balloons. The caregiver’s physical activity is represented by blue balloons.\n\nThe more balloons you get, the closer you meet your family goal.",
+      "subtext": null
+    },
+    {
+      "id": 6,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-07.png",
+      "text": "Throughout the stories, the storybooks will ask you to record your own story. Pressing the round button with the microphone on it will start the recording so you can verbally answer the question.\n\nSwipe left to try recording your answer to a sample question before you get started.",
+      "subtext": null
+    },
+    {
+      "id": 7,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "What is your favorite fruit and why?",
+      "subtext": "Press the record button below to answer the question.\n\nThe recordings are stored in your phone and the computers managed by Northeastern University. All recordings can only be accessed by you and the research staff at Northeastern University.",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+	  "contentGroupId": "1",
+      "contentGroupName": "Favorite Fruit",
+      "nextContentId": 8
+    },
+    {
+      "id": 8,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "By eating healthy, you will grow up strong!",
+      "subtext": ""
+    },
+    {
+      "id": 9,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "In a few more days, you will get more stories in your library.\n\nCheck back soon!",
+      "subtext": ""
+    },
+  ]
+}
