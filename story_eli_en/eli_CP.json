@@ -11,7 +11,7 @@
 			"id": 1,
 			"type": "PAGE",
 			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_01.jpg",
-			"text": "Eli and Mama Elephants go for a walk down at the grassland.  It is a windy day.",
+			"text": "Eli and Mama Elephant go for a walk down at the grassland.  It is a windy day.",
 			"subtext": null
 		},
 		{
@@ -112,7 +112,7 @@
 			"id": 14,
 			"type": "PAGE",
 			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_02.jpg",
-			"text": "\"Hey Mom, this is fun! I can blow the red hat on the big tall tree!\" says Eli.\n\n\"That’s because you exercise often. It makes you strong and healthy. And you will feel good about yourself” says Mama.\n\n\"Come on, let’s blow that red hat one more time.\"",
+			"text": "\"Hey Mom, this is fun! I can blow the red hat on the big tall tree!\" says Eli.\n\n\"That’s because you exercise often. It makes you strong and healthy.” says Mama.\n\n\"Come on, let’s blow that red hat one more time.\"",
 			"subtext": null
 		},
 		{
@@ -155,7 +155,7 @@
 			"id": 19,
 			"type": "PAGE",
 			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_04.jpg",
-			"text": "The wind catches the hat yet again, it flies further and further away!",
+			"text": "The wind catches the hat again, it flies further and further away!",
 			"subtext": null
 		},
 		{
@@ -178,7 +178,7 @@
 			"id": 22,
 			"type": "PAGE",
 			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_04.jpg",
-			"text": "The wind grabs the hat, carrying the hat away from the Elephants. And suddenly... ",
+			"text": "The wind grabs the hat, carrying the hat away from the elephants. And suddenly... ",
 			"subtext": null
 		},
 		{
@@ -314,7 +314,7 @@
 			"id": 40,
 			"type": "PAGE",
 			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_05.jpg",
-			"text": "The sun is about to set and the valley shimmers with the rays of the setting sun.\n\nEli and Mom sit and watch the sun go down. They watch the sky change from a soft orange to brilliant gold as the sun drops below the horizon.\n\nThey sit together with the red hat that was blown by the wind.",
+			"text": "The sun is about to set and the valley shimmers with the rays of the setting sun.\n\nEli and Mama sit and watch the sun go down. They watch the sky change from a soft orange to brilliant gold as the sun drops below the horizon.\n\nThey sit together with the red hat that was blown by the wind.",
 			"subtext": null
 		},
 		{
@@ -350,7 +350,7 @@
 			"id": 44,
 			"type": "MEMO",
 			"img_url": "",
-			"text": "You have completed this storybook. Your next story is:\n\n\"Have You Ever Seen a Unicorn?\"",
+			"text": "The end\n\nYour next story is:\n\n\"Have You Ever Seen a Unicorn?\"",
 			"subtext": ""
 		}
 	]
