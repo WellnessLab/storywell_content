@@ -87,8 +87,8 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 12, 
-      "subtext": "", 
-      "text": "Can you tell me a time when you were unsure about trying a new activity?", 
+      "subtext": "Physical activities are any activities that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.", 
+      "text": "Can you tell me a time when you were unsure about trying a new physical activity?", 
       "type": "REFLECTION"
     }, 
     {
@@ -98,14 +98,14 @@
       "isDelayNext": true, 
       "nextContentId": 13, 
       "subtext": "", 
-      "text": "What made you finally decide to try? Did you decide to continue once you tried?", 
+      "text": "What made you decide to try? Did you decide to continue this activity once you tried?", 
       "type": "REFLECTION"
     }, 
     {
       "id": 13, 
       "img_url": "", 
       "subtext": "", 
-      "text": "If you try something new and you don't like it, you can change it and do something new!  Find what works for you and stick with it!", 
+      "text": "Trying or starting a new activity can seem hard. But it can be easier if you start with small, slow steps.", 
       "type": "STATEMENT"
     }, 
     {
@@ -195,8 +195,8 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 26, 
-      "subtext": " ", 
-      "text": "Can you tell me a time when a person helped you learn a new activity?", 
+      "subtext": "Being active means doing any activity that makes you sweat or become out of breath like running, playing on the playground, or playing sports like baseball or soccer.", 
+      "text": "Can you tell me about a time when a person helped you learn a new physical activity?", 
       "type": "REFLECTION"
     }, 
     {
@@ -206,7 +206,7 @@
       "isDelayNext": true, 
       "nextContentId": 27, 
       "subtext": "", 
-      "text": "How did the person help you become better at that activity?", 
+      "text": "What was the best part of getting help from this person?", 
       "type": "REFLECTION"
     }, 
     {
@@ -338,7 +338,7 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 42, 
-      "subtext": "An \"activity\" is a thing you do that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.", 
+      "subtext": "Physical activities are any activities that makes you sweat or become out of breath like doing yoga, jumping rope, or skating.", 
       "text": "Can you tell me story about a time you were not good at an activity in the beginning?", 
       "type": "REFLECTION"
     }, 
@@ -467,7 +467,7 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 58, 
-      "subtext": "", 
+      "subtext": "Physical activities are any activity that makes you sweat or become out of breath like speed walking, riding a bike, or hiking.", 
       "text": "Can you tell me a time when you didn’t like an activity in the beginning but grew to like it?", 
       "type": "REFLECTION"
     }, 
