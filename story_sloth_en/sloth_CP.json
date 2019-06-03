@@ -73,8 +73,8 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 9, 
-      "subtext": "Any activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, swimming.", 
-      "text": "Can you tell me a story? Tell a story when you needed help with an activity?", 
+      "subtext": "Physical activities are any activities that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.", 
+      "text": "Can you tell a story when your parent (or caregiver) helped you in a physical activity?", 
       "type": "REFLECTION"
     }, 
     {
@@ -84,7 +84,7 @@
       "isDelayNext": true, 
       "nextContentId": 10, 
       "subtext": "", 
-      "text": "How did it make you feel when they helped you?", 
+      "text": "Can you think of a physical activity that you can do together with your parent (or caregiver) next week?", 
       "type": "REFLECTION"
     }, 
     {
@@ -181,8 +181,8 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 21, 
-      "subtext": "Any activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, swimming.", 
-      "text": "Tell a story about a time when you wanted to do an activity and a person other than your family member helped you.", 
+      "subtext": "Physical activities are any activity that makes you sweat or become out of breath like running, playing on the playground, or playing sports like baseball or soccer.", 
+      "text": "Can you tell a story about a time when you were not sure you can do a physical activity?", 
       "type": "REFLECTION"
     }, 
     {
@@ -192,7 +192,7 @@
       "isDelayNext": true, 
       "nextContentId": 23, 
       "subtext": "", 
-      "text": "Do you think they could help you to be more active in the next few weeks?", 
+      "text": "Can you think of people you know that can make physical activity easier next week?", 
       "type": "REFLECTION"
     }, 
     {
@@ -303,8 +303,8 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 37, 
-      "subtext": "", 
-      "text": "Tell me a story. Think about a time when you did not win a physical activity game?", 
+      "subtext": "Physical activities are any activities that makes you sweat or become out of breath like doing yoga, jumping rope, or skating.", 
+      "text": "Can you tell a story about a time when you did not win a physical activity game?", 
       "type": "REFLECTION"
     }, 
     {
@@ -418,8 +418,8 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 51, 
-      "subtext": "Active means any activity that makes you sweat or become out of breath like running, playing in the park, dancing, swimming.", 
-      "text": "Tell a story about a time when you realized that you were getting better to be active.", 
+      "subtext": "Physical activities are any activity that makes you sweat or become out of breath like speed walking, riding a bike, or hiking.", 
+      "text": "Can you tell a story when you realized that you were getting better at an activity?", 
       "type": "REFLECTION"
     }, 
     {
@@ -429,7 +429,7 @@
       "isDelayNext": true, 
       "nextContentId": 52, 
       "subtext": "", 
-      "text": "How did it make you feel to know that you are getting good at that activity?", 
+      "text": "How did your parent (or caregiver) feel when you are getting good an an activity?", 
       "type": "REFLECTION"
     }, 
     {
