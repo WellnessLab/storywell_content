@@ -419,7 +419,7 @@
       "isShowReflectionStart": true, 
       "nextContentId": 51, 
       "subtext": "Physical activities are any activity that makes you sweat or become out of breath like speed walking, riding a bike, or hiking.", 
-      "text": "Can you tell a story when you realized that you were getting better at an activity?", 
+      "text": "Can you tell a story about a time when doing a physical activity became easier for you?", 
       "type": "REFLECTION"
     }, 
     {
@@ -429,14 +429,14 @@
       "isDelayNext": true, 
       "nextContentId": 52, 
       "subtext": "", 
-      "text": "How did your parent (or caregiver) feel when you are getting good an an activity?", 
+      "text": "How did your parent (or caregiver) feel when it became easier for you to do that physical activity?", 
       "type": "REFLECTION"
     }, 
     {
       "id": 56, 
       "img_url": "", 
       "subtext": "", 
-      "text": "When you notice that an activity is getting easier, it means that you are getting better at it.", 
+      "text": "When you notice that an activity is getting easier, it can mean that you are getting better at it.", 
       "type": "STATEMENT"
     }, 
     {
