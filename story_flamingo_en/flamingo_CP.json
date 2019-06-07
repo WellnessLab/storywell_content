@@ -1,0 +1,465 @@
+{
+  "contents": [
+    {
+      "id": 0,
+      "type": "COVER",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/cover.jpg",
+      "text": "Fiona the Chef Flamingo and the Case of Missing Carrots",
+      "subtext": "Chapter 1",
+      "isLocked": true
+    },
+	{
+    	"id": 1,
+      	"type": "CHALLENGE",
+      	"img_url": "",
+      	"text": "Do you want to know what's going to happen next?",
+      	"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
+      	"isLocked": true
+    },
+    {
+      "id": 2,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_01.jpg",
+      "text": "\"I'm going to get the carrots,\" said Fiona the Chef Flamingo.\n\nIt is an important morning for Fiona. She is inviting her friends to her restaurant. She will need to make appetizers, entrees, and desserts for twelve guests. Her friend, George the Hippo helps her cook the dinner.",
+      "subtext": null
+    },
+    {
+      "id": 3,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_02.jpg",
+      "text": "The carrots will be the main dish because Fiona likes the bright orange color and the sweet taste.\n\n\"Yum yum, the carrots cooked with butter and lemon will be very yummy!\" said Fiona.\n\nBut Fiona doesn’t expect the problem with that she is going to deal with.",
+      "subtext": null
+    },
+    {
+      "id": 4,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_03.jpg",
+      "text": "The carrots are gone!",
+      "subtext": null
+    },
+    {
+      "id": 5,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_04.jpg",
+      "text": "They were there fifteen minutes ago, but now they are nowhere to be found.\n\nShe looks up over the shelves, down under the table, and the bowls where she made the sides. But the carrots are nowhere to be found.",
+      "subtext": null
+    },
+    {
+      "id": 6,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_05.jpg",
+      "text": "\"George, do you know where the carrots are?\" Fiona asked George who is chopping the mushrooms.\n\n\"There carrots were exactly where you are right now ...\" says George.",
+      "subtext": null
+    },
+    {
+      "id": 7,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_06.jpg",
+      "text": "But then, George sees something across the kitchen's window that caught his attention.\n\n\"Fiona, what is that thing with the brown cloak carrying a bag full of carrots?\" asks George.\n\nHe points his finger to the mysterious figure on the garden.",
+      "subtext": null
+    },
+    {
+      "id": 8,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_07.jpg",
+      "text": "\"George! That's the carrot thief!\" shouts Fiona.\n\nShe tries to fly to get out of the window. But, Fiona being a young flamingo, can't fly very high. She falls off to the floor.\n\nGeorge, being a good friend, grabbed a bench and put it under the window.",
+      "subtext": null
+    },
+    {
+      "id": 9,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_08.jpg",
+      "text": "\"Thank you George!\" says Fiona. She then flies through the window towards the carrot thief.\n\nGeorge watches Fiona's heroic act from the kitchen with complete amazement.",
+      "subtext": null
+    },
+    {
+      "id": 10,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_10.jpg",
+      "text": "As Fiona flies, she grabs the bag full of carrots.",
+      "subtext": null
+    },
+    {
+      "id": 11,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_11.jpg",
+      "text": "She lands safely to the soft lawn with her carrots. The day is saved.",
+      "subtext": null
+    },
+    {
+      "id": 12,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_12.jpg",
+      "text": "But the carrot thief quickly escaped and he or she is nowhere to be seen.",
+      "subtext": null
+    },
+    {
+      "id": 13,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "Can you tell a story when you were trying a new activity that was hard at first?",
+      "subtext": "Any activity that makes you sweat or become out of breath like running, playing in the park, dancing, and swimming.",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "1",
+      "contentGroupName": "Trying New Physical Activities",
+      "nextContentId": 14
+    },
+    {
+      "id": 14,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "Can you think about anything that can make the activity easier to do?",
+      "subtext": "",
+      "contentGroupId": "1",
+      "nextContentId": 15,
+      "isDelayNext": true
+    },
+    {
+      "id": 15,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "Being active doesn't have to be hard.\n\nTry finding a comfortable place to be active or finding adults and friends that can help you to be active.",
+      "subtext": ""
+    },
+    {
+      "id": 16,
+      "type": "COVER",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/cover.jpg",
+      "text": "Chapter 2",
+      "subtext": null,
+      "isLocked": false
+    },
+	{
+    	"id": 17,
+      	"type": "CHALLENGE",
+      	"img_url": "",
+      	"text": "Do you want to know what's going to happen with the Fiona and the carrots?",
+      	"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
+      	"isLocked": true
+    },
+    {
+      "id": 18,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_01.jpg",
+      "text": "Fiona is relieved that she get her carrots back. George is also very happy!\n\n\"Fiona, that was awesome!\" says George.
+\"“You helped too!\" says Fiona.\n\nAs they walk back to the kitchen, they heard a loud yell from the house next door.",
+      "subtext": null
+    },
+    {
+      "id": 19,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_02.jpg",
+      "text": "\"My carrots!\" \n\nIt is Ms. Dole’s voice. Fiona and George look at each other.\n\nFiona and George run toward Ms. Dole's backyard to find the old doe looking very worried.",
+      "subtext": null
+    },
+    {
+      "id": 20,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_04.jpg",
+      "text": "\"Somebody steals my carrots!\" says Ms. Dole when she sees Fiona and George.\n\n\"We can help you find the carrots!\" says George.\n\n\"That's right! George and I can help you catch the carrot thief!\" says Fiona.",
+      "subtext": ""
+    },
+    {
+      "id": 21,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_05.jpg",
+      "text": "So Fiona and George run and follow the footmarks of the thing that took the carrots.\n\n\"I think it’s a big cat,\" says Fiona.",
+      "subtext": null
+    },
+    {
+      "id": 22,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_06.jpg",
+      "text": "\"No way it's a cat. Cats don't eat carrots, Fiona,\" replies George.\n\n\"I have a cousin who lives with a cat. Cousin Cluck. Her roommate, Pipi, loves carrot! I like Pipi, she's a lot of fun. So I think the thing that took the carrots could be a cat!\" explains Fiona before she will be totally surprised.",
+      "subtext": null
+    },
+    {
+      "id": 23,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_06a.jpg",
+      "text": "George is no longer by her side!",
+      "subtext": null
+    },
+    {
+      "id": 24,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_07.jpg",
+      "text": "George is so tired of running. He is several feet behind from Fiona.\n\n\"George, are you okay?\" asks Fiona.\"I'm okay Fiona. It's just I can't walk very fast,\" says George who is out of breath.\n\n\"You go first, and I will catch up with you,\" says George.\n\n\"George, I can't do this without you. Let’s run a little slower so you can run as fast as me. The carrot thief's footmark will not go everywhere soon,\" says Fiona.",
+      "subtext": null
+    },
+    {
+      "id": 25,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_08.jpg",
+      "text": "George feels uplifted by what Fiona says.\n\n\"Okay! Let's catch this carrot thief!\" says George.\n\nSo they run and follow the footmarks on the ground. They run a little slower, but it doesn't matter because Fiona prefers to do it with George.",
+      "subtext": null
+    },
+    {
+      "id": 26,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_09.jpg",
+      "text": "Then they saw a suspicious figure standing by the ice cream truck.\n\nThis figure is not very tall. Just like the thing that took the carrots. Wearing a brown coat. Just like the thing that took the carrots.\n\n\"Fiona, I think it's the thief,\" says George.\n\n\"Let's catch him,\" says Fiona.",
+      "subtext": null
+    },
+    {
+      "id": 27,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_10.jpg",
+      "text": "BAM!\n\nFiona jumps over the figure with the coat. Then George jumps over Fiona and the figure with the coat!",
+      "subtext": null
+    },
+    {
+      "id": 28,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Can you tell a time when you thought physical activity was hard?",
+      "subtext": "Physical activity means any activity that makes you sweat or become out of breath like running, playing on the playground, or playing sports like baseball or soccer.",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "2",
+      "contentGroupName": "Who Can Help You?",
+      "nextContentId": 29
+    },
+    {
+      "id": 29,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "Fiona encouraged George to run and be active. Can you think of people who can help you to be active?",
+      "subtext": "",
+      "isDelayNext": true,
+      "contentGroupId": "2",
+      "nextContentId": 30
+    },
+    {
+      "id": 30,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "Having a helping hand can make physical activity more doable.",
+      "subtext": ""
+    },
+    {
+      "id": 20,
+      "type": "COVER",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/cover.jpg",
+      "text": "Chapter 3:\n\nThe Shoes",
+      "subtext": null,
+      "isLocked": false
+    },
+	{
+    	"id": 21,
+      	"type": "CHALLENGE",
+      	"img_url": "",
+      	"text": "Do you think Edith can chase the unicorn?",
+      	"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
+      	"isLocked": true
+    },
+    {
+      "id": 22,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_05.jpg",
+      "text": "Edith runs further and deeper into the forest, chasing the unicorn that maneuvers at the speed of light.\n\nIt isn’t until about a thousand steps that Edith starts to outpace the unicorn.",
+      "subtext": null
+    },
+    {
+      "id": 23,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c3_01.jpg",
+      "text": "\"Hey Unicorn,\" says Edith. \n\n\"Don't be scared, all I want is to take a picture with you.\"",
+      "subtext": null
+    },
+    {
+      "id": 24,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c3_02.jpg",
+      "text": "The unicorn pauses and looks at Edith. \n\n The unicorn looks upset.",
+      "subtext": null
+    },
+    {
+      "id": 25,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c3_03.jpg",
+      "text": "Edith quickly hugs the unicorn and says: \"No no don't cry Uni, I am not going to hurt you, I just want to take a photo of you!\"",
+      "subtext": null
+    },
+    {
+      "id": 26,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c3_04.jpg",
+      "text": "\"I am not scared of you. In fact, you look like a very friendly girl,\" says Uni the unicorn.\n\n\"But I lost my flying shoe. Without my flying shoe, I can't hover, fly, or glide.\"",
+      "subtext": null
+    },
+    {
+      "id": 27,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c3_05.jpg",
+      "text": "\"If I can't hover, fly, or glide; I will be late for my best friend's birthday party,\" says the Uni.",
+      "subtext": null
+    },
+    {
+      "id": 28,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c3_06.jpg",
+      "text": "\"Oh I can help you with that!\" says Edith.\n\n\"I'm good at finding lost things!\"\n\n\"Let's retrace our steps to find your shoe so you can hover, fly, and glide. And you won't be late for your birthday party,\" says Edith.\n",
+      "subtext": null
+    },
+    {
+      "id": 29,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c3_07.jpg",
+      "text": "As they walk back retracing their steps, they see a glimmering thing floating above a lake.\n\n\"That's my shoe,\" says Uni.\n",
+      "subtext": null
+    },
+    {
+      "id": 30,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c3_08.jpg",
+      "text": "\"Your shoe surely is shimmering,\" says Edith.\n\n\"But it's flying above the lake, how do I get it?\" asks Uni.\n\n\"I can jump to those small rocks in the lake and grab your shoe,\" says Edith.",
+      "subtext": null
+    },
+    {
+      "id": 31,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c3_09.jpg",
+      "text": "Edith jumps carefully on the rocks inside the lake, one by one until she is close enough to grab the floating unicorn shoe.\n\n\"I got your shoe!\" yells Edith.",
+      "subtext": null
+    },
+    {
+      "id": 32,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c3_10.jpg",
+      "text": "Uni the Unicorn claps with his hooves. \n\nClap! Clap! Clap! \n\nHe neighs in excitement.",
+      "subtext": null
+    },
+    {
+      "id": 33,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Can you tell me a story about a time when someone helped you be more active?",
+      "subtext": "",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "3",
+      "contentGroupName": "Helping Hands",
+      "nextContentId": 34
+    },
+    {
+      "id": 34,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "Tell me how it made you feel knowing that people close to you can help you to be active?",
+      "subtext": "",
+      "isDelayNext": true,
+      "contentGroupId": "3",
+      "nextContentId": 35
+    },
+    {
+      "id": 35,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "Having support can make a big difference in being healthy! Find someone who can support you in your health goals!",
+      "subtext": ""
+    },
+    {
+      "id": 36,
+      "type": "COVER",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/cover.jpg",
+      "text": "Chapter 4: When will we play again?",
+      "subtext": null,
+      "isLocked": false
+    },
+	{
+    	"id": 37,
+      	"type": "CHALLENGE",
+      	"img_url": "",
+      	"text": "Do you think the unicorn can get to the party on time?",
+      	"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
+      	"isLocked": true
+    },
+    {
+      "id": 38,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_01.jpg",
+      "text": "\"Thank you... what's your name?\" asks Uni the Unicorn.\n\n\"My name is Edith,\" she says.\n\n\"Thank you, Edith. You are a real friend,\" says Uni.",
+      "subtext": null
+    },
+    {
+      "id": 39,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_02.jpg",
+      "text": "\"Now I have to go to my friend’s birthday party.\"\n\nUni starts to gallop then soars up high.",
+      "subtext": null
+    },
+    {
+      "id": 40,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_03.jpg",
+      "text": "But Edith is upset because she doesn’t know when she will get to play with the unicorn again. As Uni fly higher and higher, Edith shouts \"Can we play again sometime!?\"\n\nUni stops going higher and floats mid-air.\n\n\"I will bring my friends tomorrow,\" says Uni.\n\nThe unicorn flies off and disappears in the distance.\n",
+      "subtext": null
+    },
+    {
+      "id": 41,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_04.jpg",
+      "text": "The next day, Edith waits in the forest where she met the unicorn the day before. At exactly 12 o'clock, something appears upon the sky.",
+      "subtext": null
+    },
+    {
+      "id": 42,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_05.jpg",
+      "text": "It's Uni the Unicorn again. He gallops down and lands on the meadow. \n\nNext to the unicorn, is a flying rhinoceros with a pair of big wings and a flying penguin with a pair of small wings.",
+      "subtext": null
+    },
+    {
+      "id": 43,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_06.jpg",
+      "text": "\"Edith, this is my friend Mike,\" says Uni, introducing the rhino. \n\n\"And this is Linus,\" says the unicorn while pointing to the flying penguin. \n\n\"This is my friend Edith who inspired me to be brave,\" says the Unicorn to Mike and Linus.",
+      "subtext": null
+    },
+    {
+      "id": 44,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_07.jpg",
+      "text": "Edith couldn't be any happier to have not only one, but three new friends.\n",
+      "subtext": null
+    },
+    {
+      "id": 45,
+      "type": "REFLECTION",
+      "img_url": null,
+      "text": "Tell me a story about a time you enjoyed doing an activity with your family or friends.",
+      "subtext": "Being active means doing any activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, swimming.",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "4",
+      "contentGroupName": "Fun is Important",
+      "nextContentId": 46
+    },
+    {
+      "id": 46,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "How can being active together make you want to be active again and again?",
+      "subtext": "",
+      "isDelayNext": true,
+      "contentGroupId": "4",
+      "nextContentId": 47
+    },
+    {
+      "id": 47,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "Having fun during activities is important. This can help you stick with it!",
+      "subtext": ""
+    },
+    {
+      "id": 48,
+      "type": "MEMO",
+      "img_url": "",
+      "text": "The End\n\nYour next story is:\n\n\"Sally the Salamander and the Boomerang School\"",
+      "subtext": ""
+    }
+  ]
+}
