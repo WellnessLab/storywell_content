@@ -20,14 +20,15 @@
       "id": 2,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_01.jpg",
-      "text": "\"I'm going to get the carrots,\" said Fiona the Chef Flamingo.\n\nIt is an important morning for Fiona. She is inviting her friends to her restaurant. She will need to make appetizers, entrees, and desserts for twelve guests. Her friend, George the Hippo helps her cook the dinner.",
+      "text": "\"I'm going to get the carrots,\" says Fiona the Chef Flamingo.\n\nWhat a morning, fresh like cucumbers, thought Fiona. In her kitchen, twelve sets of appetizers, entrees, and desserts are being prepared. Her neighbors (twelve guests in total) are coming tonight for dinner. Her friend, George the Hippo helps her cut the vegetables from the Lucy Farms.
+",
       "subtext": null
     },
     {
       "id": 3,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_02.jpg",
-      "text": "The carrots will be the main dish because Fiona likes the bright orange color and the sweet taste.\n\n\"Yum yum, the carrots cooked with butter and lemon will be very yummy!\" said Fiona.\n\nBut Fiona doesn’t expect the problem with that she is going to deal with.",
+      "text": "Cooking is always exciting for Fiona. She is thinking about tonight's main dish, the carrots. Their bright orange color and their sweet taste.\n\n\"Yum yum, the carrots cooked with butter and lemon will be very yummy!\" says Fiona.\n\nBut Fiona doesn't expect the problem that she will soon have to deal with.",
       "subtext": null
     },
     {
@@ -41,35 +42,35 @@
       "id": 5,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_04.jpg",
-      "text": "They were there fifteen minutes ago, but now they are nowhere to be found.\n\nShe looks up over the shelves, down under the table, and the bowls where she made the sides. But the carrots are nowhere to be found.",
+      "text": "They were there fifteen minutes ago, but now they are nowhere to be found.\n\nShe looks up over the shelves, down under the table, and inside the bowls where she made the sides. But the carrots are nowhere to be found.",
       "subtext": null
     },
     {
       "id": 6,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_05.jpg",
-      "text": "\"George, do you know where the carrots are?\" Fiona asked George who is preparing the mushroom sauce.\n\n\"The carrots are exactly where you are right now ...\" says George.",
+      "text": "\"George, do you know where the carrots are?\" Fiona asked George who is preparing the mushroom sauce.\n\n\"The carrots were exactly where you are right now...\" says George.",
       "subtext": null
     },
     {
       "id": 7,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_06.jpg",
-      "text": "But then, George sees something across the kitchen's window that caught his attention.\n\n\"Fiona, what is that thing with the brown cloak carrying a bag full of carrots?\" asks George.\n\nHe points his finger to the mysterious figure on the garden.",
+      "text": "But then, George sees something across the kitchen window that caught his attention.\n\n\"Fiona, who is that thing with the navy blue cloak carrying a bag full of carrots?\" asks George. He points his finger to the mysterious figure in the garden.",
       "subtext": null
     },
     {
       "id": 8,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_07.jpg",
-      "text": "\"George! That's the carrot thief!\" shouts Fiona.\n\nShe tries to fly to get out of the window. But, Fiona being a young flamingo, can't fly very high. She falls off to the floor.\n\nGeorge, being a good friend, grabbed a bench and put it under the window.",
+      "text": "\"George! That's the thing that took the carrots!\" shouts Fiona. She tries to fly out of the window to stop the carrot thief. But, Fiona being a young flamingo, can't fly very high. She falls off to the floor.\n\nGeorge, being a good friend, grabbed a stool and put it under the window.",
       "subtext": null
     },
     {
       "id": 9,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c1_08.jpg",
-      "text": "\"Thank you George!\" says Fiona. She then flies through the window towards the carrot thief.\n\nGeorge watches Fiona's heroic act from the kitchen with complete amazement.",
+      "text": "\"Thank you George!\" says Fiona. She then flies through the window towards the thing that took the carrots.\n\nGeorge watches Fiona's heroic act from the kitchen window with complete amazement.",
       "subtext": null
     },
     {
@@ -97,8 +98,8 @@
       "id": 13,
       "type": "REFLECTION",
       "img_url": "",
-      "text": "Can you tell a story when you were trying a new activity that was hard at first?",
-      "subtext": "Any activity that makes you sweat or become out of breath like running, playing in the park, dancing, and swimming.",
+      "text": "Can you tell a story about when you were trying a new activity that was hard at first?",
+      "subtext": "Physical activities are any activities that make you sweat or become out of breath like running, playing in the park, dancing, or swimming.",
       "isDelayNext": true,
       "isShowReflectionStart": true,
       "contentGroupId": "1",
@@ -109,7 +110,7 @@
       "id": 14,
       "type": "REFLECTION",
       "img_url": "",
-      "text": "Can you think about anything that can make the activity easier to do?",
+      "text": "Can you think  of anything that can make the activity easier to do?",
       "subtext": "",
       "contentGroupId": "1",
       "nextContentId": 15,
@@ -142,7 +143,7 @@
       "id": 18,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_01.jpg",
-      "text": "Fiona is relieved that she get her carrots back. George is also very happy!\n\n\"Fiona, that was awesome!\" says George.\n\n\"You helped too!\" says Fiona.\n\nAs they walk back to the kitchen, they heard a loud yell from the house next door.",
+      "text": "Fiona is relieved that she got her carrots back. George is also very happy!\n\n\"Fiona, that was awesome!\" says George.\n\n\"You helped too!\" says Fiona.\n\nAs they walk back to the kitchen, they heard a loud yell from the house next door.",
       "subtext": null
     },
     {
@@ -156,14 +157,14 @@
       "id": 20,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_04.jpg",
-      "text": "\"Somebody steals my carrots!\" says Ms. Dole when she sees Fiona and George.\n\n\"We can help you find the carrots!\" says George.\n\n\"That's right! George and I can help you catch the thing that took the carrots!\" says Fiona.",
+      "text": "\"Somebody stole my carrots!\" says Ms. Dole when she sees Fiona and George.\n\n\"We can help you find the carrots!\" says George.\n\n\"That's right! George and I can help you catch the thing that took the carrots!\" says Fiona.",
       "subtext": ""
     },
     {
       "id": 21,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_05.jpg",
-      "text": "So Fiona and George run and follow the footmarks of the thing that took the carrots.\n\n\"I think it’s a big cat,\" says Fiona.",
+      "text": "So Fiona and George run and follow the footprints of the thing that took the carrots.\n\n\"I think it’s a big cat,\" says Fiona.",
       "subtext": null
     },
     {
@@ -184,14 +185,14 @@
       "id": 24,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_07.jpg",
-      "text": "George is so tired of running. He is several feet behind from Fiona.\n\n\"George, are you okay?\" asks Fiona.\"I'm okay Fiona. It's just I can't walk very fast,\" says George who is out of breath.\n\n\"You go first, and I will catch up with you,\" says George.\n\n\"George, I can't do this without you. Let’s run a little slower so you can run as fast as me. The carrot thief's footmark will not go anywhere soon,\" says Fiona.",
+      "text": "George is several feet behind Fiona. He is so tired of running.\n\n\"George, are you okay?\" asks Fiona.\"I'm okay Fiona. It's just I can't run very fast,\" says George who is out of breath.\n\n\"You go first, and I will catch up with you,\" says George.\n\n\"George, I can't do this without you. Let's walk briskly instead of running. That way you can be as fast as me. The footprints will not go anywhere soon,\" says Fiona.",
       "subtext": null
     },
     {
       "id": 25,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c2_08.jpg",
-      "text": "George feels uplifted by what Fiona says.\n\n\"Okay! Let's catch this carrot thief!\" says George.\n\nSo they run and follow the footmarks on the ground. They run a little slower, but it doesn't matter because Fiona prefers to do it with George.",
+      "text": "George feels uplifted by what Fiona says.\n\n\"Okay! Let's catch this carrot thief!\" says George.\n\nSo they wal briskly to follow the footprints on the ground. Their pace is a little slower, but it doesn’t matter because Fiona likes to do it with George.",
       "subtext": null
     },
     {
@@ -212,8 +213,8 @@
       "id": 28,
       "type": "REFLECTION",
       "img_url": null,
-      "text": "Can you tell a time when you thought physical activity was hard?",
-      "subtext": "Physical activity means any activity that makes you sweat or become out of breath like running, playing on the playground, or playing sports like baseball or soccer.",
+      "text": "Can you tell a time when you thought a physical activity was hard?",
+      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like running, playing on the playground, or playing sports like baseball or soccer.",
       "isDelayNext": true,
       "isShowReflectionStart": true,
       "contentGroupId": "2",
@@ -224,7 +225,7 @@
       "id": 29,
       "type": "REFLECTION",
       "img_url": "",
-      "text": "Fiona encouraged George to run and be active. Can you think of people who can help you to be active?",
+      "text": "Fiona encouraged George to run and be active. Can you think of people who can encourage you be active?",
       "subtext": "",
       "isDelayNext": true,
       "contentGroupId": "2",
@@ -264,7 +265,7 @@
       "id": 34,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c3_01.jpg",
-      "text": "It is Mr. Racoon!\n\n He just ordered a pumpkin ice cream cone that looks like a piece of carrot from afar.\n\n\"I'm sorry Mr. Racoon. We are chasing the carrot thief. I thought you were the carrot thief!\" says Fiona.",
+      "text": "It is Mr. Racoon!\n\n He just ordered a pumpkin ice cream cone that looks like a piece of carrot from afar.\n\n\"I'm sorry Mr. Racoon. We are chasing a thing that steals Ms. Dole's carrots. I thought you were the carrot thief!\" says Fiona.",
       "subtext": null
     },
     {
@@ -278,7 +279,7 @@
       "id": 36,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c3_03.jpg",
-      "text": "\"I don’t think we can catch the carrot thief,\" says Fiona. She is a little upset.\n\n\"Yeah, the carrot thief is very sneaky,\" says George who is just as upset.\n\n\"You kids don’t give up!\" says Ms. Dole.\n\nThen Ms. Dole says, “Let’s set up a plan to catch the carrot thief.” 
+      "text": "\"I don’t think we can catch the thing that took the carrots,\" says Fiona. She is indeed a little upset.\n\n\"Yeah, the carrot thief is very sneaky,\" says George who is just as upset.\n\n\"You kids don’t give up!\" says Ms. Dole.\n\nThen Ms. Dole says, “Let’s set up a plan to catch the carrot thief.” 
 ",
       "subtext": null
     },
@@ -345,7 +346,7 @@
       "id": 44,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_00.jpg",
-      "text": "The plan is as follows. Fiona, George, and Ms. Dole set up a trap for the carrot thief.\n\nThat trap is a king-size blanket and a bucketful of molasses.\n\nTo attract the thief, they put Fiona's carrots on the floor. If the thief is trying to steal the carrot, George will pour a bucketful of molasses to the thief. Then Fiona will throw the blanket",
+      "text": "The plan is as follows. Fiona, George, and Ms. Dole set up a trap for the carrot thief.\n\nThe trap is a king-size blanket and a bucketful of molasses. Molasses is a thick liquid that’s really sticky. When people make sugar, sometimes they got molasses too.\n\nTo get the thief's attention, they put Fiona’s carrots on the floor. If the thief tries to steal the carrots, George will pour a bucketful of molasses on the thief. Then Fiona will throw the blanket.",
       "subtext": null
     },
     {
@@ -359,28 +360,28 @@
       "id": 46,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_03.jpg",
-      "text": "George quickly grabs the bucket full of molasses. He is about to throw the molasses at the thing that is eating the carrots.\n\nThe chomp-chomp-chomp sound does not come from the carrot thief. It is Ms. Dole eating the carrots!",
+      "text": "George quickly grabs the bucket full of molasses. He is about to throw the molasses at the thing that is eating the carrots.\n\nThe chomp-chomp-chomp sound is not coming from the carrot thief. It is Ms. Dole eating the carrots!",
       "subtext": null
     },
     {
       "id": 47,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_04.jpg",
-      "text": "\"Ms. Dole! Why do you eat the carrots?\" asks Fiona who is slightly irritated.\n\n \"Sorry, Fiona. I'm very hungry. I haven't had breakfast yet. The bad carrot thief stole my carrots,\" says Ms. Dole.\n\n \"Ms. Dole, you have a little bit of the carrots, but we must wait a couple more minutes. We want to catch the carrot thief so you can have your carrots back for breakfast,\" says Fiona.\n\n Ms. Dole agrees.",
+      "text": "\"Ms. Dole! Why did you eat the carrots?” asks Fiona. She is slightly irritated.\n\n \"Sorry, Fiona. I'm very hungry. I haven't had breakfast yet. The bad carrot thief stole my carrots,\" says Ms. Dole.\n\n \"Ms. Dole, you have a little bit of the carrots, but we must wait a couple more minutes. We want to catch the carrot thief so you can have your carrots back for breakfast,\" says Fiona.\n\n Ms. Dole agrees.",
       "subtext": null
     },
     {
       "id": 48,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_05.jpg",
-      "text": "They waited a couple of minutes before a figure wearing a cloak walks towards the carrots. The carrots that are set as a trap.\n\nThis figure quietly walk. \n\nStep by step. Very slowly. Then the claws hands emerge to grab the carrots.",
+      "text": "They waited a couple of minutes before a figure wearing a cloak walks towards the carrots. The carrots that are set as a trap.\n\nThis figure walks quietly.\n\nStep by step very slowly. Then the claw hands emerge to grab the carrots..",
       "subtext": null
     },
     {
       "id": 49,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_06.jpg",
-      "text": "George throws the bucketful of molasses. \n\nFiona throws the king-sized blanket. \n\nMs. Dole is about to jump over the blanket.",
+      "text": "George throws the bucketful of molasses.\n\nFiona throws the king-sized blanket.\n\nMs. Dole is about to jump over the blanket.",
       "subtext": null
     },
     {
@@ -415,21 +416,21 @@
       "id": 54,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_11.jpg",
-      "text": "\"But Mr. Fox, you should be embarrassed about yourself because you steal carrots from other people,\" yells Ms. Dole.\n\n \"I'm really sorry. I should not steal anything from other people. I just want to eat carrots,” says Mr. Fox.\n\n\"We will accept your apology if you help Fiona prepare her dinner party tonight.\" says Ms. Dole sternly.",
+      "text": "\"But Mr. Fox, you should be embarrassed about yourself because you stole carrots from other people,\" yells Ms. Dole.\n\n \"I'm really sorry. I should not steal anything from other people. I just want to eat carrots,” says Mr. Fox.\n\n\"We will accept your apology if you help Fiona prepare her dinner for the party tonight.\" says Ms. Dole sternly.",
       "subtext": null
     },
     {
       "id": 55,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_12.jpg",
-      "text": "Later that night, Mr. Fox helps Fiona washes the dishes for the party. \n\nIt was a lot of dishes.",
+      "text": "Later that night, Mr. Fox helps Fiona wash the dishes for the party. \n\nIt was a lot of dishes.",
       "subtext": null
     },
     {
       "id": 56,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/c4_13.jpg",
-      "text": "Fiona also taught Mr. Fox the many ways to prepare carrots. Fiona’s guests enjoy the dishes she prepared. They like the carrots because of the bright orange color and the sweet taste.\n\nFiona is happy that the dinner party went well. But most importantly, she's happy that she can solve the mystery of missing carrots with her friend George.",
+      "text": "Fiona also taught Mr. Fox the many ways to prepare carrots. Fiona’s guests enjoy the dishes she prepared. They like the carrots because of the bright orange color and the sweet taste.\n\nFiona is happy that the dinner party went well. But  more importantly, she's happy that she solved the mystery of the missing carrots with her friend George.",
       "subtext": null
     },
     {
@@ -448,7 +449,7 @@
       "id": 58,
       "type": "REFLECTION",
       "img_url": "",
-      "text": "Why do you think your Mom/Dad/Caregiver enjoy doing that activity with you.",
+      "text": "Why do you think your Mom/Dad/Caregiver enjoy doing that activity with you?",
       "subtext": "",
       "isDelayNext": true,
       "contentGroupId": "4",
