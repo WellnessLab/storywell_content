@@ -462,11 +462,11 @@
       "subtext": ""
     },
     {
-      "id": 60,
-      "type": "ACTION_INCREMENT",
-      "img_url": "",
-      "text": "",
-      "subtext": ""
+      "id": 60, 
+      "img_url": "", 
+      "subtext": "", 
+      "text": "The End\n\nYour next story is:\n\n\"Frank the Fish is Learning to Swim\"", 
+      "type": "MEMO"
     }
   ]
 }
