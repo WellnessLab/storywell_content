@@ -1,5 +1,5 @@
 # Storywell Content
-These are stories and illustrations for the Storywell app.
+These are stories and illustrations for the Storywell app ([Github repository](https://github.com/WellnessLab/storywell_android)).
 
 This repository is maintained by [Herman Saksono](https://github.com/hermansaksono). For questions, please email hsaksono@ccs.neu.edu.
 
