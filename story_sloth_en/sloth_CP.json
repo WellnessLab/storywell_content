@@ -73,7 +73,7 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 9, 
-      "subtext": "Physical activities are any activities that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.", 
+      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.", 
       "text": "Can you tell a story when your parent (or caregiver) helped you in a physical activity?", 
       "type": "REFLECTION"
     }, 
@@ -181,7 +181,7 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 21, 
-      "subtext": "Physical activities are any activity that makes you sweat or become out of breath like running, playing on the playground, or playing sports like baseball or soccer.", 
+      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like running, playing on the playground, or playing sports like baseball or soccer.", 
       "text": "Can you tell a story about a time when you were not sure you can do a physical activity?", 
       "type": "REFLECTION"
     }, 
@@ -303,7 +303,7 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 37, 
-      "subtext": "Physical activities are any activities that makes you sweat or become out of breath like doing yoga, jumping rope, or skating.", 
+      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like doing yoga, jumping rope, or skating.", 
       "text": "Can you tell a story about a time when you did not win a physical activity game?", 
       "type": "REFLECTION"
     }, 
@@ -314,7 +314,7 @@
       "isDelayNext": true, 
       "nextContentId": 38, 
       "subtext": "", 
-      "text": "Did that makes you want to stop playing? Think about what you learned even though you did not win?", 
+      "text": "Did that make you want to stop playing? Think about what you learned even though you did not win?", 
       "type": "REFLECTION"
     }, 
     {
@@ -418,7 +418,7 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 51, 
-      "subtext": "Physical activities are any activity that makes you sweat or become out of breath like speed walking, riding a bike, or hiking.", 
+      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like speed walking, riding a bike, or hiking.", 
       "text": "Can you tell a story about a time when doing a physical activity became easier for you?", 
       "type": "REFLECTION"
     }, 

@@ -87,7 +87,7 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 12, 
-      "subtext": "Physical activities are any activities that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.", 
+      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like running, playing in the park, dancing, or swimming.", 
       "text": "Can you tell me a time when you were unsure about trying a new physical activity?", 
       "type": "REFLECTION"
     }, 
@@ -338,8 +338,8 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 42, 
-      "subtext": "Physical activities are any activities that makes you sweat or become out of breath like doing yoga, jumping rope, or skating.", 
-      "text": "Can you tell me story about a time you were not good at an activity in the beginning?", 
+      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like doing yoga, jumping rope, or skating.", 
+      "text": "Can you tell me a story when you felt you were not good at an activity in the beginning?", 
       "type": "REFLECTION"
     }, 
     {
@@ -467,7 +467,7 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 58, 
-      "subtext": "Physical activities are any activity that makes you sweat or become out of breath like speed walking, riding a bike, or hiking.", 
+      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like speed walking, riding a bike, or hiking.", 
       "text": "Can you tell me a time when you didn’t like an activity in the beginning but grew to like it?", 
       "type": "REFLECTION"
     }, 

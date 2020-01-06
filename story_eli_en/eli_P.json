@@ -221,7 +221,7 @@
 			"type": "REFLECTION",
 			"img_url": null,
 			"text": "Can you tell me about friends or family members who think physical activity is important?",
-			"subtext": "Physical activities are any activities that makes you sweat or become out of breath like doing yoga, jumping rope, or skating.",
+			"subtext": "Physical activity is any activity that makes you sweat or become out of breath like doing yoga, jumping rope, or skating.",
 			"isDelayNext": true,
 			"isShowReflectionStart": true,
 			"contentGroupId": "3",
