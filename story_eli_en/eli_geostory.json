@@ -3,7 +3,7 @@
 		{
 		"id": 0,
 		"type": "COVER",
-		"img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_eli_en/eli_cover.png",
+		"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png",
 		"text": "Eli and the Red Hat Blown by the Wind",
 		"subtext": "",
 		"isLocked": false
