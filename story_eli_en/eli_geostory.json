@@ -9,7 +9,14 @@
 		"isLocked": false
 		},
 		{
-		"id": 1,
+			"id": 1,
+			"type": "PAGE",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_01.jpg",
+			"text": "Eli and Mama Elephant go for a walk down at the grassland.  It is a windy day.",
+			"subtext": null
+		},
+		{
+		"id": 2,
 		"type": "GEOSTORY_SHARING",
 		"img_url": "",
 		"text": "What are some positive things about being active with your family that you would like others to know about? ",
