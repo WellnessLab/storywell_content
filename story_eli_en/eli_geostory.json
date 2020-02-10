@@ -16,11 +16,99 @@
 			"subtext": null
 		},
 		{
-		"id": 2,
-		"type": "GEOSTORY_SHARING",
-		"img_url": "",
-		"text": "What are some positive things about being active with your family that you would like others to know about? ",
-		"subtext": ""
+			"id": 2,
+			"type": "PAGE",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_02.jpg",
+			"text": "Wooooosh!\n\nA strong wind blows Miss Antelope's red hat right off her head!\n\n\"Help me catch my hat. My red hat,\" she cries.",
+			"subtext": null
+		},
+		{
+			"id": 3,
+			"type": "PAGE",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_03.jpg",
+			"text": "\"Eli, let's help Miss Antelope catch her red hat,\" says Mama Elephant.\n\nBut Eli is scared. \"If I run too fast, I will trip and fall over,\" says Eli.\n\n\"You'll be fine! Come on. We will start slow and get faster one step at a time,\" says Mama.",
+			"subtext": null
+		},
+		{
+			"id": 4,
+			"type": "PAGE",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_04.jpg",
+			"text": "So the two elephants run up and down the grassland after the flying red hat blown by the wind. A strong wind.",
+			"subtext": null
+		},
+		{
+			"id": 5,
+			"type": "PAGE",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_05.jpg",
+			"text": "The two elephants are sweating and breathing a little faster. \n\n\"Hee hee hee! This is fun, Mama,\" says Eli. ",
+			"subtext": null
+		},
+		{
+			"id": 7,
+			"type": "GEOSTORY_SHARING",
+			"img_url": "",
+			"text": "Tell your own story about being active together with your family. What are the nice things about family physical activity that you would like others to know about?",
+			"subtext": ""
+		},
+		{
+			"id": 8,
+			"type": "COVER",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png",
+			"text": "Chapter 2",
+			"subtext": "",
+			"isLocked": false
+		},
+		{
+			"id": 9,
+			"type": "GEOSTORY_SHARING",
+			"img_url": "",
+			"text": "Tell your own story about your first time trying a difficult activity. How did you deal with the challenges you faced?",
+			"subtext": ""
+		},
+		{
+			"id": 10,
+			"type": "COVER",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png",
+			"text": "Chapter 2",
+			"subtext": "",
+			"isLocked": false
+		},
+		{
+			"id": 11,
+			"type": "GEOSTORY_SHARING",
+			"img_url": "",
+			"text": "Describe how you feel when you’re active with your friends and family. How do your friends and family help you to be active?",
+			"subtext": ""
+		},
+		{
+			"id": 12,
+			"type": "COVER",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png",
+			"text": "Chapter 2",
+			"subtext": "",
+			"isLocked": false
+		},
+		{
+			"id": 13,
+			"type": "GEOSTORY_SHARING",
+			"img_url": "",
+			"text": "Where are some places that you and your family could be physically active? What are some steps that would help make this possible?",
+			"subtext": ""
+		},
+		{
+			"id": 14,
+			"type": "COVER",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png",
+			"text": "Chapter 2",
+			"subtext": "",
+			"isLocked": false
+		},
+		{
+			"id": 15,
+			"type": "GEOSTORY_SHARING",
+			"img_url": "",
+			"text": "Tell your own story about your first time trying a difficult activity. How did you deal with the challenges you faced?",
+			"subtext": ""
 		}
-  ]
+	]
 }
