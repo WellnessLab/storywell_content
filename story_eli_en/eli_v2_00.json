@@ -1,0 +1,340 @@
+{
+  "contents": [
+    {
+      "id": 0, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png", 
+      "isLocked": true, 
+      "subtext": "", 
+      "text": "Eli and the Red Hat Blown by the Wind", 
+      "type": "COVER"
+    }, 
+    {
+      "id": 1, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_01.jpg", 
+      "subtext": null, 
+      "text": "Eli and Mama Elephant go for a walk down at the grassland.  It is a windy day.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 2, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_02.jpg", 
+      "subtext": null, 
+      "text": "Wooooosh!\n\nA strong wind blows Miss Antelope's red hat right off her head!\n\n\"Help me catch my hat. My red hat,\" she cries.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 3, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_03.jpg", 
+      "subtext": null, 
+      "text": "\"Eli, let's help Miss Antelope catch her red hat,\" says Mama Elephant.\n\nBut Eli is scared. \"If I run too fast, I will trip and fall over,\" says Eli.\n\n\"You'll be fine! Come on. We will start slow and get faster one step at a time,\" says Mama.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 4, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_04.jpg", 
+      "subtext": null, 
+      "text": "So the two elephants run up and down the grassland after the flying red hat blown by the wind. A strong wind.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 5, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_05.jpg", 
+      "subtext": null, 
+      "text": "The two elephants are sweating and breathing a little faster. \n\n\"Hee hee hee! This is fun, Mama,\" says Eli. ", 
+      "type": "PAGE"
+    }, 
+    {
+      "contentGroupId": "1", 
+      "contentGroupName": "Family Exercise", 
+      "id": 6, 
+      "img_url": null, 
+      "isDelayNext": true, 
+      "isShowReflectionStart": true, 
+      "nextContentId": 7, 
+      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like running, playing in the park, dancing or swimming.", 
+      "text": "Can you tell me about a time when you tried a new physical activity that was hard at first?", 
+      "type": "REFLECTION"
+    }, 
+    {
+      "contentGroupId": "1", 
+      "id": 7, 
+      "img_url": "", 
+      "isDelayNext": true, 
+      "nextContentId": 8, 
+      "subtext": "", 
+      "text": "How did that activity become less hard when you tried it again?", 
+      "type": "REFLECTION"
+    }, 
+    {
+      "id": 8, 
+      "img_url": "", 
+      "subtext": "", 
+      "text": "Being active does not happen overnight. Starting with small activities, and then doing them often can make physical activity feel easier to do.", 
+      "type": "STATEMENT"
+    }, 
+    {
+      "id": 9, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png", 
+      "isLocked": false, 
+      "subtext": "", 
+      "text": "Chapter 2", 
+      "type": "COVER"
+    }, 
+    {
+      "id": 10, 
+      "img_url": "", 
+      "isLocked": true, 
+      "subtext": "To read the rest of the story, complete a one-day challenge with your family.", 
+      "text": "Do you want to know what's going to happen next?", 
+      "type": "CHALLENGE"
+    }, 
+    {
+      "id": 11, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_06.jpg", 
+      "subtext": null, 
+      "text": "The hat flies and flies, then lands on a tree. \n\nBut it is not just any tree...", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 12, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_07.jpg", 
+      "subtext": null, 
+      "text": "It's a baobab tree. A big, tall tree.\n\n\"That's a very tall tree,\" says Eli.\n\n\"How do we get Miss Antelope's red hat?\"\n\n\"I have an idea,\" says Mama.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 13, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_01.jpg", 
+      "subtext": null, 
+      "text": "\"Point your trunk towards the hat,\" says Mama.\n\nEli and Mama point their big trunks at the red hat on the big tall tree.\n\n\"Now one, two, three, blow that hat,\" yells Mom.\n\nThey blow the hat at the same time.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 14, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_02.jpg", 
+      "subtext": null, 
+      "text": "\"Hey Mom, this is fun! I can blow the red hat on the big tall tree!\" says Eli.\n\n\"That\u2019s because you exercise often. It makes you strong and healthy.\u201d says Mama.\n\n\"Come on, let\u2019s blow that red hat one more time.\"", 
+      "type": "PAGE"
+    }, 
+    {
+      "contentGroupId": "2", 
+      "contentGroupName": "Supportive People Around You", 
+      "id": 15, 
+      "img_url": null, 
+      "isDelayNext": false, 
+      "isShowReflectionStart": true, 
+      "nextContentId": 16, 
+      "subtext": "Being \"active\" means doing any activity that makes you sweat or become out of breath like running, playing on the playground, or playing sports like baseball or soccer.", 
+      "text": "What are the nice things about being active with your family that you would like others to know about?", 
+      "type": "GEOSTORY_SHARING"
+    }, 
+    {
+      "id": 16, 
+      "img_url": "", 
+      "isInviteMoodLog": true, 
+      "subtext": "", 
+      "text": "Being active with your family can make it more fun. And it feels great too.", 
+      "type": "STATEMENT"
+    }, 
+    {
+      "id": 17, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_03.jpg", 
+      "subtext": null, 
+      "text": "As the elephants blow towards the hat once again, the hat flies off the big tall tree and up into the air.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 18, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_04.jpg", 
+      "subtext": null, 
+      "text": "The wind catches the hat again, it flies further and further away!", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 19, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png", 
+      "isLocked": false, 
+      "subtext": "", 
+      "text": "Chapter 3", 
+      "type": "COVER"
+    }, 
+    {
+      "id": 20, 
+      "img_url": "", 
+      "isLocked": true, 
+      "subtext": "To read the rest of the story, complete a one-day challenge with your family.", 
+      "text": "Do you want to know what's going to the red hat blown by the wind?", 
+      "type": "CHALLENGE"
+    }, 
+    {
+      "id": 21, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_04.jpg", 
+      "subtext": null, 
+      "text": "The wind grabs the hat, carrying the hat away from the elephants. And suddenly... ", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 22, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_05.jpg", 
+      "subtext": null, 
+      "text": "...the hat lands on the river! The river carries the hat downstream, away from the elephants. Eventually, the hat gets caught on a branch on the opposite side of the river.\n\n\"Now how do we get the hat? It's on the other side of the river!\" Eli asks.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 23, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_01.jpg", 
+      "subtext": null, 
+      "text": "\"Just then, a green scaly creature surfaces from the river.\n\n\"Look! It\u2019s my friend Croco!\u201d says Eli.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 24, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_02.jpg", 
+      "subtext": null, 
+      "text": "\"Hi Eli!\" says Croco, the little green crocodile.\n\n\"Croco, can you help me catch that hat on the other side of the river?\" asks Eli.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 25, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_03.jpg", 
+      "subtext": null, 
+      "text": "\"Sure I can help you, but it would be more fun if you do it yourself,\" says Croco. \"I can teach you how to jump across the river.\"\n\nEli is not sure. \"I\u2019m not a good jumper,\" says Eli.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 26, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_04.jpg", 
+      "subtext": null, 
+      "text": "\"It's not difficult at all. I will show you how,\" says Croco.\n\nCroco raises his body, leaps to one big rock on the river. Then he jumps and leaps again to land on another rock. Finally, he lands on the other side of the river.", 
+      "type": "PAGE"
+    }, 
+    {
+      "contentGroupId": "3", 
+      "contentGroupName": "Helping Others", 
+      "id": 27, 
+      "img_url": null, 
+      "isDelayNext": true, 
+      "isShowReflectionStart": true, 
+      "nextContentId": 29, 
+      "subtext": "Being \"active\" means doing any activity that makes you sweat or become out of breath like doing yoga, jumping rope, or skating.", 
+      "text": "Can you tell me how it feels when other people help you to be active?", 
+      "type": "REFLECTION"
+    }, 
+    {
+      "contentGroupId": "3", 
+      "id": 28, 
+      "img_url": "", 
+      "isDelayNext": true, 
+      "nextContentId": 30, 
+      "subtext": "", 
+      "text": "How can other people help you achieve your physical activity goals?", 
+      "type": "REFLECTION"
+    }, 
+    {
+      "id": 29, 
+      "img_url": "", 
+      "subtext": "", 
+      "text": "Others can help you be active and stay active too!", 
+      "type": "STATEMENT"
+    }, 
+    {
+      "id": 30, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_05.jpg", 
+      "subtext": null, 
+      "text": "Eli leaps to the first big rock in the river.\n\nThen Eli jumps and leaps again to land on another rock until finally, Eli lands on the other side of the river.\n\n\"This is not difficult at all!\" says Eli.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 31, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_06.jpg", 
+      "subtext": null, 
+      "text": "\"Mama! I have Miss Antelope\u2019s red hat that was blown by the wind,\" says Eli to Mama.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 32, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_07.jpg", 
+      "subtext": null, 
+      "text": "Eli's Mama is still on the other side of the river.\n\n\"Mama you have to cross the river!\" says Eli. \"You have to cross the river because you have to see this!\"", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 33, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png", 
+      "isLocked": false, 
+      "subtext": "", 
+      "text": "Chapter 4", 
+      "type": "COVER"
+    }, 
+    {
+      "id": 34, 
+      "img_url": "", 
+      "isLocked": true, 
+      "subtext": "To read the rest of the story, complete a one-day challenge with your family.", 
+      "text": "Do you want to know what Eli saw?", 
+      "type": "CHALLENGE"
+    }, 
+    {
+      "id": 35, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_01.jpg", 
+      "subtext": null, 
+      "text": "Now, Eli's Mama wants to see the other side of the river.\n\nShe  takes a few big steps back and quickly runs towards the edge of the river.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 36, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_02.jpg", 
+      "subtext": null, 
+      "text": "Just as she is about to reach the water, she jumps and leaps across the rocks.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 37, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_03.jpg", 
+      "subtext": null, 
+      "text": "\"Yipeee!\" she cheers.\n\n\"You are good at this Mama!\" says Eli happily.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 38, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_04.jpg", 
+      "subtext": null, 
+      "text": "Mama is sweating and out of breath. \"It feels good!\" she says.\n\n\"Look at that, Mama,\" Eli says. Eli's toes pointed to the edge of the cliff.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 39, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_05.jpg", 
+      "subtext": null, 
+      "text": "The sun is about to set and the valley shimmers with the rays of the setting sun.\n\nEli and Mama sit and watch the sun go down. They watch the sky change from a soft orange to brilliant gold as the sun drops below the horizon.\n\nThey sit together with the red hat that was blown by the wind.", 
+      "type": "PAGE"
+    }, 
+    {
+      "contentGroupId": "4", 
+      "contentGroupName": "Places to be active",
+      "id": 40, 
+      "img_url": null, 
+      "isDelayNext": true, 
+      "isShowReflectionStart": true, 
+      "nextContentId": 39, 
+      "subtext": "Being \"active\" means doing any activity that makes you sweat or become out of breath like speed walking, riding a bike, or hiking.", 
+      "text": "Think about a place where your family could be active together. What are some steps that would help you to start being active there?", 
+      "type": "GEOSTORY_SHARING"
+    }, 
+    {
+      "id": 41, 
+      "img_url": "", 
+      "isInviteMoodLog": true, 
+      "subtext": "", 
+      "text": "Finding places where your family can be active can make it easier to be active in the future.", 
+      "type": "STATEMENT"
+    }, 
+    {
+      "id": 42, 
+      "img_url": "", 
+      "subtext": "", 
+      "text": "The end\n\nYour next story is:\n\n\"Have You Ever Seen a Unicorn?\"", 
+      "type": "MEMO"
+    }
+  ]
+}
