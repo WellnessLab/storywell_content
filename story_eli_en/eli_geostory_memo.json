@@ -1,0 +1,69 @@
+{
+	"contents": [
+		{
+		"id": 0,
+		"type": "COVER",
+		"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png",
+		"text": "Eli and the Red Hat Blown by the Wind",
+		"subtext": "",
+		"isLocked": false
+		},
+		{
+			"id": 1,
+			"type": "PAGE",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_01.jpg",
+			"text": "Eli and Mama Elephant go for a walk down at the grassland.  It is a windy day.",
+			"subtext": null
+		},
+		{
+			"id": 2,
+			"type": "PAGE",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_02.jpg",
+			"text": "Wooooosh!\n\nA strong wind blows Miss Antelope's red hat right off her head!\n\n\"Help me catch my hat. My red hat,\" she cries.",
+			"subtext": null
+		},
+		{
+			"id": 3,
+			"type": "PAGE",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_03.jpg",
+			"text": "\"Eli, let's help Miss Antelope catch her red hat,\" says Mama Elephant.\n\nBut Eli is scared. \"If I run too fast, I will trip and fall over,\" says Eli.\n\n\"You'll be fine! Come on. We will start slow and get faster one step at a time,\" says Mama.",
+			"subtext": null
+		},
+		{
+			"id": 4,
+			"type": "PAGE",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_04.jpg",
+			"text": "So the two elephants run up and down the grassland after the flying red hat blown by the wind. A strong wind.",
+			"subtext": null
+		},
+		{
+			"id": 5,
+			"type": "PAGE",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c1_05.jpg",
+			"text": "The two elephants are sweating and breathing a little faster. \n\n\"Hee hee hee! This is fun, Mama,\" says Eli. ",
+			"subtext": null
+		},
+		{
+			"id": 7,
+			"type": "GEOSTORY_SHARING",
+			"img_url": "",
+			"text": "Tell your own story about being active together with your family. What are the nice things about family physical activity that you would like others to know about?",
+			"subtext": ""
+		}, 
+    {
+      "id": 8, 
+      "img_url": "", 
+      "subtext": "", 
+      "text": "Being active does not happen overnight. Starting with small activities, and then doing them often can make physical activity feel easier to do.", 
+      "type": "STATEMENT"
+    },
+		{
+			"id": 9,
+			"type": "MEMO",
+			"img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/cover.png",
+			"text": "Your next story is: \"Have You Ever Seen a Unicorn?\"",
+			"subtext": "",
+			"itemIdToUnlock": "4"
+		}
+	]
+}
