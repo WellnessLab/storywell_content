@@ -52,7 +52,7 @@
       "isShowReflectionStart": true, 
       "nextContentId": 7, 
       "subtext": "Physical activity is any activity that makes you sweat or become out of breath like running, playing in the park, dancing or swimming.", 
-      "text": "Can you tell me about a time when you tried a new physical activity that was hard at first?", 
+      "text": "Eli the Elephant enjoyed running although a little hesitant at first. Can you tell me about a time when you tried a new physical activity that was hard at first?",
       "type": "REFLECTION"
     }, 
     {
@@ -124,14 +124,14 @@
       "isDelayNext": false, 
       "isShowReflectionStart": true, 
       "nextContentId": 16, 
-      "subtext": "Being \"active\" means doing any activity that makes you sweat or become out of breath like running, playing on the playground, or playing sports like baseball or soccer.", 
-      "text": "What are the nice things about being active with your family that you would like others to know about?", 
+      "subtext": "Being active means doing any activity that makes you sweat or become out of breath like running, playing on the playground, or playing sports like baseball or soccer.",
+      "text": "The elephants enjoy exercising together. What are the nice things about being active with your family that you would like others to know about?",
       "type": "GEOSTORY_SHARING"
     }, 
     {
       "id": 16, 
-      "img_url": "", 
-      "isInviteMoodLog": true, 
+      "img_url": "",
+      "isInviteMoodLog": true,
       "subtext": "", 
       "text": "Being active with your family can make it more fun. And it feels great too.", 
       "type": "STATEMENT"
@@ -215,23 +215,23 @@
       "img_url": null, 
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
-      "nextContentId": 29, 
+      "nextContentId": 28,
       "subtext": "Being \"active\" means doing any activity that makes you sweat or become out of breath like doing yoga, jumping rope, or skating.", 
-      "text": "Can you tell me how it feels when other people help you to be active?", 
+      "text": "The crocodile helped Eli cross the river. How did it feels when other people help you to be active?",
       "type": "REFLECTION"
-    }, 
+    },
     {
-      "contentGroupId": "3", 
-      "id": 28, 
-      "img_url": "", 
-      "isDelayNext": true, 
-      "nextContentId": 30, 
-      "subtext": "", 
-      "text": "How can other people help you achieve your physical activity goals?", 
+      "contentGroupId": "3",
+      "id": 28,
+      "img_url": "",
+      "isDelayNext": true,
+      "nextContentId": 29,
+      "subtext": "",
+      "text": "How can other people help you achieve your physical activity goals?",
       "type": "REFLECTION"
-    }, 
+    },
     {
-      "id": 29, 
+      "id": 29,
       "img_url": "", 
       "subtext": "", 
       "text": "Others can help you be active and stay active too!", 
@@ -318,7 +318,7 @@
       "isShowReflectionStart": true, 
       "nextContentId": 39, 
       "subtext": "Being \"active\" means doing any activity that makes you sweat or become out of breath like speed walking, riding a bike, or hiking.", 
-      "text": "Think about a place where your family could be active together. What are some steps that would help you to start being active there?", 
+      "text": "The elephants found a beautiful place after they exercised together. Tell a story about a place where your family had fun being active together.",
       "type": "GEOSTORY_SHARING"
     }, 
     {
@@ -334,7 +334,8 @@
       "img_url": "", 
       "subtext": "", 
       "text": "The end\n\nYour next story is:\n\n\"Have You Ever Seen a Unicorn?\"", 
-      "type": "MEMO"
+      "type": "MEMO",
+      "itemIdToUnlock": "3"
     }
   ]
 }
