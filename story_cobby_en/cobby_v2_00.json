@@ -298,11 +298,11 @@
     },
 	{
       "id": 38,
-  		"type": "CHALLENGE",
-  		"img_url": "",
-  		"text": "Do you think Cobby's friends can play Cowball better this time?",
-  		"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
-  		"isLocked": true
+      "type": "CHALLENGE",
+      "img_url": "",
+      "text": "Do you think Cobby's friends can play Cowball better this time?",
+      "subtext": "To read the rest of the story, complete a one-day challenge with your family.",
+      "isLocked": true
 	},
     {
       "id": 39,
