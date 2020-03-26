@@ -1,0 +1,370 @@
+{
+  "contents": [
+    {
+      "id": 0,
+      "type": "COVER",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/cover.png",
+      "text": "Have you ever seen a unicorn?",
+      "subtext": "Chapter 1: That magical thing behind the forest",
+      "isLocked": true
+    },
+	{
+    	"id": 1,
+      	"type": "CHALLENGE",
+      	"img_url": "",
+      	"text": "Do you want to know what's going to happen next?",
+      	"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
+      	"isLocked": true
+    },
+    {
+      "id": 2,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c1_01.jpg",
+      "text": "It is a warm summer day when Edith sits on the edge of the lake.\n\nShe is sketching a squirrel carrying an acorn. Edith has a big imagination. ",
+      "subtext": null
+    },
+    {
+      "id": 3,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c1_02.jpg",
+      "text": "Suddenly the squirrel runs away, leaping quickly into the dense forest nearby. \n\nHer drawing is half finished, so Edith chases the little critter into the forest.",
+      "subtext": null
+    },
+    {
+      "id": 4,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c1_03.jpg",
+      "text": "As Edith runs, the forest gets denser and denser. There are more and more tall trees and bushy bushes. Edith is careful to step over roots and duck under branches. \n\nEventually, Edith comes to a clearing in the forest. In the clearing, she sees the most magical thing she has ever seen.\n\nIt’s a unicorn!",
+      "subtext": null
+    },
+    {
+      "id": 5,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c1_04.jpg",
+      "text": "Almost like a horse, but shimmering white. The unicorn walks gracefully, unaware that he has been spotted.\n\nEdith who stands nearby, is frozen with excitement and in awe of her discovery.",
+      "subtext": null
+    },
+    {
+      "id": 6,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c1_05.jpg",
+      "text": "Edith is out of breath and sweating a little from running. \n\nShe wants to say \"hi\" to the wondrous creature, but she is at a loss for words. \n\nThe next thing she does will change her life forever.",
+      "subtext": null
+    },
+    {
+      "id": 7,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "Edith is tired but also excited about the thing that she will discover. Can you tell a time when being active with your family makes you excited?",
+      "subtext": "Being 'active' means doing any activity that makes you sweat or become out of breath like running, playing in the park, dancing or swimming.",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "1",
+      "contentGroupName": "Good Feelings About Exercise",
+      "nextContentId": 8
+    },
+    {
+      "id": 8,
+      "type": "REFLECTION",
+      "img_url": "",
+      "text": "What makes being active together with your family exciting?",
+      "subtext": "",
+      "contentGroupId": "1",
+      "nextContentId": 9,
+      "isDelayNext": true
+    },
+    {
+      "id": 9,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "Family physical activity can be an exciting way to bond as a family.",
+      "subtext": ""
+    },
+    {
+      "id": 10,
+      "type": "COVER",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/cover.png",
+      "text": "Chapter 2\n\nUnicorn Run",
+      "subtext": null,
+      "isLocked": false
+    },
+	{
+    	"id": 11,
+      	"type": "CHALLENGE",
+      	"img_url": "",
+      	"text": "Do you want to know what's going to happen with the Edith?",
+      	"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
+      	"isLocked": true
+    },
+    {
+      "id": 12,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c2_01.jpg",
+      "text": "Deep in the forest, there is a magnificent unicorn walking gracefully. Edith decides she wants to take a photo of this beautiful creature. She walks carefully, trying not to gasp or whisper a word. Her steps were muted by the thick grass on the forest floor.\n\nThen something unexpected happens.",
+      "subtext": null
+    },
+    {
+      "id": 13,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c2_02.jpg",
+      "text": "\"Snap!\"\n\nEdith steps on a small dry twig and startles the unicorn! The unicorn, surprised and stunned, runs away immediately.",
+      "subtext": null
+    },
+    {
+      "id": 14,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c2_03.jpg",
+      "text": "Edith chases the unicorn as fast as she can. ",
+      "subtext": ""
+    },
+    {
+      "id": 15,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c2_04.jpg",
+      "text": "She is sweating and a little out of breath. Her heart is throbbing out of excitement.",
+      "subtext": null
+    },
+    {
+      "id": 16,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c2_05.jpg",
+      "text": "This is the first time she had seen a unicorn so magnificent.",
+      "subtext": null
+    },
+    {
+      "id": 17,
+      "type": "GEOSTORY_SHARING",
+      "img_url": null,
+      "text": "Discovering a unicorn is new for Edith. Tell a story when you tried a new physical activity. Did you face any challenges? How did you deal with those challenges?",
+      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like running, playing on the playground, or playing sports like baseball or soccer.",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "2",
+      "contentGroupName": "Dealing with Challenges",
+      "nextContentId": 18
+    },
+    {
+      "id": 18,
+      "type": "STATEMENT",
+      "img_url": "",
+      "text": "You should congratulate yourself when you’re taking steps to be active! It is a big deal!",
+      "subtext": "",
+      "isInviteMoodLog": true
+    },
+    {
+      "id": 19,
+      "type": "COVER",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/cover.png",
+      "text": "Chapter 3:\n\nThe Shoes",
+      "subtext": null,
+      "isLocked": false
+    },
+	{
+    	"id": 20,
+      	"type": "CHALLENGE",
+      	"img_url": "",
+      	"text": "Do you think Edith can chase the unicorn?",
+      	"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
+      	"isLocked": true
+    },
+    {
+      "id": 21,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c2_05.jpg",
+      "text": "Edith runs further and deeper into the forest, chasing the unicorn that maneuvers at the speed of light.\n\nIt isn’t until about a thousand steps that Edith starts to outpace the unicorn.",
+      "subtext": null
+    },
+    {
+      "id": 22,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_01.jpg",
+      "text": "\"Hey Unicorn,\" says Edith. \n\n\"Don't be scared, all I want is to take a picture with you.\"",
+      "subtext": null
+    },
+    {
+      "id": 23,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_02.jpg",
+      "text": "The unicorn pauses and looks at Edith. \n\n The unicorn looks upset.",
+      "subtext": null
+    },
+    {
+      "id": 24,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_03.jpg",
+      "text": "Edith quickly hugs the unicorn and says: \"No no don't cry Uni, I am not going to hurt you, I just want to take a photo of you!\"",
+      "subtext": null
+    },
+    {
+      "id": 25,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_04.jpg",
+      "text": "\"I am not scared of you. In fact, you look like a very friendly girl,\" says Uni the unicorn.\n\n\"But I lost my flying shoe. Without my flying shoe, I can't hover, fly, or glide.\"",
+      "subtext": null
+    },
+    {
+      "id": 26,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_05.jpg",
+      "subtext": null,
+      "text": "\"If I can't hover, fly, or glide; I will be late for my best friend's birthday party,\" says the Uni.",
+      "type": "PAGE"
+    },
+    {
+      "id": 27,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_06.jpg",
+      "subtext": null,
+      "text": "\"Oh I can help you with that!\" says Edith.\n\n\"I'm good at finding lost things!\"\n\n\"Let's retrace our steps to find your shoe so you can hover, fly, and glide. And you won't be late for your birthday party,\" says Edith.\n",
+      "type": "PAGE"
+    },
+    {
+      "id": 28,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_07.jpg",
+      "subtext": null,
+      "text": "As they walk back retracing their steps, they see a glimmering thing floating above a lake.\n\n\"That's my shoe,\" says Uni.\n",
+      "type": "PAGE"
+    },
+    {
+      "id": 29,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_08.jpg",
+      "subtext": null,
+      "text": "\"Your shoe surely is shimmering,\" says Edith.\n\n\"But it's flying above the lake, how do I get it?\" asks Uni.\n\n\"I can jump to those small rocks in the lake and grab your shoe,\" says Edith.",
+      "type": "PAGE"
+    },
+    {
+      "id": 30,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_09.jpg",
+      "subtext": null,
+      "text": "Edith jumps carefully on the rocks inside the lake, one by one until she is close enough to grab the floating unicorn shoe.\n\n\"I got your shoe!\" yells Edith.",
+      "type": "PAGE"
+    },
+    {
+      "id": 31,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_10.jpg",
+      "subtext": null,
+      "text": "Uni the Unicorn claps with his hooves. \n\nClap! Clap! Clap! \n\nHe neighs in excitement.",
+      "type": "PAGE"
+    },
+    {
+      "contentGroupId": "3",
+      "contentGroupName": "Helping Hands",
+      "id": 32,
+      "img_url": null,
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "nextContentId": 33,
+      "subtext": "Being 'active' means doing any activity that makes you sweat or become out of breath like doing yoga, jumping rope, or skating.",
+      "text": "Edith helped the Unicorn to find the shoes. Can you tell a story about a time when someone helped you be more active?",
+      "type": "REFLECTION"
+    },
+    {
+      "contentGroupId": "3",
+      "id": 33,
+      "img_url": "",
+      "isDelayNext": true,
+      "nextContentId": 34,
+      "subtext": "",
+      "text": "How did this person\u2019s help make it easier for you to be active?",
+      "type": "REFLECTION"
+    },
+    {
+      "id": 34,
+      "img_url": "",
+      "subtext": "",
+      "text": "Having support can make a big difference when trying to be healthy! Find someone who can support you in your health goals!",
+      "type": "STATEMENT"
+    },
+    {
+      "id": 35,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/cover.png",
+      "isLocked": false,
+      "subtext": null,
+      "text": "Chapter 4: When will we play again?",
+      "type": "COVER"
+    },
+    {
+      "id": 36,
+      "img_url": "",
+      "isLocked": true,
+      "subtext": "To read the rest of the story, complete a one-day challenge with your family.",
+      "text": "Do you think the unicorn can get to the party on time?",
+      "type": "CHALLENGE"
+    },
+    {
+      "id": 37,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c4_01.jpg",
+      "subtext": null,
+      "text": "\"Thank you... what's your name?\" asks Uni the Unicorn.\n\n\"My name is Edith,\" she says.\n\n\"Thank you, Edith. You are a real friend,\" says Uni.",
+      "type": "PAGE"
+    },
+    {
+      "id": 38,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c4_02.jpg",
+      "subtext": null,
+      "text": "\"Now I have to go to my friend\u2019s birthday party.\"\n\nUni starts to gallop then soars up high.",
+      "type": "PAGE"
+    },
+    {
+      "id": 39,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c4_03.jpg",
+      "subtext": null,
+      "text": "But Edith is upset because she doesn\u2019t know when she will get to play with the unicorn again. As Uni fly higher and higher, Edith shouts \"Can we play again sometime!?\"\n\nUni stops going higher and floats mid-air.\n\n\"I will bring my friends tomorrow,\" says Uni.\n\nThe unicorn flies off and disappears in the distance.\n",
+      "type": "PAGE"
+    },
+    {
+      "id": 40,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c4_04.jpg",
+      "subtext": null,
+      "text": "The next day, Edith waits in the forest where she met the unicorn the day before. At exactly 12 o'clock, something appears upon the sky.",
+      "type": "PAGE"
+    },
+    {
+      "id": 41,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c4_05.jpg",
+      "subtext": null,
+      "text": "It's Uni the Unicorn again. He gallops down and lands on the meadow. \n\nNext to the unicorn, is a flying rhinoceros with a pair of big wings and a flying penguin with a pair of small wings.",
+      "type": "PAGE"
+    },
+    {
+      "id": 42,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c4_06.jpg",
+      "subtext": null,
+      "text": "\"Edith, this is my friend Mike,\" says Uni, introducing the rhino. \n\n\"And this is Linus,\" says the unicorn while pointing to the flying penguin. \n\n\"This is my friend Edith who inspired me to be brave,\" says the Unicorn to Mike and Linus.",
+      "type": "PAGE"
+    },
+    {
+      "id": 43,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c4_07.jpg",
+      "subtext": null,
+      "text": "Edith couldn't be any happier to have not only one, but three new friends.\n",
+      "type": "PAGE"
+    },
+    {
+      "contentGroupId": "4",
+      "contentGroupName": "Physical Activity and Friend",
+      "id": 44,
+      "img_url": null,
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "nextContentId": 45,
+      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like dancing, riding a bike, or hiking.",
+      "text": "Meeting new friends makes Edith happy. Tell a story when you were physically active with your friends. What did you like about it?",
+      "type": "GEOSTORY_SHARING"
+    },
+    {
+      "id": 45,
+      "img_url": "",
+      "isInviteMoodLog": true,
+      "subtext": "",
+      "text": "Being active with you friends can help you stay motivated.",
+      "type": "STATEMENT"
+    },
+    {
+      "id": 46,
+      "img_url": "",
+      "itemIdToUnlock": "4",
+      "subtext": "",
+      "text": "The End\n\nYour next story is:\n\n\"Cobby and the Game of Cowball\"",
+      "type": "MEMO"
+    }
+  ]
+}
