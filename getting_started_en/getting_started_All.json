@@ -12,14 +12,14 @@
       "id": 1,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-02.png",
-      "text": "Storywell is an app that help families to be more physically active. With this app, families can also read storybooks together.\n\nBy reading stories together, caregivers can connect with their children. Reading together also helps kids develop their imagination and literacy skills.",
+      "text": "Storywell is an app that help families to be more physically active. With this app, families can also read storybooks together.\n\nBy reading stories together, caregivers can connect with their children. Reading together also helps kids develop their imagination and their reading comprehension skills.",
       "subtext": null
     },
     {
       "id": 2,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-03.png",
-      "text": "There are stories inside of the application for caregivers and children to read together. After the first story, there are many more stories that can be unlocked for you to read with your child. These stories can be unlocked by completing family fitness challenges together.\n\nSwipe left to continue.\n\nOr swipe right to read previous pages.",
+      "text": "In the \"Storybooks\" tab, you can find books for caregivers and children to read together. There are many more stories that can be unlocked for you to read with your child. These stories can be unlocked by completing family fitness challenges together.\n\nSwipe left to continue. Or swipe right to read previous pages.",
       "subtext": null
     },
     {
@@ -33,7 +33,7 @@
       "id": 4,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-05.png",
-      "text": "This is the Adventure screen! Here you can view your family’s physical activity. The hero on this screen needs you to be active so they can cross to the next island. The more active your family is, the more balloons the hero gets to safely cross the sea.",
+      "text": "This is the \"Adventures\" screen! Here you can view how your family is far ahead in the physical activity challenges.\n\nThe hero on this screen needs you to be active so they can cross to the next island. The more active your family is, the more balloons the hero gets to safely cross the sea.",
       "subtext": null
     },
     {
@@ -47,7 +47,7 @@
       "id": 6,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-07.png",
-      "text": "Throughout the stories, the storybooks will ask you to answer a question. The question is related to the story, which can help your child improve their reading comprehension. \n\nThe answer will be audio recorded so you can hear them later. Swipe left to try recording your answer to a sample question before you get started.",
+      "text": "Throughout the stories, the storybooks will ask you to answer a question. The question is related to the story, which can help your child improve their language skills. \n\nThe answer will be audio recorded so you can hear them later. Swipe left to try recording your answer to a sample question before you get started.",
       "subtext": null
     },
     {
@@ -73,7 +73,7 @@
       "id": 9,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-08.png",
-      "text": "Some stories also ask parents and caregivers to tell their own stories. The questions are also related to the story. Listening to how you respond to the question can help your child improve their reading comprehension as well.\n\nParents and caregivers can also share their answer with other families and inspire the community to live a healthy life. Swipe left to try recording your answer to a sample question.",
+      "text": "Some stories also ask caregivers to tell their own stories. The stories are related to the book. By listening how you tell a story based on the book, your child can improve their language skills.\n\nYour story will be shared with other families to inspire the community to live a healthy life. Swipe left to try recording your story.",
       "subtext": ""
     },
     {
@@ -81,7 +81,7 @@
       "type": "GEOSTORY_SHARING",
       "img_url": null,
       "text": "Can you share a memory about eating healthfully that you want others to know about?",
-      "subtext": "",
+      "subtext": "Don't worry if you don't get this right. This response will not be shared to other families.",
       "isDelayNext": true,
       "isShowReflectionStart": true,
       "contentGroupId": "2",
@@ -90,6 +90,13 @@
     },
     {
       "id": 11,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-09.png",
+      "text": "In the future, stories from parents and caregivers will be shared with other families. You can find the stories in the \"Our Stories\" tab.\n\nOur research staff will review the stories to make sure the stories are appropriate for families.",
+      "subtext": ""
+    },
+    {
+      "id": 12,
       "type": "STATEMENT",
       "img_url": "",
       "text": "In a few more days, you will get more stories in your library.\n\nCheck back soon!",
