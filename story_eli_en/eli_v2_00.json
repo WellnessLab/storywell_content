@@ -51,8 +51,8 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 7, 
-      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like running, playing in the park, dancing or swimming.", 
-      "text": "Eli the Elephant enjoyed running although a little hesitant at first. Can you tell me about a time when you tried a new physical activity that was hard at first?",
+      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like dancing, swimming, and running.",
+      "text": "Eli the Elephant enjoyed running although a little hesitant at first.\nCan you tell me about a time when you tried a new physical activity that was hard at first?",
       "type": "REFLECTION"
     }, 
     {
@@ -217,7 +217,7 @@
       "isShowReflectionStart": true, 
       "nextContentId": 28,
       "subtext": "Being \"active\" means doing any activity that makes you sweat or become out of breath like doing yoga, jumping rope, or skating.", 
-      "text": "The crocodile helped Eli cross the river. How did it feels when other people help you to be active?",
+      "text": "The crocodile helped Eli cross the river. How did it feel when other people help you to be active?",
       "type": "REFLECTION"
     },
     {
@@ -227,7 +227,7 @@
       "isDelayNext": true,
       "nextContentId": 29,
       "subtext": "",
-      "text": "How can other people help you achieve your physical activity goals?",
+      "text": "How can other people help you to be physically active?",
       "type": "REFLECTION"
     },
     {
@@ -317,7 +317,7 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 39, 
-      "subtext": "Being \"active\" means doing any activity that makes you sweat or become out of breath like speed walking, riding a bike, or hiking.", 
+      "subtext": "Being \"active\" means doing any activity that makes you sweat or become out of breath like speed walking indoor, riding a bike, or hiking.",
       "text": "The elephants found a beautiful place after they exercised together. Tell a story about a place where your family had fun being active together.",
       "type": "GEOSTORY_SHARING"
     }, 
@@ -326,7 +326,7 @@
       "img_url": "", 
       "isInviteMoodLog": true, 
       "subtext": "", 
-      "text": "Finding places where your family can be active can make it easier to be active in the future.", 
+      "text": "Finding places where your family can be active can make physical activity easier.",
       "type": "STATEMENT"
     }, 
     {

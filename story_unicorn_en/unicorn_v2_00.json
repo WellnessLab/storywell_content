@@ -56,7 +56,7 @@
       "type": "REFLECTION",
       "img_url": "",
       "text": "Edith is tired but also excited about the thing that she will discover. Can you tell a time when being active with your family makes you excited?",
-      "subtext": "Being 'active' means doing any activity that makes you sweat or become out of breath like running, playing in the park, dancing or swimming.",
+      "subtext": "Being 'active' means doing any activity that makes you sweat or become out of breath like dancing at home, swimming, or jumping jacks.",
       "isDelayNext": true,
       "isShowReflectionStart": true,
       "contentGroupId": "1",
@@ -89,12 +89,12 @@
       "isLocked": false
     },
 	{
-    	"id": 11,
-      	"type": "CHALLENGE",
-      	"img_url": "",
-      	"text": "Do you want to know what's going to happen with the Edith?",
-      	"subtext": "To read the rest of the story, complete a one-day challenge with your family.",
-      	"isLocked": true
+      "id": 11,
+      "type": "CHALLENGE",
+      "img_url": "",
+      "text": "Do you want to know what's going to happen with the Edith?",
+      "subtext": "To read the rest of the story, complete a one-day challenge with your family.",
+      "isLocked": true
     },
     {
       "id": 12,
@@ -147,7 +147,7 @@
       "id": 18,
       "type": "STATEMENT",
       "img_url": "",
-      "text": "You should congratulate yourself when you’re taking steps to be active! It is a big deal!",
+      "text": "You should congratulate yourself when you’re taking the steps to be active! It is a big deal!",
       "subtext": "",
       "isInviteMoodLog": true
     },
@@ -355,7 +355,7 @@
       "img_url": "",
       "isInviteMoodLog": true,
       "subtext": "",
-      "text": "Being active with you friends can help you stay motivated.",
+      "text": "Being active with your friends can help you stay motivated.",
       "type": "STATEMENT"
     },
     {
