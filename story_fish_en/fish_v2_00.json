@@ -1,0 +1,518 @@
+{
+  "contents": [
+    {
+      "id": 0, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/cover.jpg", 
+      "isLocked": true, 
+      "subtext": "Chapter 1", 
+      "text": "Frank the Fish is Learning to Swim", 
+      "type": "COVER"
+    }, 
+    {
+      "id": 1, 
+      "img_url": "", 
+      "isLocked": true, 
+      "subtext": "To read the rest of the story, complete a one-day challenge with your family.", 
+      "text": "Do you want to continue reading Frank's story?", 
+      "type": "CHALLENGE"
+    }, 
+    {
+      "id": 2, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c1_01.jpg", 
+      "subtext": null, 
+      "text": "Frank is little fish who is not yet good at swimming. He lives with his family in a coral reef in the Caribbean. Although he loves water very much, he can't swim as fast as the other fish in the neighborhood.\n\n\"Come on swim faster or you will be late for the school trip!\" says Frank's mom.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 3, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c1_02.jpg", 
+      "subtext": null, 
+      "text": "\"I'm trying to Mom, but I can't swim as fast as you!\" says Frank.\n\n\"You can't swim as fast as me, but at least try to swim a little faster than yesterday,\" Mom says. \n\n\"I don't want you to miss the school trip. The Blue Hill Reef is amazing this time of year.\"", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 4, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c1_03.jpg", 
+      "subtext": null, 
+      "text": "Thirty minutes later they arrive at the school. Frank was almost late.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 5, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c1_04.jpg", 
+      "subtext": null, 
+      "text": "\"Okay kids, we're going to swim over there,\" said Ms. Carina the fourth-grade teacher.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 6, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c1_05.jpg", 
+      "subtext": null, 
+      "text": "First, Ms. Carina took the fish to the Brookwood Algae Farm. Then they swim along the Wolcott Coral Trail and rest at the Refreshment Ground in Milton.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 7, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c1_06.jpg", 
+      "subtext": null, 
+      "text": "Frank is exhausted because they have been swimming for hours.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 8, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c1_07.jpg", 
+      "subtext": null, 
+      "text": "Frank decides to take a quick nap. But unfortunately, he doesn't hear Ms. Carina calling everyone to continue the trip. When he wakes up 5 minutes later, Frank's group is already ahead.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 9, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c1_08.jpg", 
+      "subtext": null, 
+      "text": "Frank panickes. He swims and cries, \"Ms. Carina! Ms. Carina!\" He swims faster and feels a little out of breath. ", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 10, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c1_09.jpg", 
+      "subtext": null, 
+      "text": "However, soon Frank realizes that he has never been to this part of the reef before. And this part of the reef is very beautiful.\n\nThere are yellow fish, pink starfish, and purple octopods. Sea creatures that he has never seen before.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 11, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c1_10.jpg", 
+      "subtext": null, 
+      "text": "\"Frank! I didn't know that you were behind!\" says Ms. Carina, looking very concerned.\n\n\"I was just a little behind, Ma'am,\" says Frank. \"Miss Carina, where are we right now,\" asks Frank. He is pointing his little fin to the green pasture with many colorful sea creatures.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 12, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c1_11.jpg", 
+      "subtext": null, 
+      "text": "\"Oh, this is the Grazing Meadow. This is where the cowfishes get their lunch! Isn't it beautiful?\" say Ms. Carina while admiring the beautiful corals, algae, and sea creatures in front of the backdrop of the deep blue sea.\n\nBut Frank is very impressed by what he sees. \"We should go to places like this more often. I will practice swimming tomorrow so I can become a stronger swimmer and see beautiful places like this!\" says Frank.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 13, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c1_12.jpg", 
+      "subtext": null, 
+      "text": "\"That sounds like a fun idea. Now, come on, let's join your friends again and continue our trip,\" says Ms. Carina.\n\nFrank takes a quick look at the Grazing Meadow and thinks about the fun and amazing places he can go to if he can learn to swim better.", 
+      "type": "PAGE"
+    }, 
+    {
+      "contentGroupId": "1", 
+      "contentGroupName": "Places you like", 
+      "id": 14, 
+      "img_url": "", 
+      "isDelayNext": true, 
+      "isShowReflectionStart": true, 
+      "nextContentId": 14, 
+      "text": "Why was Frank impressed by the Grazing Meadow?", 
+      "type": "REFLECTION"
+    }, 
+    {
+      "contentGroupId": "1", 
+      "id": 15, 
+      "img_url": "", 
+      "isDelayNext": true, 
+      "nextContentId": 15, 
+      "subtext": "", 
+      "text": "Can you describe a place outdoors that has impressed you?", 
+      "type": "REFLECTION"
+    }, 
+    {
+      "id": 16, 
+      "img_url": "", 
+      "subtext": "", 
+      "text": "Finding a nice and safe place to be active is a good step towards being healthy.", 
+      "type": "STATEMENT",
+      "isInviteMoodLog": false
+    }, 
+    {
+      "id": 17, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/cover.jpg", 
+      "isLocked": false, 
+      "subtext": null, 
+      "text": "Chapter 2: Water Tennis at the Grazing Meadow", 
+      "type": "COVER"
+    }, 
+    {
+      "id": 18, 
+      "img_url": "", 
+      "isLocked": true, 
+      "subtext": "To read the rest of the story, complete a one-day challenge with your family.", 
+      "text": "Do you want to know whether Frank is going back to the Grazing Meadow?", 
+      "type": "CHALLENGE"
+    }, 
+    {
+      "id": 19, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c2_01.jpg", 
+      "subtext": null, 
+      "text": "The next day is Saturday. Frank wakes up as early as possible. As he finishes his breakfast, he asks his Mom to take him to the Grazing Meadow.\n\n\"Ah the Grazing Meadow. It is a lovely place to go isn't it?\" says Mom. \"Let's go there before noon. Get ready, it will be a long swim\".", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 20, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c2_02.jpg", 
+      "subtext": null, 
+      "text": "In an hour or so, Frank and his Mom arrive at the Grazing Meadow. Frank is sweating and slightly out of breath, but he is excited to go there. The Grazing Meadow is just as green as it was yesterday.\n\n\"I'm going to practice swimming here,\" says Mom. \"Do you want to join me?\"", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 21, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c2_04.jpg", 
+      "subtext": "", 
+      "text": "Frank keeps swimming and swimming through the tall and thick seaweed. At the other end of the thick cluster of seaweed, he sees something he has never seen before.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 22, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c2_05.jpg", 
+      "subtext": null, 
+      "text": "It is two octopods playing with a small green ball. They are using circular bats to hit the balls over the net.\n\n\"What are you guys playing?\" asks Frank to the octopod.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 23, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c2_06.jpg", 
+      "subtext": null, 
+      "text": "\"Oh, hi!\" says the pink octopus. \"My name is Octavia. We're playing water tennis!\" says Octavia, the pink octopus.\n\n\"And my name is Squigley. We love playing water tennis!\" says Squigley, the blue octopus.\n\n\"This is a very interesting game. Oh, my name is Frank!\" says Frank.\n\n\"Do you want to play water tennis with us?\" asks Octavia.\n\n\"It's very easy. And I can teach you how,\" says Squigley.\n\n\"Sure!\" says Frank. He ignores how tired he is.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 24, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c2_07.jpg", 
+      "subtext": null, 
+      "text": "\"Hold this racket,\" says Squigley while he passes the tennis racket to Frank.\n\nBut Frank is a little fish with small fins. He immediately falls to the ground as he holds the racket. Frank did not expect the racket to be that heavy.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 25, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c2_08.jpg", 
+      "subtext": null, 
+      "text": "\"That's okay. You're still learning!\" says Squigley, a little panicked.\n\n\"Let me try to hold this racket once more,\" says Frank.\n\nAs he is ready to hit the water tennis ball, Squigley throws the ball towards Frank.\n\nBut instead of hitting the ball, the ball pushes Frank's racket to the ground.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 26, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c2_09.jpg", 
+      "subtext": null, 
+      "text": "Frank immediately swims upwards and quickly catches the water tennis ball with his mouth.\n\nOctavia and Squigley's jaws dropped.\n\n\"Octavia, he's really good at catching water tennis ball,' says Squigley.\n\nThen, they heard something behind their backs.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 27, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c2_10.jpg", 
+      "subtext": null, 
+      "text": "\"What did I just see?\" says Momon the Mantaray. \"That was amazing.\"\n\n\"Yeah, that's Frank. Our new friend.\" says Octavia while pointing her tentacle at Frank.\n\n\"You should play sea baseball!\" says Momon.\n\n\"Me, playing sea baseball?\" asks Frank because he is unsure.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 28, 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c2_11.jpg", 
+      "subtext": null, 
+      "text": "\"We'll play with you!\" Octavia and Squigley the octopods say in unison.", 
+      "type": "PAGE"
+    }, 
+    {
+      "contentGroupId": "2", 
+      "contentGroupName": "Many Ways to Be Active", 
+      "id": 29, 
+      "img_url": null, 
+      "isDelayNext": true, 
+      "isShowReflectionStart": true, 
+      "nextContentId": 30,
+      "subtext": "", 
+      "text": "Frank learned that there are many ways to be active. Can you share ways to be active to inspire other families?",
+      "type": "GEOSTORY_SHARING"
+    },
+    {
+      "id": 30,
+      "img_url": "", 
+      "subtext": "", 
+      "text": "If you don't enjoy one activity, you can try another one.",
+      "type": "STATEMENT",
+      "isInviteMoodLog": true
+    }, 
+    {
+      "id": 31,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/cover.jpg", 
+      "isLocked": false, 
+      "subtext": null, 
+      "text": "Chapter 3: Sea Baseball at the Triangle", 
+      "type": "COVER"
+    }, 
+    {
+      "id": 32,
+      "img_url": "", 
+      "isLocked": true, 
+      "subtext": "To read the rest of the story, complete a one-day challenge with your family.", 
+      "text": "Do you want to know how Frank plays sea baseball with his new friends?", 
+      "type": "CHALLENGE"
+    }, 
+    {
+      "id": 33,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c3_01.jpg", 
+      "subtext": null, 
+      "text": "What an exciting day, thought Frank. He is very excited to play sea baseball with Octavia and Squigley the octopods and Momon the Mantaray.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 34,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c3_02.jpg", 
+      "subtext": null, 
+      "text": "\"Frank, we've been looking for a fielder for a very long time,\" says Momon.\n\n\"See, I'm good at catching the ball because I have wide arms. But, we can't find anyone who can be the fielder.\"", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 35,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c3_03.jpg", 
+      "subtext": null, 
+      "text": "\"We're good as batters because our tentacles are strong,\" says Octavia.\n\n\"But we're not the best fielders,\" says Squigley.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 36,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c3_04.jpg", 
+      "subtext": null, 
+      "text": "Then, the three of them say, \"Frank, do you want to be a fielder?\"\n\nFrank nods. He is unsure if he will be a good fielder. But this is exciting nonetheless.\n\n\"Great! I'm excited,\" says Momon the Mantaray.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 37,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c3_06.jpg", 
+      "subtext": null, 
+      "text": "Frank swims away from Momon, positioning himself as the fielder.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 38,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c3_07.jpg", 
+      "subtext": null, 
+      "text": "Octavia is going to be the batter. She holds the sea baseball bat firmly.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 39,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c3_08.jpg", 
+      "subtext": null, 
+      "text": "\"Octavia, I'm going to throw the ball,\" says Momon.\n\nMomon throws the ball.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 40,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c3_09.jpg", 
+      "subtext": null, 
+      "text": "Octavia hits the ball with her bat.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 41,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c3_10.jpg", 
+      "subtext": null, 
+      "text": "Frank tries to catch the ball. But the ball flies further and further away.\n\nAnd then something unexpected happens.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 42,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c3_11.jpg", 
+      "subtext": null, 
+      "text": "The ball flies too far and gets caught in the circular current.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 43,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c3_12.jpg", 
+      "subtext": null, 
+      "text": "Frank swims as fast as he can. He then jumps and grabs the sea baseball.\n\nEveryone's jaws drop for the second time. They are speechless for a second because they are very impressed. But after a moment, they immediately cheer!", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 44,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c3_13.jpg", 
+      "subtext": null, 
+      "text": "\"Frank, that was amazing!\" says Octavia.\n\n\"That was beyond amazing!\" says Momon, correcting Octavia.\n\nThen, they are startled by a voice behind them.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 45,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c3_14.jpg", 
+      "subtext": null, 
+      "text": "\"Frank, it looks like you are having a good time with your friends here!\" It is Frank's Mom.\n\n\"Frank caught the ball that was pulled in the circular current!\" says Squigley.\n\n\"Yes! I saw that! I'm very proud of him. I think Frank plays sports better when he is with his friends,\" says Mom.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 46,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c3_15.jpg", 
+      "subtext": null, 
+      "text": "Frank is happy knowing that his Mom is very proud of him. He is also happy that he found a sport that he likes, but most importantly he found friends that he can be active with.", 
+      "type": "PAGE"
+    }, 
+    {
+      "contentGroupId": "3", 
+      "contentGroupName": "Easier to be Active", 
+      "id": 47,
+      "img_url": null, 
+      "isDelayNext": true, 
+      "isShowReflectionStart": true, 
+      "nextContentId": 48,
+      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like doing baseball, jumping rope, or skating.", 
+      "text": "Frank noticed that playing baseball is much easier that he thought. Can you tell a story about a time when it was easier to do a physical activity.",
+      "type": "REFLECTION"
+    }, 
+    {
+      "contentGroupId": "3", 
+      "id": 48,
+      "img_url": "", 
+      "isDelayNext": true, 
+      "nextContentId": 49,
+      "subtext": "", 
+      "text": "How did it feel when you started getting better at an activity?", 
+      "type": "REFLECTION"
+    }, 
+    {
+      "id": 49,
+      "img_url": "", 
+      "subtext": "", 
+      "text": "Great job at improving with your healthy activities!", 
+      "type": "STATEMENT",
+      "isInviteMoodLog": false
+    }, 
+    {
+      "id": 50,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/cover.jpg", 
+      "isLocked": false, 
+      "subtext": null, 
+      "text": "Chapter 4: Swimming Race at School", 
+      "type": "COVER"
+    }, 
+    {
+      "id": 51,
+      "img_url": "", 
+      "isLocked": true, 
+      "subtext": "To read the rest of the story, complete a one-day challenge with your family.", 
+      "text": "Do you want to know what happens next?", 
+      "type": "CHALLENGE"
+    }, 
+    {
+      "id": 52,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c4_01.jpg", 
+      "subtext": null, 
+      "text": "It is a regular morning. But Frank the fish is feeling a little nervous.\n\nToday is the school's swimming day, and Frank is not sure that he can swim fast enough.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 53,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c4_02.jpg", 
+      "subtext": null, 
+      "text": "\"Frank, you look nervous. What's wrong?\" asked Frank's Mom.\n\n\"Today is the swimming day at school. But I'm not good at swimming,\" says Frank.\n\n\"That's okay Frank. You don't have to be good at swimming to enjoy it,\" says Mom.\n\n\"But, I'm feeling a little nervous right now. I'm nervous about how I might swim today,\" says Frank.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 54,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c4_03.jpg", 
+      "subtext": null, 
+      "text": "\"When you are feeling nervous before swimming, it means you want to do your best. It doesn't mean you will not swim well.\"\n\n\"It's more important that you enjoy swimming than being the best at swimming,\" says Mom while she walks with Frank to the bus.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 55,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c4_04.jpg", 
+      "subtext": null, 
+      "text": "When Frank arrives at the school, the many other fish, octopods, and other sea creatures are ready for the swimming match.\n\nFrank is feeling nervous.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 56,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c4_05b.jpg", 
+      "subtext": null, 
+      "text": "But Frank is also feeling that he really wants to do his best and enjoy the day.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 57,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c4_05.jpg", 
+      "subtext": null, 
+      "text": "When it is his turn to swim, Frank thinks about the fun things he did with Octavia, Squigley, and Momon.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 58,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c4_06.jpg", 
+      "subtext": null, 
+      "text": "Then he heard something he did not expect at all.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 59,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c4_07.jpg", 
+      "subtext": null, 
+      "text": "It was Octavia, Squigley, and Momon. They are there to cheer for Frank.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 60,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c4_08.jpg", 
+      "subtext": null, 
+      "text": "\"Frank it's your turn to swim,\" says Ms. Carina.\n\nFrank still feel a little nervous but he thinks he can do it.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 61,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c4_09.jpg", 
+      "subtext": null, 
+      "text": "Frank will swims as fast as he can. Even if he does not swim as fast as the other fish, he will enjoy it no matter what.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 62,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c4_10.jpg", 
+      "subtext": null, 
+      "text": "At the finish line, Ms. Carina cheered for Frank.\n\n\"Frank, you swam much faster than you did the last time!\" says Ms. Carina.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 63,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c4_11.jpg", 
+      "subtext": null, 
+      "text": "\"Wooo hoo!\" says Octavia.\n\n\"Frank, that's awesome!\" says Squigley.\n\n\"Frank, don't forget we're going to play seabaseball after school!\" says Momon.", 
+      "type": "PAGE"
+    }, 
+    {
+      "id": 64,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/c4_12.jpg", 
+      "subtext": null, 
+      "text": "Frank couldn't be happier that he now has friends he can play and be active with. Although he is not the fastest swimmer in the school, Frank enjoys swimming much more than he has before.", 
+      "type": "PAGE"
+    }, 
+    {
+      "contentGroupId": "4", 
+      "contentGroupName": "Completing Your Goal", 
+      "id": 65,
+      "img_url": null, 
+      "isDelayNext": true, 
+      "isShowReflectionStart": true, 
+      "nextContentId": 66,
+      "subtext": "Being active means doing any activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, swimming.", 
+      "text": "Frank is very happy that he can swim faster than last time. Can you describe a time when you achieved your physical activity goals?",
+      "type": "GEOSTORY_SHARING"
+    },
+    {
+      "id": 66,
+      "img_url": "", 
+      "subtext": "", 
+      "text": "Great job! Setting and reaching small goals is a great way to start being healthy and active.", 
+      "type": "STATEMENT",
+      "isInviteMoodLog": true
+    }, 
+    {
+      "id": 67,
+      "img_url": "", 
+      "subtext": "", 
+      "text": "", 
+      "type": "ACTION_INCREMENT",
+      "itemIdToUnlock": "10"
+    }
+  ]
+}
