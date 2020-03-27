@@ -71,6 +71,25 @@
     },
     {
       "id": 9,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-08.png",
+      "text": "Some stories also ask parents and caregivers to tell their own stories. The questions are also related to the story. Listening to how you respond to the question can help your child improve their reading comprehension as well.\n\nParents and caregivers can also share their answer with other families and inspire the community to live a healthy life. Swipe left to try recording your answer to a sample question.",
+      "subtext": ""
+    },
+    {
+      "id": 10,
+      "type": "GEOSTORY_SHARING",
+      "img_url": null,
+      "text": "Can you share a memory about eating healthfully that you want others to know about?",
+      "subtext": "",
+      "isDelayNext": true,
+      "isShowReflectionStart": true,
+      "contentGroupId": "2",
+      "contentGroupName": "Eating healthfully",
+      "nextContentId": 11
+    },
+    {
+      "id": 11,
       "type": "STATEMENT",
       "img_url": "",
       "text": "In a few more days, you will get more stories in your library.\n\nCheck back soon!",
