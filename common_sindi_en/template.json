@@ -1,0 +1,117 @@
+{
+  "contents": [
+    {
+      "id": 0,
+      "type": "COVER",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-01.png",
+      "text": "Sindi and the Moon",
+      "subtext": "By Zanele Dlamini, Thokozani Mkhize, and Wesley van Eeden",
+      "isLocked": false
+    },
+    {
+      "id": 1,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-02.png",
+      "text": "Sindi is a very lively little girl who love to sing and dance. She live on a farm with her parents and her Gogo.\nSindi enjoys following Gogo around and feeding the animals.",
+      "subtext": null
+    },
+    {
+      "id": 2,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-03.png",
+      "text": "",
+      "subtext": null
+    },
+    {
+      "id": 3,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-04.png",
+      "text": "",
+      "subtext": null
+    },
+    {
+      "id": 4,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-05.png",
+      "text": "",
+      "subtext": null
+    },
+    {
+      "id": 5,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-06.png",
+      "text": "",
+      "subtext": null
+    },
+    {
+      "id": 6,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-07.png",
+      "text": "",
+      "subtext": null
+    },
+    {
+      "id": 7,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-07.png",
+      "text": "",
+      "subtext": null
+    },
+    {
+      "id": 8,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-07.png",
+      "text": "",
+      "subtext": null
+    },
+    {
+      "id": 9,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-07.png",
+      "text": "",
+      "subtext": null
+    },
+    {
+      "id": 10,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-07.png",
+      "text": "",
+      "subtext": null
+    },
+    {
+      "id": 11,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-07.png",
+      "text": "",
+      "subtext": null
+    },
+    {
+      "id": 12,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-07.png",
+      "text": "",
+      "subtext": null
+    },
+    {
+      "id": 13,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-07.png",
+      "text": "",
+      "subtext": null
+    },
+    {
+      "id": 14,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-07.png",
+      "text": "",
+      "subtext": null
+    },
+    {
+      "id": 15,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-07.png",
+      "text": "",
+      "subtext": null
+    }
+  ]
+}
