@@ -33,7 +33,7 @@
       "id": 4,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_dragon_en/dragon_05.png",
-      "text": "A meal of mangoes, a most delicious fruit\n\nTasty to humans, but to dragons – a brute!\n\nAll of it gone, not a single bit left,\n\nThe mango juice had done what it did best.",
+      "text": "A meal of mangoes, a most delicious fruit.\n\nTasty to humans, but to dragons – a brute!\n\nAll of it gone, not a single bit left,\n\nThe mango juice had done what it did best.",
       "subtext": null
     },
     {
@@ -81,14 +81,14 @@
     {
       "id": 11,
       "type": "PAGE",
-      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_dragon_en/dragon_12.png",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_dragon_en/dragon_13.png",
       "text": "So the other dragons couldn’t tease him. He had the fire.\n\nOnce again, he was King!",
       "subtext": null
     },
     {
       "id": 12,
       "type": "STATEMENT",
-      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_dragon_en/dragon_07.png",
+      "img_url": "",
       "text": "Danny the Dragon",
       "subtext": null
     }
