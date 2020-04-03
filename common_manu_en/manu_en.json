@@ -1,0 +1,82 @@
+{
+  "contents": [
+    {
+      "id": 0,
+      "type": "COVER",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_manu_en/manu_cover.png",
+      "text": "The Red Raincoat",
+      "subtext": "By Kiran Kasturia and Zainab Tambawalla",
+      "isLocked": false
+    },
+    {
+      "id": 1,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_manu_en/manu_01.png",
+      "text": "On Sunday, Manu’s parents got him a red raincoat.\n\n“Ma, may I wear it now?” asked Manu.\n\n“No, my dear, the rains are near, but just now the sky is clear,” said Ma.",
+      "subtext": null
+    },
+    {
+      "id": 2,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_manu_en/manu_02.png",
+      "text": "Monday was bright and sunny.\n\n“WILL it rain today, Mummy?” asked Manu.\n\n“No Manu, not today. If you wear your raincoat, you will look quite funny!” said Ma.",
+      "subtext": null
+    },
+    {
+      "id": 3,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_manu_en/manu_03.png",
+      "text": "On Tuesday, the sky was blue.\n\n“Ma, WHEN will my wish come true?” asked Manu.\n\n“Not today, my dear, there is just one white cloud in the sky!” said Ma.",
+      "subtext": null
+    },
+    {
+      "id": 4,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_manu_en/manu_04.png",
+      "text": "Wednesday was hot.\n\n“Ma, WHY doesn’t it rain?” asked Manu.\n\n“Son, I think it will rain very soon. Maybe even before it is noon,” said Ma.",
+      "subtext": null
+    },
+    {
+      "id": 5,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_manu_en/manu_05.png",
+      "text": "On Thursday Manu went on a picnic. “Ma, WHAT if it rains? Shall I take the raincoat with me?” asked Manu.\n\n“No my dear, it will not rain today. The little white clouds are too high in the sky,” said Ma.",
+      "subtext": null
+    },
+    {
+      "id": 6,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_manu_en/manu_06.png",
+      "text": "Friday was cloudy.\n\n“Ma, will it rain today?” asked Manu loudly.\n\n“It might, my dear. There are some dark clouds low down in the sky,” said Ma.",
+      "subtext": null
+    },
+    {
+      "id": 7,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_manu_en/manu_07.png",
+      "text": "Saturday began with a bang!\n\nBadaboom!\n\n\",Ma, is that thunder I hear? Will it rain very soon?\" asked Manu.",
+      "subtext": null
+    },
+    {
+      "id": 8,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_manu_en/manu_08.png",
+      "text": " And then at last, it started raining!\n\n“Oh, it’s raining, it’s raining,” sang Manu, running out.",
+      "subtext": null
+    },
+    {
+      "id": 9,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_manu_en/manu_11.png",
+      "text": "“But Manu,” called Ma, running after him, “you forgot your raincoat!”",
+      "subtext": null
+    },
+    {
+      "id": 10,
+      "type": "STATEMENT",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/common_manu_en/manu_13.png",
+      "text": "The Red Raincoat",
+      "subtext": null
+    }
+  ]
+}
