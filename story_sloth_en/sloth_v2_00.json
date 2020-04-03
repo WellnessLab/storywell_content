@@ -3,8 +3,9 @@
     {
       "id": 0, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/cover.png", 
-      "isLocked": true, 
-      "subtext": "Chapter 1: Good Bike Ride", 
+      "isLocked": true,
+      "subtext": "",
+      "subtext2": "Chapter 1: Good Bike Ride",
       "text": "Sydney the Sloth and the Uphill Ride", 
       "type": "COVER"
     }, 

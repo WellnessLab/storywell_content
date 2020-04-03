@@ -5,7 +5,8 @@
       "type": "COVER",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/cover.png",
       "text": "Have you ever seen a unicorn?",
-      "subtext": "Chapter 1: That magical thing behind the forest",
+      "subtext": "",
+      "subtext2": "Chapter 1: That magical thing behind the forest",
       "isLocked": true
     },
 	{

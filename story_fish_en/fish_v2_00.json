@@ -3,8 +3,8 @@
     {
       "id": 0, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/cover.jpg", 
-      "isLocked": true, 
-      "subtext": "Chapter 1", 
+      "isLocked": true,
+      "subtext": "",
       "text": "Frank the Fish is Learning to Swim", 
       "type": "COVER"
     }, 
