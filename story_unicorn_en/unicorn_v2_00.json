@@ -42,7 +42,7 @@
       "id": 5,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c1_04.jpg",
-      "text": "Almost like a horse, but shimmering white. The unicorn walks gracefully, unaware that he has been spotted.\n\nEdith who stands nearby, is frozen with excitement and in awe of her discovery.",
+      "text": "The creature is almost like a horse, but shimmering white. The unicorn walks gracefully, unaware that he has been spotted.\n\nEdith, who stands nearby, is frozen and in awe of her discovery.",
       "subtext": null
     },
     {
@@ -56,7 +56,7 @@
       "id": 7,
       "type": "REFLECTION",
       "img_url": "",
-      "text": "Edith is tired but also excited about the thing that she will discover. Can you tell a time when being active with your family makes you excited?",
+      "text": "Edith is tired but still excited about the thing that she will discover. Can you talk about a time when being active with your family made you excited?",
       "subtext": "Being 'active' means doing any activity that makes you sweat or become out of breath like dancing at home, swimming, or jumping jacks.",
       "isDelayNext": true,
       "isShowReflectionStart": true,
@@ -68,7 +68,7 @@
       "id": 8,
       "type": "REFLECTION",
       "img_url": "",
-      "text": "What makes being active together with your family exciting?",
+      "text": "What makes being active with your family exciting?",
       "subtext": "",
       "contentGroupId": "1",
       "nextContentId": 9,
@@ -78,8 +78,9 @@
       "id": 9,
       "type": "STATEMENT",
       "img_url": "",
-      "text": "Family physical activity can be an exciting way to bond as a family.",
-      "subtext": ""
+      "text": "Physical activity can be an exciting way to bond as a family.",
+      "subtext": "",
+      "isInviteMoodLog": true
     },
     {
       "id": 10,
@@ -129,7 +130,7 @@
       "id": 16,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c2_05.jpg",
-      "text": "This is the first time she had seen a unicorn so magnificent.",
+      "text": "This is the first time she has seen a unicorn so magnificent.",
       "subtext": null
     },
     {
@@ -137,7 +138,7 @@
       "type": "GEOSTORY_SHARING",
       "img_url": null,
       "text": "Discovering a unicorn is new for Edith. Tell a story when you tried a new physical activity. Did you face any challenges? How did you deal with those challenges?",
-      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like running, playing on the playground, or playing sports like baseball or soccer.",
+      "subtext": "Physical activity is any activity that makes you sweat or become out of breath like dancing, playing on the playground, or playing sports such as baseball or soccer.",
       "isDelayNext": true,
       "isShowReflectionStart": true,
       "contentGroupId": "2",
@@ -193,7 +194,7 @@
       "id": 24,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_03.jpg",
-      "text": "Edith quickly hugs the unicorn and says: \"No no don't cry Uni, I am not going to hurt you, I just want to take a photo of you!\"",
+      "text": "Edith quickly hugs the unicorn and says: “No no don’t cry Uni, I am not going to hurt you. I just want to take a photo of you!”",
       "subtext": null
     },
     {
@@ -207,28 +208,28 @@
       "id": 26,
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_05.jpg",
       "subtext": null,
-      "text": "\"If I can't hover, fly, or glide; I will be late for my best friend's birthday party,\" says the Uni.",
+      "text": "“If I can’t hover, fly or glide, I will be late for my best friend’s birthday party,” says Uni.",
       "type": "PAGE"
     },
     {
       "id": 27,
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_06.jpg",
       "subtext": null,
-      "text": "\"Oh I can help you with that!\" says Edith.\n\n\"I'm good at finding lost things!\"\n\n\"Let's retrace our steps to find your shoe so you can hover, fly, and glide. And you won't be late for your birthday party,\" says Edith.\n",
+      "text": "\"Oh I can help you with that!\" says Edith.\n\n\"I'm good at finding lost things!\"\n\n\"Let's retrace our steps to find your shoe so you can hover, fly, and glide. Then, you won't be late for your birthday party,\" says Edith",
       "type": "PAGE"
     },
     {
       "id": 28,
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_07.jpg",
       "subtext": null,
-      "text": "As they walk back retracing their steps, they see a glimmering thing floating above a lake.\n\n\"That's my shoe,\" says Uni.\n",
+      "text": "As they walk back retracing their steps, they see a glimmering object floating above a lake.\n\n\"That's my shoe,\" says Uni.\n",
       "type": "PAGE"
     },
     {
       "id": 29,
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c3_08.jpg",
       "subtext": null,
-      "text": "\"Your shoe surely is shimmering,\" says Edith.\n\n\"But it's flying above the lake, how do I get it?\" asks Uni.\n\n\"I can jump to those small rocks in the lake and grab your shoe,\" says Edith.",
+      "text": "\"Your shoe sure is shimmering,\" says Edith.\n\n\"But it's flying above the lake, how do I get it?\" asks Uni.\n\n\"I can jump to those small rocks in the lake and grab your shoe,\" says Edith.",
       "type": "PAGE"
     },
     {
@@ -254,7 +255,7 @@
       "isShowReflectionStart": true,
       "nextContentId": 33,
       "subtext": "Being 'active' means doing any activity that makes you sweat or become out of breath like doing yoga, jumping rope, or skating.",
-      "text": "Edith helped the Unicorn to find the shoes. Can you tell a story about a time when someone helped you be more active?",
+      "text": "Edith helped the unicorn find his shoes. Can you tell a story about a time when someone helped you be more active?",
       "type": "REFLECTION"
     },
     {
@@ -271,6 +272,7 @@
       "id": 34,
       "img_url": "",
       "subtext": "",
+      "isInviteMoodLog": true,
       "text": "Having support can make a big difference when trying to be healthy! Find someone who can support you in your health goals!",
       "type": "STATEMENT"
     },
@@ -315,7 +317,7 @@
       "id": 40,
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/c4_04.jpg",
       "subtext": null,
-      "text": "The next day, Edith waits in the forest where she met the unicorn the day before. At exactly 12 o'clock, something appears upon the sky.",
+      "text": "The next day, Edith waits in the forest where she met the unicorn the day before. At exactly 12 o'clock, someone appears in the sky.",
       "type": "PAGE"
     },
     {

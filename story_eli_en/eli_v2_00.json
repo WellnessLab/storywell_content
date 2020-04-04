@@ -52,7 +52,7 @@
       "isShowReflectionStart": true, 
       "nextContentId": 7, 
       "subtext": "Physical activity is any activity that makes you sweat or become out of breath like dancing, swimming, and running.",
-      "text": "Eli the Elephant enjoyed running although a little hesitant at first.\nCan you tell me about a time when you tried a new physical activity that was hard at first?",
+      "text": "Although a little hesitant at first, Eli the Elephant enjoyed running.\nCan you tell me about a time when you tried a new physical activity that was hard at first?",
       "type": "REFLECTION"
     }, 
     {
@@ -62,14 +62,15 @@
       "isDelayNext": true, 
       "nextContentId": 8, 
       "subtext": "", 
-      "text": "How did that activity become less hard when you tried it again?", 
+      "text": "How did that activity become easier when you tried it again?",
       "type": "REFLECTION"
     }, 
     {
       "id": 8, 
       "img_url": "", 
-      "subtext": "", 
-      "text": "Being active does not happen overnight. Starting with small activities, and then doing them often can make physical activity feel easier to do.", 
+      "subtext": "",
+      "isInviteMoodLog": true,
+      "text": "Being active does not happen overnight. Starting with small activities and repeating them often can make physical activity easier to do",
       "type": "STATEMENT"
     }, 
     {
@@ -106,7 +107,7 @@
       "id": 13, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_01.jpg", 
       "subtext": null, 
-      "text": "\"Point your trunk towards the hat,\" says Mama.\n\nEli and Mama point their big trunks at the red hat on the big tall tree.\n\n\"Now one, two, three, blow that hat,\" yells Mom.\n\nThey blow the hat at the same time.", 
+      "text": "\"Point your trunk towards the hat,\" says Mama.\n\nEli and Mama point their big trunks at the red hat on the big tall tree.\n\n“Now one, two, three, blow that hat!” Mama yells.\n\nThey blow the hat at the same time.",
       "type": "PAGE"
     }, 
     {
@@ -115,21 +116,9 @@
       "subtext": null, 
       "text": "\"Hey Mom, this is fun! I can blow the red hat on the big tall tree!\" says Eli.\n\n\"That\u2019s because you exercise often. It makes you strong and healthy.\u201d says Mama.\n\n\"Come on, let\u2019s blow that red hat one more time.\"", 
       "type": "PAGE"
-    }, 
+    },
     {
-      "contentGroupId": "2", 
-      "contentGroupName": "Supportive People Around You", 
-      "id": 15, 
-      "img_url": null, 
-      "isDelayNext": false, 
-      "isShowReflectionStart": true, 
-      "nextContentId": 16, 
-      "subtext": "Being active means doing any activity that makes you sweat or become out of breath like running, playing on the playground, or playing sports like baseball or soccer.",
-      "text": "The elephants enjoy exercising together. What are the nice things about being active with your family that you would like others to know about?",
-      "type": "GEOSTORY_SHARING"
-    }, 
-    {
-      "id": 16, 
+      "id": 15,
       "img_url": "",
       "isInviteMoodLog": true,
       "subtext": "", 
@@ -137,19 +126,31 @@
       "type": "STATEMENT"
     }, 
     {
-      "id": 17, 
+      "id": 16,
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_03.jpg", 
       "subtext": null, 
       "text": "As the elephants blow towards the hat once again, the hat flies off the big tall tree and up into the air.", 
       "type": "PAGE"
     }, 
     {
-      "id": 18, 
+      "id": 17,
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c2_04.jpg", 
       "subtext": null, 
       "text": "The wind catches the hat again, it flies further and further away!", 
       "type": "PAGE"
-    }, 
+    },
+    {
+      "contentGroupId": "2",
+      "contentGroupName": "Supportive People Around You",
+      "id": 18,
+      "img_url": null,
+      "isDelayNext": false,
+      "isShowReflectionStart": true,
+      "nextContentId": 16,
+      "subtext": "Being active means doing any activity that makes you sweat or become out of breath like dancing, playing on the playground, or playing sports such as baseball or soccer.",
+      "text": "The elephants enjoy exercising together. What are some nice things that you enjoy about being active with your family that you would like others to know about?",
+      "type": "GEOSTORY_SHARING"
+    },
     {
       "id": 19, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/eli_cover.png", 
@@ -184,7 +185,7 @@
       "id": 23, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_01.jpg", 
       "subtext": null, 
-      "text": "\"Just then, a green scaly creature surfaces from the river.\n\n\"Look! It\u2019s my friend Croco!\u201d says Eli.", 
+      "text": "Just then, a green scaly creature surfaces from the river.\n\n\"Look! It\u2019s my friend Croco!\u201d says Eli.",
       "type": "PAGE"
     }, 
     {
@@ -205,7 +206,7 @@
       "id": 26, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c3_04.jpg", 
       "subtext": null, 
-      "text": "\"It's not difficult at all. I will show you how,\" says Croco.\n\nCroco raises his body, leaps to one big rock on the river. Then he jumps and leaps again to land on another rock. Finally, he lands on the other side of the river.", 
+      "text": "\"It's not difficult at all. I will show you how,\" says Croco.\n\nCroco raises his body and leaps to one big rock on the river Then he jumps and leaps again to land on another rock. Finally, he lands on the other side of the river.",
       "type": "PAGE"
     }, 
     {
@@ -217,7 +218,7 @@
       "isShowReflectionStart": true, 
       "nextContentId": 28,
       "subtext": "Being \"active\" means doing any activity that makes you sweat or become out of breath like doing yoga, jumping rope, or skating.", 
-      "text": "The crocodile helped Eli cross the river. How did it feel when other people help you to be active?",
+      "text": "The crocodile helped Eli cross the river. How did it feel when someone else helped you to be active?",
       "type": "REFLECTION"
     },
     {
@@ -233,7 +234,8 @@
     {
       "id": 29,
       "img_url": "", 
-      "subtext": "", 
+      "subtext": "",
+      "isInviteMoodLog": true,
       "text": "Others can help you be active and stay active too!", 
       "type": "STATEMENT"
     }, 
@@ -299,14 +301,14 @@
       "id": 38, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_04.jpg", 
       "subtext": null, 
-      "text": "Mama is sweating and out of breath. \"It feels good!\" she says.\n\n\"Look at that, Mama,\" Eli says. Eli's toes pointed to the edge of the cliff.", 
+      "text": "Mama is sweating and out of breath. \"It feels good!\" she says.\n\n\"Look at that, Mama,\" Eli says while pointing to the edge of the cliff.",
       "type": "PAGE"
     }, 
     {
       "id": 39, 
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_eli_en/c4_05.jpg", 
       "subtext": null, 
-      "text": "The sun is about to set and the valley shimmers with the rays of the setting sun.\n\nEli and Mama sit and watch the sun go down. They watch the sky change from a soft orange to brilliant gold as the sun drops below the horizon.\n\nThey sit together with the red hat that was blown by the wind.", 
+      "text": "The sun is about to set and the valley shimmers with the rays of the setting sun.\n\nEli and Mama sit and watch the sun go down. They watch the sky change from a soft orange to a brilliant gold as the sun drops below the horizon.\n\nThey sit together with the red hat that was blown by the wind.",
       "type": "PAGE"
     }, 
     {
