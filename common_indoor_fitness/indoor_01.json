@@ -3,7 +3,7 @@
     {
       "id": 0,
       "type": "COVER",
-      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/indoor_en/indoor_cover.png",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/content_indoor_fitness/indoor_cover.png",
       "text": "Ten Ways to be Active Indoors With Your Kids",
       "subtext": "By Angela Serednicki",
       "isLocked": false
@@ -11,70 +11,70 @@
     {
       "id": 1,
       "type": "PAGE",
-      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/indoor_en/indoor_01.png",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/content_indoor_fitness/indoor_01.png",
       "text": "Freeze Dance\n\nWho doesn’t like a good dance party? Shaking it off to a few favourite jams is a surefire way to get your kids off the couch. To brush up on listening skills, try freeze dance. The rules are simple: dance when the music plays and when the designated DJ stops the music, everyone freezes.",
       "subtext": null
     },
     {
       "id": 2,
       "type": "PAGE",
-      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/indoor_en/indoor_02.png",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/content_indoor_fitness/indoor_02.png",
       "text": "Learn Some Moves\n\nThanks to helpful how-tos on YouTube, it’s now easier than ever to learn how to (properly) bust a move. You can even try to teach your preschooler how to do the moon walk. The opportunities really are endless!",
       "subtext": null
     },
     {
       "id": 3,
       "type": "PAGE",
-      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/indoor_en/indoor_03.png",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/content_indoor_fitness/indoor_03.png",
       "text": "Balloon Volleyball\n\nMake a net by tying a piece of yarn from one chair to another. Then blow up a balloon and start practising those serving skills! Change things up a bit by kicking or head-bumping the balloon.",
       "subtext": null
     },
     {
       "id": 4,
       "type": "PAGE",
-      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/indoor_en/indoor_04.png",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/content_indoor_fitness/indoor_04.png",
       "text": "Hallway Soccer\n\nYou don’t need a backyard to play a game of soccer. Start by setting up a net on opposite ends of the hallway by placing some masking tape on the floor. After dividing into teams, grab a small plastic ball and let the fun begin.",
       "subtext": null
     },
     {
       "id": 5,
       "type": "PAGE",
-      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/indoor_en/indoor_05.png",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/content_indoor_fitness/indoor_05.png",
       "text": "Yoga Jenga\n\nUse a pencil to write down a yoga move on each Jenga block. Set up the tower and play the game as usual, but every time a block is pulled out, every player has to do the specific yoga move. If the tower falls, do the plank for 30 seconds.",
       "subtext": null
     },
     {
       "id": 6,
       "type": "PAGE",
-      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/indoor_en/indoor_06.png",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/content_indoor_fitness/indoor_06.png",
       "text": "Hula Hoop\n\nAs long as you make sure that you’re not too close to furniture or breakables, hula-hooping is a great indoor activity that helps strengthen your child’s core muscles. If you’re looking to switch things up a bit, try hula-hooping while walking backward, or spin the hoop around your ankle or arm.",
       "subtext": null
     },
     {
       "id": 7,
       "type": "PAGE",
-      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/indoor_en/indoor_07.png",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/content_indoor_fitness/indoor_07.png",
       "text": "Broom Hockey\n\nSimilar to hallway soccer, use masking tape to set up a net on opposite ends of the hallway. Divide into two teams, making sure every player has a small broom. Use a tennis ball as your hockey puck. The first team to get 10 points wins.",
       "subtext": null
     },
     {
       "id": 8,
       "type": "PAGE",
-      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/indoor_en/indoor_08.png",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/content_indoor_fitness/indoor_08.png",
       "text": "Make Activity Stations\n\nMake signs and each ‘area’ has an activity: jumping jacks, crawling through tape/rope, planking etc. Set a timer, then rotate through the stations.",
       "subtext": null
     },
     {
       "id": 9,
       "type": "PAGE",
-      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/indoor_en/indoor_09.png",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/content_indoor_fitness/indoor_09.png",
       "text": "Check out GoNoodle\n\nGoNoodle gives tons of physical activities ideas that you can do in a small space! Just go to YouTube and search \"GoNoodle\".",
       "subtext": null
     },
     {
       "id": 10,
       "type": "PAGE",
-      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/indoor_en/indoor_10.png",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/content_indoor_fitness/indoor_10.png",
       "text": "Try Cosmic Kids Yoga\n\nThis YouTube channels offers yoga, mindfulness and relaxation designed specially for kids aged 3+, used in schools and homes. Go to YouTube and search \"Cosmic Kids Yoga\".",
       "subtext": null
     },
