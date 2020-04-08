@@ -105,16 +105,23 @@
     },
     {
       "id": 12,
+      "type": "PAGE",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/getting_started_en/getting_started-10.png",
+      "text": "We also provide some ideas on how to be active while you are indoors. Look for a book with a cover like above.",
+      "subtext": ""
+    },
+    {
+      "id": 13,
       "type": "STATEMENT",
       "img_url": "",
       "text": "In a few more days, you will get more stories in your library.\n\nCheck back soon!",
       "subtext": ""
     },
     {
-      "id": 13,
+      "id": 14,
       "type": "MEMO",
       "img_url": "",
-      "text": "You have completed this getting started book! Your next story is:\n\n\"Eli and the Red Hat Blown by the Wind\"",
+      "text": "Your next story is:\n\"Eli and the Red Hat Blown by the Wind\"",
       "subtext": "",
       "storyPageIdToUnlock": "s19_c0"
     }
