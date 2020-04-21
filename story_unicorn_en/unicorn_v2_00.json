@@ -137,7 +137,7 @@
       "id": 17,
       "type": "GEOSTORY_SHARING",
       "img_url": null,
-      "text": "Discovering a unicorn is new for Edith. Tell a story when you tried a new physical activity. Did you face any challenges? How did you deal with those challenges?",
+      "text": "Discovering a unicorn is new for Edith. Tell a story about when you tried a new physical activity. Did you face any challenges? How did you deal with those challenges?",
       "subtext": "Physical activity is any activity that makes you sweat or become out of breath like dancing, playing on the playground, or playing sports such as baseball or soccer.",
       "isDelayNext": true,
       "isShowReflectionStart": true,
@@ -350,7 +350,7 @@
       "isShowReflectionStart": true,
       "nextContentId": 45,
       "subtext": "Physical activity is any activity that makes you sweat or become out of breath like dancing, riding a bike, or hiking.",
-      "text": "Meeting new friends makes Edith happy. Tell a story when you were physically active with your friends. What did you like about it?",
+      "text": "Meeting new friends makes Edith happy. Tell a story about when you were physically active with your friends. What did you like about it?",
       "type": "GEOSTORY_SHARING"
     },
     {

@@ -55,14 +55,14 @@
       "id": 7,
       "type": "PAGE",
       "img_url": "http://wellness.ccs.neu.edu/storytelling_static/story_sloth_en/c1_07.jpg",
-      "text": "Something magical happened. A breeze of cool air hits Sydney\'s face.  Sydney is biking on her new bike!\n\nThe kids in the forests cheer for Sydney\'s successful bike ride.",
+      "text": "Something magical happened. A breeze of cool air hits Sydney's face.  Sydney is biking on her new bike!\n\nThe kids in the forests cheer for Sydney's successful bike ride.",
       "subtext": null
     },
     {
       "id": 8,
       "type": "REFLECTION",
       "img_url": "",
-      "text": "Can you tell me a story? Tell a story when you couldn\'t play a fun phyisical activity by yourself.",
+      "text": "Can you tell me a story? Tell a story about when you couldn't play a fun physical activity by yourself.",
       "subtext": "",
       "isDelayNext": true,
       "isShowReflectionStart": true
