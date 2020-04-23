@@ -363,11 +363,11 @@
     },
     {
       "id": 46,
-      "img_url": "",
       "itemIdToUnlock": "4",
-      "subtext": "",
-      "text": "The End\n\nYour next story is:\n\n\"Cobby and the Game of Cowball\"",
-      "type": "MEMO"
+      "type": "MEMO",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/cobby_cover.png",
+      "text": "Your next story is:\n\"Cobby and the Game of Cowball\"",
+      "subtext": ""
     }
   ]
 }

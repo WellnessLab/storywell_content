@@ -453,9 +453,9 @@
     }, 
     {
       "id": 59,
-      "img_url": "", 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_flamingo_en/cover.jpg",
       "subtext": "", 
-      "text": "The End\n\nYour next story is:\n\n\"Fiona and the Case of Missing Carrots\"", 
+      "text": "Your next story is:\n\"Fiona and the Case of Missing Carrots\"",
       "type": "MEMO",
       "itemIdToUnlock": "8"
     }

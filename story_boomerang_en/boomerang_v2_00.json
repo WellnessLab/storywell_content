@@ -475,9 +475,9 @@
     }, 
     {
       "id": 62,
-      "img_url": "", 
-      "subtext": "", 
-      "text": "You have completed this storybook. Your next story is:\n\n\"Sydney the Sloth and the Uphill Ride\"", 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_sloth_en/cover.png",
+      "subtext": "",
+      "text": "Your next story is:\n\"Sydney the Sloth and the Uphill Ride\"",
       "type": "MEMO",
       "itemIdToUnlock": "6"
     }

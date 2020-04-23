@@ -332,10 +332,10 @@
       "type": "STATEMENT"
     }, 
     {
-      "id": 42, 
-      "img_url": "", 
+      "id": 42,
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_unicorn_en/cover.png",
       "subtext": "", 
-      "text": "The end\n\nYour next story is:\n\n\"Have You Ever Seen a Unicorn?\"", 
+      "text": "Your next story is:\n\"Have You Ever Seen a Unicorn?\"",
       "type": "MEMO",
       "itemIdToUnlock": "3"
     }

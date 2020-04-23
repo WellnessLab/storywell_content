@@ -426,9 +426,9 @@
     }, 
     {
       "id": 55,
-      "img_url": "", 
-      "subtext": "", 
-      "text": "You have completed this storybook. Your next story is:\n\n\"Leon is Hungry\"", 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_leon_en/cover.png",
+      "subtext": "",
+      "text": "Your next story is:\n\"Leon is Hungry\"",
       "type": "MEMO",
       "itemIdToUnlock": "7"
     }

@@ -447,9 +447,9 @@
     },
     {
       "id": 58,
-      "img_url": "", 
-      "subtext": "", 
-      "text": "The End\n\nYour next story is:\n\n\"Frank the Fish is Learning to Swim\"", 
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_fish_en/cover.jpg",
+      "text": "Your next story is:\n\"Frank the Fish is Learning to Swim\"",
+      "subtext": "",
       "type": "MEMO",
       "itemIdToUnlock": "9"
     }
