@@ -384,8 +384,8 @@
     {
       "id": 49,
       "type": "MEMO",
-      "img_url": "",
-      "text": "You have completed this storybook. Your next story is:\n\n\"Sally and the Boomerang School\"",
+      "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_boomerang_en/cover.png",
+      "text": "Your next story is:\n\"Sally and the Boomerang School\"",
       "subtext": "",
       "itemIdToUnlock": "5"
     }
