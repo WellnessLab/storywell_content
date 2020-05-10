@@ -108,7 +108,8 @@
       "isDelayNext": true, 
       "isShowReflectionStart": true, 
       "nextContentId": 14, 
-      "text": "Why was Frank impressed by the Grazing Meadow?", 
+      "text": "Why was Frank impressed by the Grazing Meadow?",
+      "subtext": "",
       "type": "REFLECTION"
     }, 
     {
