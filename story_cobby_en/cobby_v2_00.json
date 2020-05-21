@@ -56,21 +56,21 @@
       "id": 7,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_06.jpg",
-      "text": "Arthur, the Alpaca, says to Cobby, \"Hey, I couldn't jump very high when I began playing Hippominton. But now I can jump better.\"\n\n\"Think about the good feelings you have when you jump.\n\n\"So no matter how high or low you jumps, you will always feel good\"\n\nOther kids start to jump. Some kids bounce really high, other kids don't jump very high.",
+      "text": "Arthur, the Alpaca, says to Cobby, \"Hey, I couldn't jump very high when I began playing Hippominton. But now I can jump better.\"\n\n\"Think about the good feelings you have when you jump.\n\n\"So no matter how high or how low you can jump, you will always feel good\"\n\nOther kids start to jump. Some kids bounce really high. Other kids don't jump very high.",
       "subtext": null
     },
      {
       "id": 8,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_07.jpg",
-      "text": "Cobby says to himself, \"Think about the good feelings you have while you jump.\"\n\nHe leaps up high and notices that his body feels great when he jumps.",
+      "text": "Cobby says to himself, \"Think about how good you feel when you jump.\"\n\nHe leaps up high and notices that his body feels great when he jumps.",
       "subtext": null
     },
 	{
       "id": 9,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c1_08.jpg",
-      "text": "Cobby lands on the ground. Arthur, Bella, and Elena cheered! Cobby did not jump very high. But it felt good anyway!",
+      "text": "Cobby lands on the ground. Arthur, Bella, and Elena cheer.! Cobby did not jump very high. But it felt good anyway!",
       "subtext": null
     },
     {
@@ -128,7 +128,7 @@
       "id": 16,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c2_02.jpg",
-      "text": "\"Mommy, I want to play Cowball but nobody has the ball on this island,\" said Cobby.\n\n\"Oh I know what I can do,\" says Mommy Cow.\n\n\"Tomorrow is Saturday. First thing in the morning we ask our neighbors where we can get the ball for Cowball game,\" she says.",
+      "text": "\"Mommy, I want to play Cowball but nobody has the ball on this island,\" said Cobby.\n\n\"Oh I know what I can do,\" says Mommy Cow.\n\n\"Tomorrow is Saturday. First thing in the morning we will ask our neighbors where we can get the ball for the Cowball game,\" she says,\" she says.",
       "subtext": null
     },
     {
@@ -170,7 +170,7 @@
       "id": 22,
       "type": "GEOSTORY_SHARING",
       "img_url": null,
-      "text": "Cobby's neighbors helped him to be active. Can you tell me a story when a friend or a relative helped you to be active?",
+      "text": "Cobby's neighbors helped him to be active. Can you share me a story when a friend or a relative helped you to be active?",
       "subtext": "Being active means doing any activity that makes you sweat or become out of breath like running, playing on the playground, or playing sports like baseball or soccer.",
       "isDelayNext": true,
       "isShowReflectionStart": true,
@@ -207,7 +207,7 @@
       "id": 26,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c3_01.jpg",
-      "text": "Now that Cobby has a small Cowball he wants to teach his friends how to play the game. On Sunday afternoon, Cobby stops by Arthur's house to take him for a Cowball game with Bella and Dionne.",
+      "text": "Now that Cobby has a small Cowball he wants to teach his friends how to play the game. On Sunday afternoon, Cobby stops by Arthur's house to take him to a Cowball game with Bella and Dionne.",
       "subtext": null
     },
     {
@@ -221,7 +221,7 @@
       "id": 28,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c3_03.jpg",
-      "text": "Bella kicks the ball and runs then kicks the ball and runs. She finishes faster than Cobby!",
+      "text": "Bella kicks the ball and runs then, kicks the ball and runs again. She finishes faster than Cobby!",
       "subtext": null
     },
       {
@@ -263,8 +263,8 @@
       "id": 34,
       "type": "REFLECTION",
       "img_url": null,
-      "text": "Can you describe a fun sports game or exercise activity that you can do with your family this week?",
-      "subtext": "Activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, swimming.",
+      "text": "Can you describe a fun sports game or exercise that you can do with your family this week?",
+      "subtext": "Exercise is any activity that makes you sweat or become out of breath. For example, running, playing in the park, dancing, and swimming all count as exercise.",
       "isDelayNext": true,
       "isShowReflectionStart": true,
       "contentGroupId": "3",
@@ -316,14 +316,14 @@
       "id": 40,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c4_02.jpg",
-      "text": "Arthur and Elena can't run very fast. They can't run as fast as Bella. \"Cobby, I think the game isn't very  fun. Elena and I can't run very fast,\" says Arthur.",
+      "text": "Arthur and Elena can't run very fast. They can't run as fast as Bella. \"Cobby, I don't think this game is very fun.. Elena and I can't run very fast,\" says Arthur.",
       "subtext": null
     },
     {
       "id": 41,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c4_03.jpg",
-      "text": "Bella says, \"Cobbie can play Hippominton with us!\"\n\n\"But he doesn't like it very much because he doesn't think he can jump very high,\" said Arthur.",
+      "text": "Bella says, \"Bella says, \"Cobby can play Hippominton with us!\"!\"\n\n\"But he doesn't like it very much because he doesn't think he can jump very high,\" said Arthur.",
       "subtext": null
     },
     {
@@ -337,7 +337,7 @@
       "id": 43,
       "type": "PAGE",
       "img_url": "https://wellness-test.ccs.neu.edu/storytelling_contents/story_cobby_en/c4_05.jpg",
-      "text": "\"Ultimately, it's part Cowball and part Hippominton,\" says Mr. Jose to the kids.\n\n\"To play this game, one of you must run very fast and kick the ball from this pole to that pole. Then your teammate should grab the ball and throw it higher than the pole\"",
+      "text": "\"Ultimately, it's part Cowball and part Hippominton,\" says Mr. Jose to the kids.\n\n\"To play this game, one of you must run very fast and kick the ball from this pole to that pole. Then, your teammate should grab the ball and throw it higher than the pole\"",
       "subtext": null
     },
     {
@@ -365,7 +365,7 @@
       "id": 47,
       "type": "GEOSTORY_SHARING",
       "img_url": null,
-      "text": "Cobby plays a different game because being active with his friends and family makes him happy. Tell a your story about a family physical activity that makes you happy.",
+      "text": "Cobby plays a different game because being active with his friends and family makes him happy. Can you share a story about when a friend or a relative helped you to be active?",
       "subtext": "Physical activity is any activity that makes you sweat or become out of breath like speed walking, riding a bike, or hiking.",
       "isDelayNext": true,
       "isShowReflectionStart": true,
@@ -377,7 +377,7 @@
       "id": 48,
       "type": "STATEMENT",
       "img_url": "",
-      "text": "Being physically active together makes you healthy and you get more time to be together with your family.",
+      "text": "Being physically active together can help you stay healthy, and gives you more time to be together with your family.",
       "subtext": "",
       "isInviteMoodLog": true
     },
